@@ -1,0 +1,4099 @@
+[
+  {
+    "species": "Aalivirus apekidu",
+    "GA": "GCF_000919155.1",
+    "size": "8,976",
+    "gc": "43",
+    "genes": "1"
+  },
+  {
+    "species": "Adeno-associated virus",
+    "GA": "GCF_004129875.1",
+    "size": "4,857",
+    "gc": "51",
+    "genes": "2"
+  },
+  {
+    "species": "Albatrosspox virus",
+    "GA": "GCA_023528145.1",
+    "size": "351,909",
+    "gc": "30"
+  },
+  {
+    "species": "Alphainfluenzavirus influenzae",
+    "GA": "GCF_000864105.1",
+    "size": "13,590",
+    "gc": "44",
+    "genes": "12"
+  },
+  {
+    "species": "Anas platyrhynchos papillomavirus 2",
+    "GA": "GCA_031259165.1",
+    "size": "8,350",
+    "gc": "48.5",
+    "genes": "6"
+  },
+  {
+    "species": "Anativirus biphaco",
+    "GA": "GCF_013087335.1",
+    "size": "8,204",
+    "gc": "40.5",
+    "genes": "1"
+  },
+  {
+    "species": "Anser fabalis coronavirus NCN2",
+    "GA": "GCA_031259465.1",
+    "size": "28,466",
+    "gc": "38.5"
+  },
+  {
+    "species": "Antarctic virus 1_II_CPGEORsw003Ad",
+    "GA": "GCA_031220185.1",
+    "size": "2,322",
+    "gc": "53.5"
+  },
+  {
+    "species": "Antarctic virus 1_II_CPGEORsw003Ch",
+    "GA": "GCA_031220215.1",
+    "size": "2,322",
+    "gc": "53.5"
+  },
+  {
+    "species": "Antarctic virus 1_I_CPGEORsw001Ad",
+    "GA": "GCA_031222645.1",
+    "size": "2,323",
+    "gc": "53"
+  },
+  {
+    "species": "Antarctic virus 1_I_CPGEORsw002Ad",
+    "GA": "GCA_031222685.1",
+    "size": "2,323",
+    "gc": "53"
+  },
+  {
+    "species": "Antarctic virus 2_I_GPYANKsw001Ad",
+    "GA": "GCA_031222755.1",
+    "size": "1,944",
+    "gc": "48"
+  },
+  {
+    "species": "Antarctic virus 2_I_GPYANKsw001Ch",
+    "GA": "GCA_031222775.1",
+    "size": "1,944",
+    "gc": "48"
+  },
+  {
+    "species": "Antarctic virus 2_I_GPYANKsw002Ad",
+    "GA": "GCA_031222785.1",
+    "size": "1,944",
+    "gc": "48"
+  },
+  {
+    "species": "Antarctic virus 2_I_GPYANKsw003Ad",
+    "GA": "GCA_031222815.1",
+    "size": "1,944",
+    "gc": "48"
+  },
+  {
+    "species": "Antarctic virus 2_I_GPYANKsw004Ad",
+    "GA": "GCA_031222865.1",
+    "size": "1,944",
+    "gc": "48"
+  },
+  {
+    "species": "Antarctic virus 3_III_KPSTAsw010Ad",
+    "GA": "GCA_031222875.1",
+    "size": "2,713",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 3_III_KPSTAsw014Ch",
+    "GA": "GCA_031222925.1",
+    "size": "2,712",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 3_III_KPSTAsw016Ch",
+    "GA": "GCA_031222945.1",
+    "size": "2,712",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 3_III_KPSTAsw018Ch",
+    "GA": "GCA_031223005.1",
+    "size": "2,713",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 3_III_KPSTAsw019Ch",
+    "GA": "GCA_031223025.1",
+    "size": "2,712",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 3_II_CPHALFsw005Ad",
+    "GA": "GCA_031223085.1",
+    "size": "2,705",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 3_IV_KPSTAsw015Ch",
+    "GA": "GCA_031223095.1",
+    "size": "2,709",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 3_I_CPHALFsw004Ad",
+    "GA": "GCA_031223155.1",
+    "size": "2,720",
+    "gc": "50"
+  },
+  {
+    "species": "Antarctic virus 3_V_CPHALFsw003Ad",
+    "GA": "GCA_031223215.1",
+    "size": "2,689",
+    "gc": "50"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw004Ad",
+    "GA": "GCA_031223245.1",
+    "size": "2,728",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw014Ch",
+    "GA": "GCA_031223275.1",
+    "size": "2,728",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw015Ch",
+    "GA": "GCA_031223325.1",
+    "size": "2,728",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw016Ch",
+    "GA": "GCA_031223345.1",
+    "size": "2,727",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw017Ch",
+    "GA": "GCA_031223385.1",
+    "size": "2,728",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw018Ch",
+    "GA": "GCA_031223425.1",
+    "size": "2,729",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_II_KPSTAsw019Ch",
+    "GA": "GCA_031223465.1",
+    "size": "2,729",
+    "gc": "50.5"
+  },
+  {
+    "species": "Antarctic virus 4_I_KPSTAsw001Ad",
+    "GA": "GCA_031223515.1",
+    "size": "2,721",
+    "gc": "51.5"
+  },
+  {
+    "species": "Antarctic virus 4_I_KPSTAsw002Ad",
+    "GA": "GCA_031223535.1",
+    "size": "2,721",
+    "gc": "51.5"
+  },
+  {
+    "species": "Antarctic virus 4_I_KPSTAsw008Ad",
+    "GA": "GCA_031223575.1",
+    "size": "2,721",
+    "gc": "51.5"
+  },
+  {
+    "species": "Antarctic virus 4_I_KPSTAsw009Ad",
+    "GA": "GCA_031223625.1",
+    "size": "2,721",
+    "gc": "51.5"
+  },
+  {
+    "species": "Antarctic virus 4_I_KPSTAsw010Ad",
+    "GA": "GCA_031223635.1",
+    "size": "2,721",
+    "gc": "51.5"
+  },
+  {
+    "species": "Antarctic virus 5_I_KPSTAsw001Ad",
+    "GA": "GCA_031223695.1",
+    "size": "2,719",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 5_I_KPSTAsw002Ad",
+    "GA": "GCA_031223715.1",
+    "size": "2,719",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 5_I_KPSTAsw008Ad",
+    "GA": "GCA_031223735.1",
+    "size": "2,719",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 5_I_KPSTAsw009Ad",
+    "GA": "GCA_031223745.1",
+    "size": "2,719",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 5_I_KPSTAsw018Ch",
+    "GA": "GCA_031223755.1",
+    "size": "2,719",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 5_I_KPSTAsw020Ch",
+    "GA": "GCA_031223765.1",
+    "size": "2,719",
+    "gc": "49.5"
+  },
+  {
+    "species": "Antarctic virus 6_I_APBOOTsw001Ad",
+    "GA": "GCA_031223775.1",
+    "size": "2,329",
+    "gc": "49"
+  },
+  {
+    "species": "Antarctic virus 6_I_APBOOTsw001Ch",
+    "GA": "GCA_031223905.1",
+    "size": "2,329",
+    "gc": "49"
+  },
+  {
+    "species": "Apteryx rowi circovirus-like virus",
+    "GA": "GCF_004129215.1",
+    "size": "2,085",
+    "gc": "46",
+    "genes": "2"
+  },
+  {
+    "species": "Astroviridae sp.",
+    "GA": "GCA_031323405.1",
+    "size": "8,840",
+    "gc": "42"
+  },
+  {
+    "species": "Astrovirus Er/SZAL6/HUN/2011",
+    "GA": "GCF_001045265.1",
+    "size": "7,025",
+    "gc": "52.5",
+    "genes": "3"
+  },
+  {
+    "species": "Aveparvovirus gruiform1",
+    "GA": "GCF_004130255.1",
+    "size": "5,515",
+    "gc": "54",
+    "genes": "4"
+  },
+  {
+    "species": "Aveparvovirus sp.",
+    "GA": "GCA_031199785.1",
+    "size": "6,092",
+    "gc": "45"
+  },
+  {
+    "species": "Aviadenovirus leucophthalmi",
+    "GA": "GCF_023131475.1",
+    "size": "35,595",
+    "gc": "52.5",
+    "genes": "25"
+  },
+  {
+    "species": "Aviadenovirus sp.",
+    "GA": "GCA_034408845.1",
+    "size": "40,727",
+    "gc": "49.5"
+  },
+  {
+    "species": "Avian HDV-like agent",
+    "GA": "GCF_004134625.1",
+    "size": "1,706",
+    "gc": "51",
+    "genes": "1"
+  },
+  {
+    "species": "Avian astrovirus",
+    "GA": "GCA_031163175.1",
+    "size": "6,900",
+    "gc": "48.5",
+    "genes": "3"
+  },
+  {
+    "species": "Avian chapparvovirus",
+    "GA": "GCF_029884985.1",
+    "size": "4,425",
+    "gc": "40.5",
+    "genes": "3"
+  },
+  {
+    "species": "Avian coronavirus",
+    "GA": "GCF_012271575.1",
+    "size": "27,464",
+    "gc": "38",
+    "genes": "6"
+  },
+  {
+    "species": "Avian endogenous retrovirus EAV-HP",
+    "GA": "GCF_000859965.1",
+    "size": "4,302",
+    "gc": "53",
+    "genes": "1"
+  },
+  {
+    "species": "Avian gyrovirus 13",
+    "GA": "GCA_031236215.1",
+    "size": "2,195",
+    "gc": "46.5",
+    "genes": "2"
+  },
+  {
+    "species": "Avian leukosis virus",
+    "GA": "GCF_000891575.1",
+    "size": "7,489",
+    "gc": "53",
+    "genes": "3"
+  },
+  {
+    "species": "Avian megrivirus",
+    "GA": "GCA_031321445.1",
+    "size": "9,594",
+    "gc": "47"
+  },
+  {
+    "species": "Avian metaavulavirus 21",
+    "GA": "GCF_018586885.1",
+    "size": "16,914",
+    "gc": "40.5",
+    "genes": "6"
+  },
+  {
+    "species": "Avian nephritis virus",
+    "GA": "GCA_031155505.1",
+    "size": "6,959",
+    "gc": "45.5"
+  },
+  {
+    "species": "Avian orthoreovirus",
+    "GA": "GCF_003092915.1",
+    "size": "23,593",
+    "gc": "48.5",
+    "genes": "12"
+  },
+  {
+    "species": "Avian paramyxovirus 17",
+    "GA": "GCF_013087815.1",
+    "size": "15,408",
+    "gc": "52",
+    "genes": "6"
+  },
+  {
+    "species": "Avibirnavirus gumboroense",
+    "GA": "GCF_000855485.1",
+    "size": "5,898",
+    "gc": "53.5",
+    "genes": "3"
+  },
+  {
+    "species": "Avipoxvirus sp.",
+    "GA": "GCA_033951315.1",
+    "size": "113,506",
+    "gc": "31",
+    "genes": "108"
+  },
+  {
+    "species": "Avisivirus A",
+    "GA": "GCF_002816595.1",
+    "size": "7,373",
+    "gc": "45",
+    "genes": "1"
+  },
+  {
+    "species": "Avisivirus AVE052/AsV",
+    "GA": "GCA_031171275.1",
+    "size": "7,342",
+    "gc": "46"
+  },
+  {
+    "species": "Avisivirus B",
+    "GA": "GCF_000924115.1",
+    "size": "7,310",
+    "gc": "48.5",
+    "genes": "1"
+  },
+  {
+    "species": "Avisivirus C",
+    "GA": "GCF_000923475.1",
+    "size": "7,167",
+    "gc": "45",
+    "genes": "1"
+  },
+  {
+    "species": "Avisivirus Pf-CHK1/AsV",
+    "GA": "GCF_001502795.1",
+    "size": "7,270",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Avon-Heathcote Estuary associated circular virus 25",
+    "GA": "GCF_000954435.1",
+    "size": "2,142",
+    "gc": "42",
+    "genes": "2"
+  },
+  {
+    "species": "Balagodu virus",
+    "GA": "GCF_029887365.1",
+    "size": "12,557",
+    "gc": "36.5",
+    "genes": "3"
+  },
+  {
+    "species": "Bald eagle hepacivirus",
+    "GA": "GCA_031193265.1",
+    "size": "11,013",
+    "gc": "47"
+  },
+  {
+    "species": "Bavaria virus",
+    "GA": "GCF_001963095.1",
+    "size": "8,176",
+    "gc": "54",
+    "genes": "2"
+  },
+  {
+    "species": "Belem virus",
+    "GA": "GCF_029887655.1",
+    "size": "12,765",
+    "gc": "35.5",
+    "genes": "4"
+  },
+  {
+    "species": "Blackbird arilivirus",
+    "GA": "GCF_004132805.1",
+    "size": "9,228",
+    "gc": "48",
+    "genes": "2"
+  },
+  {
+    "species": "Bobaya virus",
+    "GA": "GCF_029888205.1",
+    "size": "12,536",
+    "gc": "36",
+    "genes": "3"
+  },
+  {
+    "species": "Bulbul coronavirus HKU11",
+    "GA": "GCF_002816215.1",
+    "size": "26,487",
+    "gc": "38.5",
+    "genes": "9"
+  },
+  {
+    "species": "Cacatuid alphaherpesvirus 2",
+    "GA": "GCF_027939225.1",
+    "size": "141,537",
+    "gc": "46",
+    "genes": "79"
+  },
+  {
+    "species": "Calicivirus chicken/V0021/Bayern/2004",
+    "GA": "GCF_004786895.1",
+    "size": "7,908",
+    "gc": "54",
+    "genes": "2"
+  },
+  {
+    "species": "Canada goose coronavirus",
+    "GA": "GCF_012271745.1",
+    "size": "28,539",
+    "gc": "38.5",
+    "genes": "16"
+  },
+  {
+    "species": "Canarypox virus",
+    "GA": "GCF_000841685.1",
+    "size": "359,853",
+    "gc": "30.5",
+    "genes": "328"
+  },
+  {
+    "species": "Caudoviricetes sp.",
+    "GA": "GCA_003657725.1",
+    "size": "419,387",
+    "gc": "27.5"
+  },
+  {
+    "species": "Chaphamaparvovirus anseriform1",
+    "GA": "GCF_029885285.1",
+    "size": "4,382",
+    "gc": "40.5",
+    "genes": "4"
+  },
+  {
+    "species": "Chaphamaparvovirus anseriform2",
+    "GA": "GCF_029885295.1",
+    "size": "4,302",
+    "gc": "39.5",
+    "genes": "4"
+  },
+  {
+    "species": "Chaphamaparvovirus anseriform3",
+    "GA": "GCF_029885305.1",
+    "size": "4,387",
+    "gc": "39",
+    "genes": "4"
+  },
+  {
+    "species": "Chaphamaparvovirus anseriform4",
+    "GA": "GCF_029885275.1",
+    "size": "4,323",
+    "gc": "39",
+    "genes": "4"
+  },
+  {
+    "species": "Chaphamaparvovirus anseriform5",
+    "GA": "GCF_029885885.1",
+    "size": "4,231",
+    "gc": "41",
+    "genes": "4"
+  },
+  {
+    "species": "Chaphamaparvovirus anseriform6",
+    "GA": "GCF_029885895.1",
+    "size": "4,087",
+    "gc": "41",
+    "genes": "4"
+  },
+  {
+    "species": "Chaphamaparvovirus galliform1",
+    "GA": "GCF_013087235.1",
+    "size": "3,539",
+    "gc": "40",
+    "genes": "2"
+  },
+  {
+    "species": "Chaphamaparvovirus galliform2",
+    "GA": "GCF_013087825.1",
+    "size": "4,432",
+    "gc": "39.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chaphamaparvovirus galliform3",
+    "GA": "GCF_013087285.1",
+    "size": "3,661",
+    "gc": "39.5",
+    "genes": "1"
+  },
+  {
+    "species": "Chaphamaparvovirus galliform4",
+    "GA": "GCF_018587365.1",
+    "size": "4,428",
+    "gc": "42.5",
+    "genes": "3"
+  },
+  {
+    "species": "Chaphamaparvovirus galliform5",
+    "GA": "GCF_018587395.1",
+    "size": "4,348",
+    "gc": "42",
+    "genes": "3"
+  },
+  {
+    "species": "Chaphamaparvovirus psittacine1",
+    "GA": "GCF_018587825.1",
+    "size": "4,116",
+    "gc": "42.5",
+    "genes": "3"
+  },
+  {
+    "species": "Chaphamaparvovirus strigiform1",
+    "GA": "GCF_029885625.1",
+    "size": "4,219",
+    "gc": "41",
+    "genes": "3"
+  },
+  {
+    "species": "Chapparvovirus sp.",
+    "GA": "GCA_031176495.1",
+    "size": "4,181",
+    "gc": "34.5"
+  },
+  {
+    "species": "Chatham orthoreovirus",
+    "GA": "GCA_031528425.1",
+    "size": "23,498",
+    "gc": "48"
+  },
+  {
+    "species": "Chestnut teal chaphamaparvovirus 1",
+    "GA": "GCF_029885285.1",
+    "size": "4,382",
+    "gc": "40.5",
+    "genes": "4"
+  },
+  {
+    "species": "Chestnut teal chaphamaparvovirus 2",
+    "GA": "GCF_029885295.1",
+    "size": "4,302",
+    "gc": "39.5",
+    "genes": "4"
+  },
+  {
+    "species": "Chestnut teal chaphamaparvovirus 3",
+    "GA": "GCF_029885305.1",
+    "size": "4,387",
+    "gc": "39",
+    "genes": "4"
+  },
+  {
+    "species": "Chicken associated smacovirus",
+    "GA": "GCF_003963755.1",
+    "size": "2,343",
+    "gc": "40",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken astrovirus",
+    "GA": "GCF_000852205.1",
+    "size": "6,927",
+    "gc": "46.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken circovirus 2",
+    "GA": "GCA_031201085.1",
+    "size": "2,001",
+    "gc": "34.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken circovirus 4",
+    "GA": "GCA_031198535.1",
+    "size": "2,031",
+    "gc": "31",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken circovirus 5",
+    "GA": "GCA_031198515.1",
+    "size": "1,936",
+    "gc": "43.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken circovirus SDWF",
+    "GA": "GCA_031185315.1",
+    "size": "1,911",
+    "gc": "37",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken cyclovirus mg4_1122",
+    "GA": "GCA_031200465.1",
+    "size": "1,847",
+    "gc": "42.5"
+  },
+  {
+    "species": "Chicken cyclovirus mg5_2967",
+    "GA": "GCA_031200475.1",
+    "size": "1,902",
+    "gc": "49.5"
+  },
+  {
+    "species": "Chicken cyclovirus mg7_102",
+    "GA": "GCA_031200485.1",
+    "size": "1,910",
+    "gc": "49.5"
+  },
+  {
+    "species": "Chicken genomovirus mg2_274u",
+    "GA": "GCA_031200365.1",
+    "size": "2,206",
+    "gc": "50"
+  },
+  {
+    "species": "Chicken genomovirus mg2_75",
+    "GA": "GCA_031200375.1",
+    "size": "2,144",
+    "gc": "49"
+  },
+  {
+    "species": "Chicken genomovirus mg2_77",
+    "GA": "GCA_031200385.1",
+    "size": "2,127",
+    "gc": "50.5"
+  },
+  {
+    "species": "Chicken genomovirus mg4_1107",
+    "GA": "GCA_031200395.1",
+    "size": "2,270",
+    "gc": "51"
+  },
+  {
+    "species": "Chicken genomovirus mg4_1196",
+    "GA": "GCA_031200405.1",
+    "size": "2,191",
+    "gc": "49.5"
+  },
+  {
+    "species": "Chicken genomovirus mg4_1210",
+    "GA": "GCA_031200415.1",
+    "size": "2,180",
+    "gc": "50.5"
+  },
+  {
+    "species": "Chicken genomovirus mg4_1259",
+    "GA": "GCA_031200425.1",
+    "size": "2,145",
+    "gc": "50"
+  },
+  {
+    "species": "Chicken genomovirus mg7_70",
+    "GA": "GCA_031200435.1",
+    "size": "2,236",
+    "gc": "54"
+  },
+  {
+    "species": "Chicken genomovirus mg7_74",
+    "GA": "GCA_031200445.1",
+    "size": "2,182",
+    "gc": "50.5"
+  },
+  {
+    "species": "Chicken genomovirus mg8_416",
+    "GA": "GCA_031200455.1",
+    "size": "2,161",
+    "gc": "49"
+  },
+  {
+    "species": "Chicken picobirnavirus",
+    "GA": "GCF_004117635.1",
+    "size": "4,232",
+    "gc": "45",
+    "genes": "4"
+  },
+  {
+    "species": "Chicken picornavirus 1",
+    "GA": "GCF_000923455.1",
+    "size": "8,287",
+    "gc": "55.5",
+    "genes": "1"
+  },
+  {
+    "species": "Chicken picornavirus 4",
+    "GA": "GCF_000922415.1",
+    "size": "9,564",
+    "gc": "44.5",
+    "genes": "1"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 1",
+    "GA": "GCA_031268925.1",
+    "size": "1,858",
+    "gc": "46",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 10",
+    "GA": "GCA_031269125.1",
+    "size": "3,843",
+    "gc": "30.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 11",
+    "GA": "GCA_031269185.1",
+    "size": "4,890",
+    "gc": "35",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 14",
+    "GA": "GCA_031269325.1",
+    "size": "1,654",
+    "gc": "47",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 15",
+    "GA": "GCA_031269375.1",
+    "size": "1,787",
+    "gc": "44",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 16",
+    "GA": "GCA_031269445.1",
+    "size": "1,697",
+    "gc": "47.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 17",
+    "GA": "GCA_031269455.1",
+    "size": "1,181",
+    "gc": "41.5",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 18",
+    "GA": "GCA_031269495.1",
+    "size": "1,031",
+    "gc": "40.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 19",
+    "GA": "GCA_031269555.1",
+    "size": "3,167",
+    "gc": "41.5",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 2",
+    "GA": "GCA_031268945.1",
+    "size": "1,623",
+    "gc": "46.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 20",
+    "GA": "GCA_031269585.1",
+    "size": "1,411",
+    "gc": "44.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 21",
+    "GA": "GCA_031269625.1",
+    "size": "1,813",
+    "gc": "43",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 22",
+    "GA": "GCA_031269695.1",
+    "size": "1,852",
+    "gc": "40",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 23",
+    "GA": "GCA_031269715.1",
+    "size": "1,866",
+    "gc": "43",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 24",
+    "GA": "GCA_031269745.1",
+    "size": "1,793",
+    "gc": "46",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 26",
+    "GA": "GCA_031269805.1",
+    "size": "1,948",
+    "gc": "48.5",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 27",
+    "GA": "GCA_031269835.1",
+    "size": "1,953",
+    "gc": "41",
+    "genes": "1"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 28",
+    "GA": "GCA_031269855.1",
+    "size": "1,830",
+    "gc": "45",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 29",
+    "GA": "GCA_031269885.1",
+    "size": "1,726",
+    "gc": "48",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 3",
+    "GA": "GCA_031269005.1",
+    "size": "2,070",
+    "gc": "39",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 30",
+    "GA": "GCA_031269975.1",
+    "size": "3,345",
+    "gc": "50",
+    "genes": "4"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 4",
+    "GA": "GCA_031269055.1",
+    "size": "1,240",
+    "gc": "38.5",
+    "genes": "1"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 5",
+    "GA": "GCA_031269085.1",
+    "size": "1,531",
+    "gc": "42.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 7",
+    "GA": "GCA_031269215.1",
+    "size": "1,894",
+    "gc": "44",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 8",
+    "GA": "GCA_031269265.1",
+    "size": "1,931",
+    "gc": "42.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken proventriculitis-associated circular virus 9",
+    "GA": "GCA_031269305.1",
+    "size": "1,809",
+    "gc": "42.5",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken smacovirus mg2_55",
+    "GA": "GCA_031200495.1",
+    "size": "2,452",
+    "gc": "54.5"
+  },
+  {
+    "species": "Chicken smacovirus mg5_1444",
+    "GA": "GCA_031200505.1",
+    "size": "2,394",
+    "gc": "50"
+  },
+  {
+    "species": "Chicken smacovirus mg6_1052",
+    "GA": "GCA_031200515.1",
+    "size": "2,574",
+    "gc": "51.5"
+  },
+  {
+    "species": "Chicken smacovirus mg7_57",
+    "GA": "GCA_031200525.1",
+    "size": "2,573",
+    "gc": "52"
+  },
+  {
+    "species": "Chicken smacovirus mg8_345",
+    "GA": "GCA_031200595.1",
+    "size": "2,405",
+    "gc": "50.5"
+  },
+  {
+    "species": "Chicken stool associated circular virus 1",
+    "GA": "GCF_003729875.1",
+    "size": "3,173",
+    "gc": "48",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken stool associated circular virus 2",
+    "GA": "GCF_003729855.1",
+    "size": "3,161",
+    "gc": "48",
+    "genes": "2"
+  },
+  {
+    "species": "Chicken stool-associated circular virus",
+    "GA": "GCF_001968175.1",
+    "size": "4,668",
+    "gc": "43.5",
+    "genes": "3"
+  },
+  {
+    "species": "Chicken virus mg4_1578",
+    "GA": "GCA_031200215.1",
+    "size": "1,933",
+    "gc": "33"
+  },
+  {
+    "species": "Chicken virus mg4_2302",
+    "GA": "GCA_031200225.1",
+    "size": "1,690",
+    "gc": "47.5"
+  },
+  {
+    "species": "Chicken virus mg4_280",
+    "GA": "GCA_031200255.1",
+    "size": "1,934",
+    "gc": "38"
+  },
+  {
+    "species": "Chicken virus mg4_657",
+    "GA": "GCA_031200265.1",
+    "size": "2,863",
+    "gc": "41.5"
+  },
+  {
+    "species": "Chicken virus mg5_1345",
+    "GA": "GCA_031200275.1",
+    "size": "2,443",
+    "gc": "50"
+  },
+  {
+    "species": "Chicken virus mg5_2197",
+    "GA": "GCA_031200285.1",
+    "size": "2,093",
+    "gc": "44.5"
+  },
+  {
+    "species": "Chicken virus mg5_2676",
+    "GA": "GCA_031200295.1",
+    "size": "1,962",
+    "gc": "38"
+  },
+  {
+    "species": "Chicken virus mg6_1197",
+    "GA": "GCA_031200305.1",
+    "size": "2,455",
+    "gc": "50.5"
+  },
+  {
+    "species": "Chicken virus mg6_2056",
+    "GA": "GCA_031200315.1",
+    "size": "1,977",
+    "gc": "36.5"
+  },
+  {
+    "species": "Chicken virus mg7_41u",
+    "GA": "GCA_031200325.1",
+    "size": "2,163",
+    "gc": "50"
+  },
+  {
+    "species": "Chicken virus mg7_59",
+    "GA": "GCA_031200335.1",
+    "size": "2,543",
+    "gc": "51"
+  },
+  {
+    "species": "Chicken virus mg8_273",
+    "GA": "GCA_031200345.1",
+    "size": "2,862",
+    "gc": "41.5"
+  },
+  {
+    "species": "Chicken virus mg8_324",
+    "GA": "GCA_031200355.1",
+    "size": "2,539",
+    "gc": "51"
+  },
+  {
+    "species": "Chimeric virus 14",
+    "GA": "GCF_001021315.1",
+    "size": "3,141",
+    "gc": "40",
+    "genes": "2"
+  },
+  {
+    "species": "Circoviridae TaCV1",
+    "GA": "GCA_003389855.1",
+    "size": "3,398",
+    "gc": "33"
+  },
+  {
+    "species": "Circoviridae TaCV2",
+    "GA": "GCA_003389875.1",
+    "size": "2,967",
+    "gc": "33"
+  },
+  {
+    "species": "Circoviridae sp.",
+    "GA": "GCF_003656925.1",
+    "size": "2,780",
+    "gc": "40.5",
+    "genes": "2"
+  },
+  {
+    "species": "Circovirus canary",
+    "GA": "GCF_000846785.1",
+    "size": "1,952",
+    "gc": "51.5",
+    "genes": "4"
+  },
+  {
+    "species": "Circovirus duck",
+    "GA": "GCF_000864045.1",
+    "size": "1,991",
+    "gc": "51",
+    "genes": "4"
+  },
+  {
+    "species": "Circovirus finch",
+    "GA": "GCF_000869525.1",
+    "size": "1,962",
+    "gc": "54.5",
+    "genes": "3"
+  },
+  {
+    "species": "Circovirus goose",
+    "GA": "GCF_000837325.1",
+    "size": "1,821",
+    "gc": "49",
+    "genes": "4"
+  },
+  {
+    "species": "Circovirus gull",
+    "GA": "GCF_000870205.1",
+    "size": "2,035",
+    "gc": "51",
+    "genes": "3"
+  },
+  {
+    "species": "Circovirus penguin",
+    "GA": "GCF_018587745.1",
+    "size": "1,988",
+    "gc": "50",
+    "genes": "2"
+  },
+  {
+    "species": "Circovirus pigeon",
+    "GA": "GCF_000843885.1",
+    "size": "2,037",
+    "gc": "55.5",
+    "genes": "5"
+  },
+  {
+    "species": "Circovirus raven",
+    "GA": "GCF_000869425.1",
+    "size": "1,898",
+    "gc": "51.5",
+    "genes": "2"
+  },
+  {
+    "species": "Circovirus sp.",
+    "GA": "GCA_004043995.1",
+    "size": "2,288",
+    "gc": "53",
+    "genes": "2"
+  },
+  {
+    "species": "Circovirus starling",
+    "GA": "GCF_000868125.1",
+    "size": "2,063",
+    "gc": "50.5",
+    "genes": "3"
+  },
+  {
+    "species": "Circovirus swan",
+    "GA": "GCF_000925255.1",
+    "size": "1,783",
+    "gc": "51",
+    "genes": "2"
+  },
+  {
+    "species": "Circovirus zebrafinch",
+    "GA": "GCF_000989035.1",
+    "size": "1,982",
+    "gc": "56",
+    "genes": "4"
+  },
+  {
+    "species": "Common moorhen coronavirus HKU21",
+    "GA": "GCF_000896895.1",
+    "size": "26,223",
+    "gc": "35",
+    "genes": "9"
+  },
+  {
+    "species": "Corvid orthoreovirus",
+    "GA": "GCA_031528435.1",
+    "size": "23,578",
+    "gc": "50.5",
+    "genes": "12"
+  },
+  {
+    "species": "Cressdnaviricota sp.",
+    "GA": "GCF_023141935.1",
+    "size": "2,191",
+    "gc": "58",
+    "genes": "2"
+  },
+  {
+    "species": "Crowpox virus",
+    "GA": "GCA_031314235.1",
+    "size": "328,768",
+    "gc": "29.5",
+    "genes": "403"
+  },
+  {
+    "species": "Crucivirus sp.",
+    "GA": "GCA_031190105.1",
+    "size": "6,350",
+    "gc": "42.5"
+  },
+  {
+    "species": "Culex negev-like virus 3",
+    "GA": "GCA_036852075.1",
+    "size": "9,325",
+    "gc": "37"
+  },
+  {
+    "species": "Cyanoramphus nest associated circular K DNA virus",
+    "GA": "GCF_000918055.1",
+    "size": "2,087",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Cyanoramphus nest associated circular X DNA virus",
+    "GA": "GCF_000919075.1",
+    "size": "2,308",
+    "gc": "49.5",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus adie",
+    "GA": "GCF_002819905.1",
+    "size": "1,760",
+    "gc": "44.5",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus cervienka",
+    "GA": "GCF_029886325.1",
+    "size": "1,829",
+    "gc": "39.5",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus kacsa",
+    "GA": "GCF_002194385.1",
+    "size": "1,902",
+    "gc": "49.5",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus liepsnele",
+    "GA": "GCF_029886335.1",
+    "size": "1,846",
+    "gc": "39",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus naahoohai",
+    "GA": "GCF_004133245.1",
+    "size": "1,778",
+    "gc": "41",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus pettirosso",
+    "GA": "GCF_029886285.1",
+    "size": "1,939",
+    "gc": "49",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus prihor",
+    "GA": "GCF_029886315.1",
+    "size": "1,930",
+    "gc": "34.5",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus punarinta",
+    "GA": "GCF_029886295.1",
+    "size": "1,806",
+    "gc": "38.5",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus rudzik",
+    "GA": "GCF_029886305.1",
+    "size": "1,882",
+    "gc": "42",
+    "genes": "2"
+  },
+  {
+    "species": "Cyclovirus totoi",
+    "GA": "GCF_029886275.1",
+    "size": "1,916",
+    "gc": "40.5",
+    "genes": "2"
+  },
+  {
+    "species": "Deltacoronavirus HNU1-1",
+    "GA": "GCA_031243005.1",
+    "size": "26,289",
+    "gc": "42",
+    "genes": "9"
+  },
+  {
+    "species": "Deltacoronavirus HNU1-2",
+    "GA": "GCA_031243015.1",
+    "size": "26,289",
+    "gc": "42",
+    "genes": "9"
+  },
+  {
+    "species": "Deltacoronavirus HNU2",
+    "GA": "GCA_031243035.1",
+    "size": "26,240",
+    "gc": "41.5",
+    "genes": "9"
+  },
+  {
+    "species": "Deltacoronavirus HNU3",
+    "GA": "GCA_031243025.1",
+    "size": "26,208",
+    "gc": "42",
+    "genes": "9"
+  },
+  {
+    "species": "Deltacoronavirus sp.",
+    "GA": "GCA_031163155.1",
+    "size": "26,159",
+    "gc": "40",
+    "genes": "10"
+  },
+  {
+    "species": "Dependoparvovirus anseriform1",
+    "GA": "GCF_000845505.1",
+    "size": "5,132",
+    "gc": "46",
+    "genes": "2"
+  },
+  {
+    "species": "Dependoparvovirus avian1",
+    "GA": "GCF_029884995.1",
+    "size": "4,642",
+    "gc": "57.5",
+    "genes": "4"
+  },
+  {
+    "species": "Duck astrovirus CPH",
+    "GA": "GCA_031160965.1",
+    "size": "7,463",
+    "gc": "43"
+  },
+  {
+    "species": "Duck astrovirus GII.A",
+    "GA": "GCF_000883675.1",
+    "size": "7,722",
+    "gc": "41.5",
+    "genes": "3"
+  },
+  {
+    "species": "Duck atadenovirus A",
+    "GA": "GCF_000845945.1",
+    "size": "33,213",
+    "gc": "43",
+    "genes": "30"
+  },
+  {
+    "species": "Duck aviadenovirus B",
+    "GA": "GCF_000923915.1",
+    "size": "43,734",
+    "gc": "46",
+    "genes": "36"
+  },
+  {
+    "species": "Duck calicivirus 2",
+    "GA": "GCA_031192985.1",
+    "size": "8,293",
+    "gc": "54.5",
+    "genes": "2"
+  },
+  {
+    "species": "Duck circovirus 3",
+    "GA": "GCA_031321665.1",
+    "size": "1,755",
+    "gc": "50.5"
+  },
+  {
+    "species": "Duck faeces associated circular DNA virus 1",
+    "GA": "GCF_001646015.1",
+    "size": "2,750",
+    "gc": "43",
+    "genes": "2"
+  },
+  {
+    "species": "Duck faeces associated circular DNA virus 2",
+    "GA": "GCF_001646195.1",
+    "size": "1,845",
+    "gc": "32",
+    "genes": "2"
+  },
+  {
+    "species": "Duck faeces associated circular DNA virus 3",
+    "GA": "GCF_001646395.1",
+    "size": "1,856",
+    "gc": "28",
+    "genes": "2"
+  },
+  {
+    "species": "Duck hepatitis B virus",
+    "GA": "GCF_000844545.1",
+    "size": "3,024",
+    "gc": "43",
+    "genes": "5"
+  },
+  {
+    "species": "Duck infectious anemia virus",
+    "GA": "GCA_031155845.1",
+    "size": "8,447",
+    "gc": "52"
+  },
+  {
+    "species": "Duck papillomavirus 3",
+    "GA": "GCA_031189275.1",
+    "size": "7,887",
+    "gc": "54.5",
+    "genes": "7"
+  },
+  {
+    "species": "Duck parvovirus NM100",
+    "GA": "GCA_031164375.1",
+    "size": "5,073",
+    "gc": "46"
+  },
+  {
+    "species": "Duck parvovirus NM4",
+    "GA": "GCA_031165915.1",
+    "size": "5,073",
+    "gc": "46"
+  },
+  {
+    "species": "Duck picornavirus duck/FC22/China/2017",
+    "GA": "GCA_031192865.1",
+    "size": "7,448",
+    "gc": "45.5"
+  },
+  {
+    "species": "Duck ssDNA virus",
+    "GA": "GCA_031236235.1",
+    "size": "1,621",
+    "gc": "42"
+  },
+  {
+    "species": "Eastern equine encephalitis virus",
+    "GA": "GCF_000862705.1",
+    "size": "11,675",
+    "gc": "48.5",
+    "genes": "4"
+  },
+  {
+    "species": "Enterovirus F",
+    "GA": "GCF_000907315.1",
+    "size": "7,397",
+    "gc": "50.5",
+    "genes": "1"
+  },
+  {
+    "species": "Etapapillomavirus 1",
+    "GA": "GCF_000841045.1",
+    "size": "7,729",
+    "gc": "47.5",
+    "genes": "6"
+  },
+  {
+    "species": "European bee-eater circovirus",
+    "GA": "GCA_031310625.1",
+    "size": "1,960",
+    "gc": "49.5"
+  },
+  {
+    "species": "European roller astrovirus",
+    "GA": "GCA_031190065.1",
+    "size": "8,417",
+    "gc": "40"
+  },
+  {
+    "species": "Falcon aviadenovirus A",
+    "GA": "GCA_022338145.1",
+    "size": "39,008",
+    "gc": "43.5"
+  },
+  {
+    "species": "Falcon coronavirus UAE-HKU27",
+    "GA": "GCA_031171215.1",
+    "size": "26,162",
+    "gc": "40",
+    "genes": "10"
+  },
+  {
+    "species": "Falcon picornavirus",
+    "GA": "GCF_002355005.1",
+    "size": "7,964",
+    "gc": "42.5",
+    "genes": "1"
+  },
+  {
+    "species": "Farmington virus",
+    "GA": "GCF_000926315.1",
+    "size": "12,233",
+    "gc": "51.5",
+    "genes": "5"
+  },
+  {
+    "species": "Finch poxvirus",
+    "GA": "GCA_031311155.1",
+    "size": "354,030",
+    "gc": "30"
+  },
+  {
+    "species": "Flamingopox virus FGPVKD09",
+    "GA": "GCF_002889855.1",
+    "size": "293,123",
+    "gc": "29.5",
+    "genes": "285"
+  },
+  {
+    "species": "Fort Morgan virus",
+    "GA": "GCF_000885435.1",
+    "size": "11,381",
+    "gc": "48.5",
+    "genes": "3"
+  },
+  {
+    "species": "Fowl adenovirus",
+    "GA": "GCA_009372355.1",
+    "size": "44,291",
+    "gc": "53.5"
+  },
+  {
+    "species": "Fowl aviadenovirus A",
+    "GA": "GCF_000845105.1",
+    "size": "43,804",
+    "gc": "54.5",
+    "genes": "31"
+  },
+  {
+    "species": "Fowl aviadenovirus B",
+    "GA": "GCF_000907375.1",
+    "size": "45,781",
+    "gc": "56.5",
+    "genes": "39"
+  },
+  {
+    "species": "Fowl aviadenovirus C",
+    "GA": "GCF_000890915.1",
+    "size": "45,667",
+    "gc": "54.5",
+    "genes": "46"
+  },
+  {
+    "species": "Fowl aviadenovirus D",
+    "GA": "GCF_000844285.1",
+    "size": "45,063",
+    "gc": "54",
+    "genes": "29"
+  },
+  {
+    "species": "Fowl aviadenovirus E",
+    "GA": "GCF_002817995.1",
+    "size": "43,810",
+    "gc": "58",
+    "genes": "37"
+  },
+  {
+    "species": "Fowlpox virus",
+    "GA": "GCF_000838605.1",
+    "size": "288,539",
+    "gc": "31",
+    "genes": "260"
+  },
+  {
+    "species": "French Guiana picornavirus",
+    "GA": "GCA_031239545.1",
+    "size": "7,645",
+    "gc": "44"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 10",
+    "GA": "GCA_031311165.1",
+    "size": "4,211",
+    "gc": "44.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 11",
+    "GA": "GCA_031311175.1",
+    "size": "4,070",
+    "gc": "43.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 12",
+    "GA": "GCA_031311185.1",
+    "size": "3,429",
+    "gc": "42"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 13",
+    "GA": "GCA_031311195.1",
+    "size": "2,582",
+    "gc": "43"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 14",
+    "GA": "GCA_031311205.1",
+    "size": "1,948",
+    "gc": "44.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 15",
+    "GA": "GCA_031311215.1",
+    "size": "1,914",
+    "gc": "40.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 16",
+    "GA": "GCA_031311225.1",
+    "size": "1,895",
+    "gc": "44.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 17",
+    "GA": "GCA_031311235.1",
+    "size": "1,622",
+    "gc": "45"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 6",
+    "GA": "GCA_031311245.1",
+    "size": "4,270",
+    "gc": "44.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 7",
+    "GA": "GCA_031311255.1",
+    "size": "4,230",
+    "gc": "42.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 8",
+    "GA": "GCA_031311265.1",
+    "size": "4,225",
+    "gc": "40.5"
+  },
+  {
+    "species": "Galliform chaphamaparvovirus 9",
+    "GA": "GCA_031311275.1",
+    "size": "4,212",
+    "gc": "43"
+  },
+  {
+    "species": "Gallivirus A",
+    "GA": "GCF_000924095.1",
+    "size": "8,432",
+    "gc": "45",
+    "genes": "1"
+  },
+  {
+    "species": "Gallivirus Pf-CHK1/GV",
+    "GA": "GCF_001500755.1",
+    "size": "8,506",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Gammapolyomavirus corvi",
+    "GA": "GCF_000868965.1",
+    "size": "5,079",
+    "gc": "45.5",
+    "genes": "6"
+  },
+  {
+    "species": "Gammapolyomavirus cratorquatus",
+    "GA": "GCF_000914155.1",
+    "size": "5,084",
+    "gc": "45.5",
+    "genes": "6"
+  },
+  {
+    "species": "Gammapolyomavirus egouldiae",
+    "GA": "GCF_003033365.1",
+    "size": "5,172",
+    "gc": "44.5",
+    "genes": "6"
+  },
+  {
+    "species": "Gammapolyomavirus lonmaja",
+    "GA": "GCF_003033375.1",
+    "size": "5,284",
+    "gc": "51",
+    "genes": "6"
+  },
+  {
+    "species": "Gammapolyomavirus padeliae",
+    "GA": "GCF_000930155.1",
+    "size": "4,988",
+    "gc": "52.5",
+    "genes": "5"
+  },
+  {
+    "species": "Gammapolyomavirus pypyrrhula",
+    "GA": "GCF_000864605.1",
+    "size": "5,278",
+    "gc": "51",
+    "genes": "6"
+  },
+  {
+    "species": "Gammapolyomavirus secanaria",
+    "GA": "GCF_000896095.1",
+    "size": "5,421",
+    "gc": "49",
+    "genes": "5"
+  },
+  {
+    "species": "Garrulus glandarius associated circular virus 1",
+    "GA": "GCF_002219445.1",
+    "size": "1,971",
+    "gc": "45",
+    "genes": "2"
+  },
+  {
+    "species": "Gemycircularvirus chicas1",
+    "GA": "GCF_001646115.1",
+    "size": "2,247",
+    "gc": "52.5",
+    "genes": "3"
+  },
+  {
+    "species": "Gemycircularvirus chicas2",
+    "GA": "GCF_001646335.1",
+    "size": "2,230",
+    "gc": "53",
+    "genes": "3"
+  },
+  {
+    "species": "Gemycircularvirus chickad1",
+    "GA": "GCF_001273685.1",
+    "size": "2,152",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Gemycircularvirus geras1",
+    "GA": "GCF_000928755.1",
+    "size": "2,288",
+    "gc": "54",
+    "genes": "2"
+  },
+  {
+    "species": "Gemycircularvirus geras2",
+    "GA": "GCF_000929795.1",
+    "size": "2,187",
+    "gc": "50.5",
+    "genes": "2"
+  },
+  {
+    "species": "Gemycircularvirus geras3",
+    "GA": "GCF_000927875.1",
+    "size": "2,199",
+    "gc": "53",
+    "genes": "2"
+  },
+  {
+    "species": "Gemycircularvirus malas1",
+    "GA": "GCF_000927855.1",
+    "size": "2,290",
+    "gc": "47.5",
+    "genes": "2"
+  },
+  {
+    "species": "Gemycircularvirus sp.",
+    "GA": "GCF_003848605.1",
+    "size": "2,138",
+    "gc": "50",
+    "genes": "2"
+  },
+  {
+    "species": "Gemygorvirus malas1",
+    "GA": "GCF_001646535.1",
+    "size": "2,194",
+    "gc": "53",
+    "genes": "3"
+  },
+  {
+    "species": "Gemygorvirus stara1",
+    "GA": "GCF_000930475.1",
+    "size": "2,229",
+    "gc": "51",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykibivirus blabi1",
+    "GA": "GCF_000927915.1",
+    "size": "2,130",
+    "gc": "50.5",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykibivirus blaro1",
+    "GA": "GCF_000928815.1",
+    "size": "2,174",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykibivirus galga1",
+    "GA": "GCF_018589205.1",
+    "size": "2,189",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykibivirus galga2",
+    "GA": "GCF_018589245.1",
+    "size": "2,183",
+    "gc": "52.5",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykibivirus galga3",
+    "GA": "GCF_018589115.1",
+    "size": "2,173",
+    "gc": "51",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykibivirus sewopo1",
+    "GA": "GCF_001646055.1",
+    "size": "2,136",
+    "gc": "50.5",
+    "genes": "3"
+  },
+  {
+    "species": "Gemykrogvirus galga1",
+    "GA": "GCF_018589195.1",
+    "size": "2,142",
+    "gc": "48",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykrogvirus galga2",
+    "GA": "GCF_001967675.1",
+    "size": "2,143",
+    "gc": "49",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykrogvirus galga3",
+    "GA": "GCF_018589075.1",
+    "size": "2,216",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykrogvirus galga4",
+    "GA": "GCF_018589215.1",
+    "size": "2,160",
+    "gc": "50",
+    "genes": "2"
+  },
+  {
+    "species": "Gemykrogvirus galga5",
+    "GA": "GCF_018589065.1",
+    "size": "2,222",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Gemytondvirus ostri1",
+    "GA": "GCF_000928795.1",
+    "size": "2,122",
+    "gc": "48.5",
+    "genes": "2"
+  },
+  {
+    "species": "Genomoviridae sp.",
+    "GA": "GCF_018591135.1",
+    "size": "2,178",
+    "gc": "54",
+    "genes": "2"
+  },
+  {
+    "species": "Goose astrovirus",
+    "GA": "GCF_002146085.1",
+    "size": "7,299",
+    "gc": "41.5",
+    "genes": "3"
+  },
+  {
+    "species": "Goose astrovirus 1",
+    "GA": "GCA_031301795.1",
+    "size": "7,310",
+    "gc": "42"
+  },
+  {
+    "species": "Goose astrovirus 2",
+    "GA": "GCA_031242835.1",
+    "size": "7,183",
+    "gc": "43.5",
+    "genes": "3"
+  },
+  {
+    "species": "Goose aviadenovirus A",
+    "GA": "GCF_000897155.1",
+    "size": "43,376",
+    "gc": "44.5",
+    "genes": "35"
+  },
+  {
+    "species": "Goose calicivirus",
+    "GA": "GCF_000920715.1",
+    "size": "8,013",
+    "gc": "54.5",
+    "genes": "2"
+  },
+  {
+    "species": "Goose pegivirus 1",
+    "GA": "GCA_031250005.1",
+    "size": "11,479",
+    "gc": "57.5"
+  },
+  {
+    "species": "Goose pegivirus 2",
+    "GA": "GCA_031250015.1",
+    "size": "11,195",
+    "gc": "58.5"
+  },
+  {
+    "species": "Great tit siadenovirus A",
+    "GA": "GCF_002925555.1",
+    "size": "13,628",
+    "gc": "37.5",
+    "genes": "10"
+  },
+  {
+    "species": "Gruhelivirus A",
+    "GA": "GCF_013087255.1",
+    "size": "7,073",
+    "gc": "43.5",
+    "genes": "1"
+  },
+  {
+    "species": "Grusopivirus A",
+    "GA": "GCF_003390015.1",
+    "size": "7,917",
+    "gc": "41",
+    "genes": "1"
+  },
+  {
+    "species": "Grusopivirus B",
+    "GA": "GCF_003390035.1",
+    "size": "7,104",
+    "gc": "42.5",
+    "genes": "1"
+  },
+  {
+    "species": "Grusopivirus C",
+    "GA": "GCF_004995665.1",
+    "size": "7,862",
+    "gc": "39.5",
+    "genes": "1"
+  },
+  {
+    "species": "Guinea fowl picornavirus",
+    "GA": "GCA_031243325.1",
+    "size": "8,061",
+    "gc": "41"
+  },
+  {
+    "species": "Gull metapneumovirus",
+    "GA": "GCA_031192995.1",
+    "size": "14,458",
+    "gc": "42",
+    "genes": "9"
+  },
+  {
+    "species": "Gull papillomavirus 1",
+    "GA": "GCA_031189325.1",
+    "size": "7,699",
+    "gc": "57.5",
+    "genes": "7"
+  },
+  {
+    "species": "Gyrovirus 10",
+    "GA": "GCA_003260835.1",
+    "size": "2,195",
+    "gc": "51.5",
+    "genes": "3"
+  },
+  {
+    "species": "Gyrovirus 3",
+    "GA": "GCA_031191135.1",
+    "size": "2,356",
+    "gc": "53",
+    "genes": "3"
+  },
+  {
+    "species": "Gyrovirus 6",
+    "GA": "GCA_031191145.1",
+    "size": "2,220",
+    "gc": "52.5",
+    "genes": "3"
+  },
+  {
+    "species": "Gyrovirus 9",
+    "GA": "GCA_031236225.1",
+    "size": "2,215",
+    "gc": "45",
+    "genes": "3"
+  },
+  {
+    "species": "Gyrovirus fulgla1",
+    "GA": "GCF_001045285.1",
+    "size": "2,218",
+    "gc": "49.5",
+    "genes": "3"
+  },
+  {
+    "species": "Gyrovirus galga1",
+    "GA": "GCF_000891935.1",
+    "size": "2,383",
+    "gc": "53.5",
+    "genes": "3"
+  },
+  {
+    "species": "Gyrovirus hydho1",
+    "GA": "GCF_004134085.1",
+    "size": "2,394",
+    "gc": "53",
+    "genes": "4"
+  },
+  {
+    "species": "Gyrovirus myferr1",
+    "GA": "GCF_018583945.1",
+    "size": "1,873",
+    "gc": "54.5",
+    "genes": "3"
+  },
+  {
+    "species": "Hapavirus flanders",
+    "GA": "GCF_002815595.1",
+    "size": "13,038",
+    "gc": "37",
+    "genes": "9"
+  },
+  {
+    "species": "Hapavirus landjia",
+    "GA": "GCF_002146145.1",
+    "size": "13,695",
+    "gc": "37",
+    "genes": "11"
+  },
+  {
+    "species": "Harkavirus A",
+    "GA": "GCF_000981755.1",
+    "size": "8,003",
+    "gc": "42",
+    "genes": "1"
+  },
+  {
+    "species": "Hepacivirus Q",
+    "GA": "GCA_031315615.1",
+    "size": "9,893",
+    "gc": "45"
+  },
+  {
+    "species": "Hepacivirus sp.",
+    "GA": "GCA_031173525.1",
+    "size": "8,675",
+    "gc": "46.5"
+  },
+  {
+    "species": "Hepatitis B virus",
+    "GA": "GCF_003033055.1",
+    "size": "3,248",
+    "gc": "48.5",
+    "genes": "4"
+  },
+  {
+    "species": "Heron hepatitis B virus",
+    "GA": "GCF_000861965.1",
+    "size": "3,027",
+    "gc": "45",
+    "genes": "5"
+  },
+  {
+    "species": "Highlands J virus",
+    "GA": "GCF_000881255.1",
+    "size": "11,526",
+    "gc": "49",
+    "genes": "3"
+  },
+  {
+    "species": "Houbara coronavirus UAE-HKU28",
+    "GA": "GCA_031171225.1",
+    "size": "26,155",
+    "gc": "39.5",
+    "genes": "10"
+  },
+  {
+    "species": "Huchismacovirus chicas1",
+    "GA": "GCF_003033445.1",
+    "size": "2,408",
+    "gc": "42",
+    "genes": "2"
+  },
+  {
+    "species": "Huchismacovirus chicas2",
+    "GA": "GCF_003033465.1",
+    "size": "2,459",
+    "gc": "42.5",
+    "genes": "2"
+  },
+  {
+    "species": "Huchismacovirus sp.",
+    "GA": "GCA_031242685.1",
+    "size": "2,459",
+    "gc": "42"
+  },
+  {
+    "species": "Human mastadenovirus F",
+    "GA": "GCF_000846685.1",
+    "size": "34,214",
+    "gc": "51",
+    "genes": "18"
+  },
+  {
+    "species": "Iltovirus gallidalpha1",
+    "GA": "GCF_008787145.1",
+    "size": "152,975",
+    "gc": "48",
+    "genes": "79"
+  },
+  {
+    "species": "Iltovirus psittacidalpha1",
+    "GA": "GCF_000840765.1",
+    "size": "163,025",
+    "gc": "61",
+    "genes": "77"
+  },
+  {
+    "species": "Iltovirus psittacidalpha5",
+    "GA": "GCF_029884945.1",
+    "size": "120,899",
+    "gc": "43.5",
+    "genes": "81"
+  },
+  {
+    "species": "Jingmen picorna-like virus",
+    "GA": "GCF_001961255.1",
+    "size": "10,069",
+    "gc": "43.5",
+    "genes": "1"
+  },
+  {
+    "species": "Jingmen tombus-like virus 1",
+    "GA": "GCF_002008755.1",
+    "size": "7,949",
+    "gc": "57",
+    "genes": "2"
+  },
+  {
+    "species": "Jingmen tombus-like virus 2",
+    "GA": "GCF_002004055.1",
+    "size": "4,100",
+    "gc": "48.5",
+    "genes": "3"
+  },
+  {
+    "species": "Khurdivirus volgaense",
+    "GA": "GCF_023156525.1",
+    "size": "10,679",
+    "gc": "36",
+    "genes": "3"
+  },
+  {
+    "species": "Kittiwake papillomavirus 2",
+    "GA": "GCA_031189345.1",
+    "size": "7,763",
+    "gc": "56.5",
+    "genes": "7"
+  },
+  {
+    "species": "Kunsagivirus A",
+    "GA": "GCF_002817165.1",
+    "size": "7,272",
+    "gc": "53",
+    "genes": "1"
+  },
+  {
+    "species": "Leucosticte brandti pegivirus",
+    "GA": "GCA_031246675.1",
+    "size": "10,719",
+    "gc": "57.5"
+  },
+  {
+    "species": "Little bittern circovirus",
+    "GA": "GCA_031310635.1",
+    "size": "1,935",
+    "gc": "49"
+  },
+  {
+    "species": "Lonchura striata deltavirus",
+    "GA": "GCA_031232885.1",
+    "size": "1,708",
+    "gc": "56",
+    "genes": "1"
+  },
+  {
+    "species": "Ludopivirus A",
+    "GA": "GCF_004131145.1",
+    "size": "8,051",
+    "gc": "47.5",
+    "genes": "1"
+  },
+  {
+    "species": "Lymphoproliferative disease virus",
+    "GA": "GCA_031102365.1",
+    "size": "7,432",
+    "gc": "53.5"
+  },
+  {
+    "species": "Lyssavirus australis",
+    "GA": "GCF_000850325.1",
+    "size": "11,822",
+    "gc": "44",
+    "genes": "5"
+  },
+  {
+    "species": "Lyssavirus rabies",
+    "GA": "GCF_000859625.1",
+    "size": "11,932",
+    "gc": "45",
+    "genes": "5"
+  },
+  {
+    "species": "Magpie-robin coronavirus HKU18",
+    "GA": "GCF_000894435.1",
+    "size": "26,689",
+    "gc": "46.5",
+    "genes": "9"
+  },
+  {
+    "species": "Magpiepox virus",
+    "GA": "GCA_031198355.1",
+    "size": "293,226",
+    "gc": "29.5",
+    "genes": "352"
+  },
+  {
+    "species": "Magpiepox virus 2",
+    "GA": "GCA_031268825.1",
+    "size": "298,392",
+    "gc": "29.5"
+  },
+  {
+    "species": "Malazfec virus 1",
+    "GA": "GCA_036760835.1",
+    "size": "39,041",
+    "gc": "34.5"
+  },
+  {
+    "species": "Mardivirus anatidalpha1",
+    "GA": "GCF_000885795.1",
+    "size": "158,091",
+    "gc": "45",
+    "genes": "77"
+  },
+  {
+    "species": "Mardivirus columbidalpha1",
+    "GA": "GCF_002116095.1",
+    "size": "204,237",
+    "gc": "61.5",
+    "genes": "130"
+  },
+  {
+    "species": "Mardivirus gallidalpha2",
+    "GA": "GCF_000846265.1",
+    "size": "177,874",
+    "gc": "44",
+    "genes": "87"
+  },
+  {
+    "species": "Mardivirus gallidalpha3",
+    "GA": "GCF_008792185.1",
+    "size": "165,994",
+    "gc": "53.5",
+    "genes": "124"
+  },
+  {
+    "species": "Mardivirus meleagridalpha1",
+    "GA": "GCF_000839725.1",
+    "size": "159,160",
+    "gc": "47.5",
+    "genes": "79"
+  },
+  {
+    "species": "Mardivirus spheniscidalpha1",
+    "GA": "GCF_001974335.1",
+    "size": "164,540",
+    "gc": "45.5",
+    "genes": "86"
+  },
+  {
+    "species": "Mayaro virus",
+    "GA": "GCF_000863385.1",
+    "size": "11,411",
+    "gc": "50.5",
+    "genes": "4"
+  },
+  {
+    "species": "Megrivirus A",
+    "GA": "GCF_002008395.1",
+    "size": "10,101",
+    "gc": "46",
+    "genes": "1"
+  },
+  {
+    "species": "Megrivirus B",
+    "GA": "GCF_003028975.1",
+    "size": "9,101",
+    "gc": "47.5",
+    "genes": "1"
+  },
+  {
+    "species": "Megrivirus C",
+    "GA": "GCF_003029035.1",
+    "size": "9,560",
+    "gc": "45",
+    "genes": "1"
+  },
+  {
+    "species": "Megrivirus D",
+    "GA": "GCF_002184175.1",
+    "size": "8,541",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Megrivirus E",
+    "GA": "GCF_003029615.1",
+    "size": "9,702",
+    "gc": "43",
+    "genes": "1"
+  },
+  {
+    "species": "Megrivirus sp.",
+    "GA": "GCA_031242715.1",
+    "size": "9,184",
+    "gc": "47.5"
+  },
+  {
+    "species": "Melegrivirus A",
+    "GA": "GCF_000917935.1",
+    "size": "9,739",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Metaavulavirus delawarense",
+    "GA": "GCF_002815215.1",
+    "size": "15,342",
+    "gc": "41.5",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus falklandense",
+    "GA": "GCF_002080355.1",
+    "size": "15,456",
+    "gc": "42",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus galliense",
+    "GA": "GCF_000924755.1",
+    "size": "17,412",
+    "gc": "39",
+    "genes": "7"
+  },
+  {
+    "species": "Metaavulavirus hongkongense",
+    "GA": "GCF_002815195.1",
+    "size": "16,236",
+    "gc": "46.5",
+    "genes": "7"
+  },
+  {
+    "species": "Metaavulavirus japanense",
+    "GA": "GCF_003032665.1",
+    "size": "15,444",
+    "gc": "43.5",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus kazakhstanense",
+    "GA": "GCF_004130815.1",
+    "size": "15,954",
+    "gc": "40",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus kunitachiense",
+    "GA": "GCF_000924655.1",
+    "size": "17,262",
+    "gc": "40",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus peixense",
+    "GA": "GCF_002197575.1",
+    "size": "14,964",
+    "gc": "40.5",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus tennessense",
+    "GA": "GCF_000926535.1",
+    "size": "15,480",
+    "gc": "39",
+    "genes": "6"
+  },
+  {
+    "species": "Metaavulavirus yucaipaense",
+    "GA": "GCF_002989675.1",
+    "size": "14,904",
+    "gc": "47",
+    "genes": "6"
+  },
+  {
+    "species": "Middelburg virus",
+    "GA": "GCF_000921735.1",
+    "size": "11,550",
+    "gc": "53",
+    "genes": "2"
+  },
+  {
+    "species": "Montifringilla taczanowskii pegivirus",
+    "GA": "GCA_031246695.1",
+    "size": "10,866",
+    "gc": "57"
+  },
+  {
+    "species": "Mosavirus A",
+    "GA": "GCF_000918135.1",
+    "size": "8,398",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Mudlarkpox virus",
+    "GA": "GCA_031242895.1",
+    "size": "342,723",
+    "gc": "30"
+  },
+  {
+    "species": "Munia coronavirus HKU13",
+    "GA": "GCF_000880835.1",
+    "size": "26,552",
+    "gc": "42.5",
+    "genes": "9"
+  },
+  {
+    "species": "Nacovirus A",
+    "GA": "GCF_004786995.1",
+    "size": "7,656",
+    "gc": "50",
+    "genes": "2"
+  },
+  {
+    "species": "Nauglamirvirus anduin",
+    "GA": "GCF_023131745.1",
+    "size": "1,970",
+    "gc": "34",
+    "genes": "2"
+  },
+  {
+    "species": "Night heron coronavirus HKU19",
+    "GA": "GCF_000896035.1",
+    "size": "26,077",
+    "gc": "38",
+    "genes": "8"
+  },
+  {
+    "species": "Nodaviridae sp.",
+    "GA": "GCA_030027915.1",
+    "size": "3,205",
+    "gc": "51.5"
+  },
+  {
+    "species": "Nyavirus nyamaniniense",
+    "GA": "GCF_000882955.1",
+    "size": "11,631",
+    "gc": "52.5",
+    "genes": "6"
+  },
+  {
+    "species": "Nyavirus sanjacintoense",
+    "GA": "GCF_018587265.1",
+    "size": "13,295",
+    "gc": "51.5",
+    "genes": "7"
+  },
+  {
+    "species": "Nyavirus somateriae",
+    "GA": "GCF_023131265.1",
+    "size": "12,659",
+    "gc": "48",
+    "genes": "8"
+  },
+  {
+    "species": "Orivirus A",
+    "GA": "GCF_000926835.1",
+    "size": "7,037",
+    "gc": "50",
+    "genes": "1"
+  },
+  {
+    "species": "Orthoavulavirus borisense",
+    "GA": "GCF_003032685.1",
+    "size": "14,926",
+    "gc": "46",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus italiense",
+    "GA": "GCF_000927075.1",
+    "size": "15,312",
+    "gc": "45",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus japanense",
+    "GA": "GCF_001654405.1",
+    "size": "16,146",
+    "gc": "42.5",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus javaense",
+    "GA": "GCF_002834085.1",
+    "size": "15,192",
+    "gc": "47",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus kopaiticense",
+    "GA": "GCF_003032695.1",
+    "size": "14,931",
+    "gc": "50",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus newyorkense",
+    "GA": "GCF_000926655.1",
+    "size": "15,438",
+    "gc": "44.5",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus oneillense",
+    "GA": "GCF_003032705.1",
+    "size": "15,017",
+    "gc": "50",
+    "genes": "6"
+  },
+  {
+    "species": "Orthoavulavirus upoense",
+    "GA": "GCF_003032675.1",
+    "size": "15,180",
+    "gc": "44.5",
+    "genes": "6"
+  },
+  {
+    "species": "Orthobornavirus alphapsittaciforme",
+    "GA": "GCF_002815075.1",
+    "size": "8,902",
+    "gc": "42.5",
+    "genes": "6"
+  },
+  {
+    "species": "Orthobornavirus avisaquaticae",
+    "GA": "GCF_001589995.2",
+    "size": "8,904",
+    "gc": "41",
+    "genes": "6"
+  },
+  {
+    "species": "Orthobornavirus betapsittaciforme",
+    "GA": "GCF_002815095.1",
+    "size": "8,973",
+    "gc": "43",
+    "genes": "6"
+  },
+  {
+    "species": "Orthobornavirus estrildidae",
+    "GA": "GCF_002815055.1",
+    "size": "5,572",
+    "gc": "43",
+    "genes": "6"
+  },
+  {
+    "species": "Orthobornavirus serini",
+    "GA": "GCF_001305565.3",
+    "size": "8,930",
+    "gc": "41",
+    "genes": "6"
+  },
+  {
+    "species": "Orthobunyavirus balagoduense",
+    "GA": "GCF_029887365.1",
+    "size": "12,557",
+    "gc": "36.5",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus batamaense",
+    "GA": "GCF_029887665.1",
+    "size": "12,447",
+    "gc": "36.5",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus bobayaense",
+    "GA": "GCF_029888205.1",
+    "size": "12,536",
+    "gc": "36",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus ingwavumaense",
+    "GA": "GCF_004789635.1",
+    "size": "12,388",
+    "gc": "36.5",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus matruhense",
+    "GA": "GCF_009731935.1",
+    "size": "12,220",
+    "gc": "36.5",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus mermetense",
+    "GA": "GCF_004789655.1",
+    "size": "12,332",
+    "gc": "36",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus sedlecense",
+    "GA": "GCF_018594955.1",
+    "size": "12,532",
+    "gc": "36",
+    "genes": "4"
+  },
+  {
+    "species": "Orthobunyavirus teteense",
+    "GA": "GCF_002814395.1",
+    "size": "12,187",
+    "gc": "37",
+    "genes": "3"
+  },
+  {
+    "species": "Orthobunyavirus thimiriense",
+    "GA": "GCF_006297945.1",
+    "size": "12,418",
+    "gc": "36.5",
+    "genes": "4"
+  },
+  {
+    "species": "Orthoflavivirus cacipacoreense",
+    "GA": "GCF_000954535.1",
+    "size": "10,284",
+    "gc": "49.5",
+    "genes": "1"
+  },
+  {
+    "species": "Orthoflavivirus tembusu",
+    "GA": "GCF_000894755.1",
+    "size": "10,990",
+    "gc": "49",
+    "genes": "1"
+  },
+  {
+    "species": "Orthonairovirus abuhammadense",
+    "GA": "GCF_014883235.1",
+    "size": "18,596",
+    "gc": "42.5",
+    "genes": "3"
+  },
+  {
+    "species": "Orthonairovirus abuminaense",
+    "GA": "GCF_014883245.1",
+    "size": "18,416",
+    "gc": "41.5",
+    "genes": "3"
+  },
+  {
+    "species": "Orthonairovirus tunisense",
+    "GA": "GCF_004128175.1",
+    "size": "18,977",
+    "gc": "41.5",
+    "genes": "3"
+  },
+  {
+    "species": "Oscivirus A",
+    "GA": "GCF_000887535.1",
+    "size": "7,641",
+    "gc": "47",
+    "genes": "1"
+  },
+  {
+    "species": "Owl adenovirus",
+    "GA": "GCA_031258635.1",
+    "size": "40,551",
+    "gc": "49",
+    "genes": "28"
+  },
+  {
+    "species": "Pacific black duck chaphamaparvovirus 1",
+    "GA": "GCF_029885275.1",
+    "size": "4,323",
+    "gc": "39",
+    "genes": "4"
+  },
+  {
+    "species": "Paraavulavirus hongkongense",
+    "GA": "GCF_002815175.1",
+    "size": "15,054",
+    "gc": "47",
+    "genes": "6"
+  },
+  {
+    "species": "Paraavulavirus wisconsinense",
+    "GA": "GCF_000927055.1",
+    "size": "16,182",
+    "gc": "42",
+    "genes": "6"
+  },
+  {
+    "species": "Parrot hepatitis B virus",
+    "GA": "GCF_000895735.1",
+    "size": "3,048",
+    "gc": "41.5",
+    "genes": "5"
+  },
+  {
+    "species": "Partitiviridae sp.",
+    "GA": "GCA_031323215.1",
+    "size": "3,505",
+    "gc": "48.5"
+  },
+  {
+    "species": "Parvoviridae sp.",
+    "GA": "GCF_003389895.1",
+    "size": "4,305",
+    "gc": "38",
+    "genes": "2"
+  },
+  {
+    "species": "Parvovirus NIH-CQV",
+    "GA": "GCF_000910875.1",
+    "size": "3,780",
+    "gc": "46",
+    "genes": "3"
+  },
+  {
+    "species": "Paslahepevirus balayani",
+    "GA": "GCF_023120345.1",
+    "size": "6,660",
+    "gc": "51.5",
+    "genes": "3"
+  },
+  {
+    "species": "Passer montanus pegivirus",
+    "GA": "GCA_031246775.1",
+    "size": "10,916",
+    "gc": "57.5"
+  },
+  {
+    "species": "Passerine adenovirus 1",
+    "GA": "GCA_031236175.1",
+    "size": "39,644",
+    "gc": "53.5"
+  },
+  {
+    "species": "Passerine astrovirus 1",
+    "GA": "GCA_031190705.1",
+    "size": "6,745",
+    "gc": "47.5",
+    "genes": "3"
+  },
+  {
+    "species": "Passerine astrovirus 2",
+    "GA": "GCA_031190715.1",
+    "size": "6,864",
+    "gc": "43.5",
+    "genes": "3"
+  },
+  {
+    "species": "Passerine astrovirus 3",
+    "GA": "GCA_031190725.1",
+    "size": "6,628",
+    "gc": "42",
+    "genes": "3"
+  },
+  {
+    "species": "Passerine astrovirus 4",
+    "GA": "GCA_031190735.1",
+    "size": "6,870",
+    "gc": "42",
+    "genes": "3"
+  },
+  {
+    "species": "Passerivirus A",
+    "GA": "GCF_000890055.1",
+    "size": "8,035",
+    "gc": "58",
+    "genes": "1"
+  },
+  {
+    "species": "Penguin siadenovirus A",
+    "GA": "GCF_001646375.1",
+    "size": "24,662",
+    "gc": "35.5",
+    "genes": "22"
+  },
+  {
+    "species": "Penguinpox virus",
+    "GA": "GCF_000923135.1",
+    "size": "306,862",
+    "gc": "29.5",
+    "genes": "284"
+  },
+  {
+    "species": "Penguinpox virus 2",
+    "GA": "GCA_031242905.1",
+    "size": "349,821",
+    "gc": "30"
+  },
+  {
+    "species": "Phapecoctavirus TSP7",
+    "GA": "GCF_018642085.1",
+    "size": "150,892",
+    "gc": "39",
+    "genes": "280"
+  },
+  {
+    "species": "Pheasant-associated gyrovirus",
+    "GA": "GCA_031310715.1",
+    "size": "2,353",
+    "gc": "51.5"
+  },
+  {
+    "species": "Picobirnavirus sp.",
+    "GA": "GCF_004117395.1",
+    "size": "4,297",
+    "gc": "40.5",
+    "genes": "4"
+  },
+  {
+    "species": "Picornavirales sp.",
+    "GA": "GCF_013086155.1",
+    "size": "8,422",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Picornaviridae sp.",
+    "GA": "GCF_003389975.1",
+    "size": "7,443",
+    "gc": "42",
+    "genes": "1"
+  },
+  {
+    "species": "Pigeon adenovirus 2a",
+    "GA": "GCA_006436595.1",
+    "size": "31,314",
+    "gc": "49"
+  },
+  {
+    "species": "Pigeon aviadenovirus A",
+    "GA": "GCF_000921315.1",
+    "size": "45,480",
+    "gc": "64",
+    "genes": "37"
+  },
+  {
+    "species": "Pigeon aviadenovirus B",
+    "GA": "GCF_001831345.1",
+    "size": "41,981",
+    "gc": "48.5",
+    "genes": "35"
+  },
+  {
+    "species": "Pigeon coronavirus UAE-HKU29",
+    "GA": "GCA_031171245.1",
+    "size": "26,155",
+    "gc": "39.5",
+    "genes": "10"
+  },
+  {
+    "species": "Pigeon gyrovirus",
+    "GA": "GCA_031232875.1",
+    "size": "2,573",
+    "gc": "54",
+    "genes": "2"
+  },
+  {
+    "species": "Pigeon parvovirus A",
+    "GA": "GCF_018580195.1",
+    "size": "5,492",
+    "gc": "52",
+    "genes": "4"
+  },
+  {
+    "species": "Pigeon picornavirus B",
+    "GA": "GCF_000892795.1",
+    "size": "7,801",
+    "gc": "46",
+    "genes": "1"
+  },
+  {
+    "species": "Pigeonpox virus",
+    "GA": "GCF_000922075.1",
+    "size": "282,356",
+    "gc": "29.5",
+    "genes": "271"
+  },
+  {
+    "species": "Pileated finch aveparvovirus",
+    "GA": "GCF_029884085.1",
+    "size": "5,368",
+    "gc": "44",
+    "genes": "3"
+  },
+  {
+    "species": "Pingu picornavirus",
+    "GA": "GCF_018583705.1",
+    "size": "7,601",
+    "gc": "49",
+    "genes": "1"
+  },
+  {
+    "species": "Poecivirus A",
+    "GA": "GCF_003085835.1",
+    "size": "7,653",
+    "gc": "43.5",
+    "genes": "1"
+  },
+  {
+    "species": "Porcine epidemic diarrhea virus",
+    "GA": "GCF_000848685.1",
+    "size": "28,033",
+    "gc": "42",
+    "genes": "6"
+  },
+  {
+    "species": "Porprismacovirus avias1",
+    "GA": "GCF_018587855.1",
+    "size": "2,546",
+    "gc": "48",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus chicas2",
+    "GA": "GCF_018589255.1",
+    "size": "2,534",
+    "gc": "49",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus chicas3",
+    "GA": "GCF_018589375.1",
+    "size": "2,528",
+    "gc": "50",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus chicas4",
+    "GA": "GCF_018589325.1",
+    "size": "2,532",
+    "gc": "49",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus chicas5",
+    "GA": "GCF_018589385.1",
+    "size": "2,419",
+    "gc": "52.5",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus chicas6",
+    "GA": "GCF_018589355.1",
+    "size": "2,442",
+    "gc": "50",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus chicas7",
+    "GA": "GCF_018589365.1",
+    "size": "2,608",
+    "gc": "47",
+    "genes": "2"
+  },
+  {
+    "species": "Porprismacovirus turas1",
+    "GA": "GCF_000918075.1",
+    "size": "2,479",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Protoparvovirus sp.",
+    "GA": "GCA_031166105.1",
+    "size": "5,046",
+    "gc": "47"
+  },
+  {
+    "species": "Psittaciform chaphamaparvovirus 3",
+    "GA": "GCA_031311285.1",
+    "size": "4,277",
+    "gc": "43"
+  },
+  {
+    "species": "Psittacine adenovirus 2",
+    "GA": "GCA_020842125.1",
+    "size": "25,616",
+    "gc": "37"
+  },
+  {
+    "species": "Psittacine atadenovirus A",
+    "GA": "GCF_000929035.1",
+    "size": "31,735",
+    "gc": "53.5",
+    "genes": "29"
+  },
+  {
+    "species": "Psittacine aviadenovirus B",
+    "GA": "GCF_003032855.1",
+    "size": "40,930",
+    "gc": "52",
+    "genes": "42"
+  },
+  {
+    "species": "Psittacine aviadenovirus C",
+    "GA": "GCF_006425375.1",
+    "size": "38,694",
+    "gc": "51.5",
+    "genes": "55"
+  },
+  {
+    "species": "Psittacine chaphamaparvovirus 2",
+    "GA": "GCA_031308385.1",
+    "size": "4,312",
+    "gc": "41.5"
+  },
+  {
+    "species": "Psittacine siadenovirus 1",
+    "GA": "GCA_031201985.1",
+    "size": "27,162",
+    "gc": "37"
+  },
+  {
+    "species": "Psittacine siadenovirus D",
+    "GA": "GCF_018586905.1",
+    "size": "27,163",
+    "gc": "37",
+    "genes": "21"
+  },
+  {
+    "species": "Psittacine siadenovirus E",
+    "GA": "GCF_018584825.1",
+    "size": "27,209",
+    "gc": "37.5",
+    "genes": "24"
+  },
+  {
+    "species": "Psittacine siadenovirus F",
+    "GA": "GCA_031268895.1",
+    "size": "25,392",
+    "gc": "37"
+  },
+  {
+    "species": "Puffin papillomavirus 1",
+    "GA": "GCA_031189375.1",
+    "size": "7,703",
+    "gc": "56.5",
+    "genes": "7"
+  },
+  {
+    "species": "Quail coronavirus UAE-HKU30",
+    "GA": "GCA_031171235.1",
+    "size": "25,874",
+    "gc": "42.5",
+    "genes": "9"
+  },
+  {
+    "species": "Quail deltacoronavirus",
+    "GA": "GCA_031174035.1",
+    "size": "25,881",
+    "gc": "42"
+  },
+  {
+    "species": "Quail picornavirus QPV1/HUN/2010",
+    "GA": "GCF_000895635.1",
+    "size": "8,159",
+    "gc": "45.5",
+    "genes": "1"
+  },
+  {
+    "species": "Quailpox virus",
+    "GA": "GCF_002829285.1",
+    "size": "581",
+    "gc": "33.5",
+    "genes": "1"
+  },
+  {
+    "species": "Quang Binh virus",
+    "GA": "GCA_031123885.1",
+    "size": "10,891",
+    "gc": "52"
+  },
+  {
+    "species": "Quaranjavirus chadense",
+    "GA": "GCF_016848445.1",
+    "size": "11,987",
+    "gc": "46.5",
+    "genes": "7"
+  },
+  {
+    "species": "Quaranjavirus wellfleetense",
+    "GA": "GCF_000927955.1",
+    "size": "11,958",
+    "gc": "43.5",
+    "genes": "7"
+  },
+  {
+    "species": "RNA virus hoopoe/BBanka01/2015/HUN",
+    "GA": "GCA_031199605.1",
+    "size": "7,052",
+    "gc": "36"
+  },
+  {
+    "species": "Raptor siadenovirus A",
+    "GA": "GCF_000893535.1",
+    "size": "26,284",
+    "gc": "38.5",
+    "genes": "23"
+  },
+  {
+    "species": "Reoviridae sp.",
+    "GA": "GCA_031191825.1",
+    "size": "4,297",
+    "gc": "43.5"
+  },
+  {
+    "species": "Reticuloendotheliosis virus",
+    "GA": "GCF_000858025.1",
+    "size": "8,295",
+    "gc": "52.5",
+    "genes": "3"
+  },
+  {
+    "species": "Rhabdoviridae sp.",
+    "GA": "GCF_029886045.1",
+    "size": "12,485",
+    "gc": "41.5",
+    "genes": "6"
+  },
+  {
+    "species": "Ross River virus",
+    "GA": "GCF_002889255.1",
+    "size": "11,948",
+    "gc": "51",
+    "genes": "2"
+  },
+  {
+    "species": "Rotavirus A",
+    "GA": "GCF_000880735.1",
+    "size": "18,562",
+    "gc": "33.5",
+    "genes": "12"
+  },
+  {
+    "species": "Rotavirus D",
+    "GA": "GCF_000890155.1",
+    "size": "18,500",
+    "gc": "33",
+    "genes": "12"
+  },
+  {
+    "species": "Rotavirus F",
+    "GA": "GCF_000910335.1",
+    "size": "18,341",
+    "gc": "34.5",
+    "genes": "11"
+  },
+  {
+    "species": "Rotavirus G",
+    "GA": "GCF_001343825.1",
+    "size": "18,186",
+    "gc": "35",
+    "genes": "12"
+  },
+  {
+    "species": "Rous sarcoma virus",
+    "GA": "GCF_000855425.1",
+    "size": "9,392",
+    "gc": "54",
+    "genes": "4"
+  },
+  {
+    "species": "Salmonella phage DaR-2019a",
+    "GA": "GCA_006083255.1",
+    "size": "89,091",
+    "gc": "39",
+    "genes": "146"
+  },
+  {
+    "species": "Salmonella phage DaR-2019b",
+    "GA": "GCA_006083295.1",
+    "size": "88,966",
+    "gc": "39",
+    "genes": "148"
+  },
+  {
+    "species": "Salmonella phage SP1a",
+    "GA": "GCA_002924565.1",
+    "size": "111,184",
+    "gc": "39"
+  },
+  {
+    "species": "Serinus canaria papillomavirus 1",
+    "GA": "GCF_004131485.1",
+    "size": "8,071",
+    "gc": "49.5",
+    "genes": "8"
+  },
+  {
+    "species": "Siadenovirus sp.",
+    "GA": "GCA_024930225.1",
+    "size": "26,075",
+    "gc": "38.5"
+  },
+  {
+    "species": "Sicinivirus A",
+    "GA": "GCF_001443985.1",
+    "size": "9,809",
+    "gc": "55.5",
+    "genes": "1"
+  },
+  {
+    "species": "Sicinivirus sp.",
+    "GA": "GCF_018583545.1",
+    "size": "9,471",
+    "gc": "54.5",
+    "genes": "1"
+  },
+  {
+    "species": "Sindbis virus",
+    "GA": "GCF_000860545.1",
+    "size": "11,703",
+    "gc": "51",
+    "genes": "4"
+  },
+  {
+    "species": "Skua siadenovirus A",
+    "GA": "GCF_000895055.1",
+    "size": "26,340",
+    "gc": "34",
+    "genes": "23"
+  },
+  {
+    "species": "Smacoviridae sp.",
+    "GA": "GCF_018591145.1",
+    "size": "2,549",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "Sparrow coronavirus HKU17",
+    "GA": "GCF_000868165.1",
+    "size": "26,083",
+    "gc": "44.5",
+    "genes": "9"
+  },
+  {
+    "species": "Sparrow deltacoronavirus",
+    "GA": "GCA_031173895.1",
+    "size": "25,796",
+    "gc": "43.5",
+    "genes": "9"
+  },
+  {
+    "species": "Sunrhavirus alexandria",
+    "GA": "GCF_023156065.1",
+    "size": "10,846",
+    "gc": "37",
+    "genes": "9"
+  },
+  {
+    "species": "Sunrhavirus garba",
+    "GA": "GCF_013088625.1",
+    "size": "10,821",
+    "gc": "38.5",
+    "genes": "7"
+  },
+  {
+    "species": "Sunrhavirus matariya",
+    "GA": "GCF_023156095.1",
+    "size": "10,991",
+    "gc": "38",
+    "genes": "7"
+  },
+  {
+    "species": "Sunrhavirus nasoule",
+    "GA": "GCF_023155965.1",
+    "size": "10,977",
+    "gc": "39.5",
+    "genes": "7"
+  },
+  {
+    "species": "Sunrhavirus ouango",
+    "GA": "GCF_023156025.1",
+    "size": "10,773",
+    "gc": "35.5",
+    "genes": "8"
+  },
+  {
+    "species": "Sunrhavirus sunguru",
+    "GA": "GCF_000925655.1",
+    "size": "11,056",
+    "gc": "40",
+    "genes": "7"
+  },
+  {
+    "species": "Temminck's stint calicivirus",
+    "GA": "GCA_031319925.1",
+    "size": "8,575",
+    "gc": "51.5",
+    "genes": "2"
+  },
+  {
+    "species": "Tern atadenovirus 1",
+    "GA": "GCA_031308105.1",
+    "size": "31,334",
+    "gc": "34",
+    "genes": "32"
+  },
+  {
+    "species": "Thetapapillomavirus 1",
+    "GA": "GCF_000841825.1",
+    "size": "7,304",
+    "gc": "49.5",
+    "genes": "6"
+  },
+  {
+    "species": "Thrush coronavirus HKU12-600",
+    "GA": "GCF_000883335.1",
+    "size": "26,396",
+    "gc": "38",
+    "genes": "9"
+  },
+  {
+    "species": "Tick-associated circular DNA virus",
+    "GA": "GCA_031315805.1",
+    "size": "2,535",
+    "gc": "47.5"
+  },
+  {
+    "species": "Tinamou hepatitis B virus",
+    "GA": "GCF_002219325.1",
+    "size": "3,024",
+    "gc": "43.5",
+    "genes": "5"
+  },
+  {
+    "species": "Torque teno virus",
+    "GA": "GCF_018580245.1",
+    "size": "3,649",
+    "gc": "49",
+    "genes": "4"
+  },
+  {
+    "species": "Totiviridae sp.",
+    "GA": "GCA_023571715.1",
+    "size": "5,261",
+    "gc": "68.5",
+    "genes": "1"
+  },
+  {
+    "species": "Treisepsilonpapillomavirus 1",
+    "GA": "GCF_000920595.1",
+    "size": "7,637",
+    "gc": "49.5",
+    "genes": "7"
+  },
+  {
+    "species": "Treiszetapapillomavirus 1",
+    "GA": "GCF_000922895.1",
+    "size": "8,132",
+    "gc": "48",
+    "genes": "12"
+  },
+  {
+    "species": "Tupavirus durham",
+    "GA": "GCF_002815915.1",
+    "size": "11,092",
+    "gc": "43.5",
+    "genes": "7"
+  },
+  {
+    "species": "Turkey astrovirus",
+    "GA": "GCF_000857825.1",
+    "size": "7,003",
+    "gc": "43.5",
+    "genes": "2"
+  },
+  {
+    "species": "Turkey aviadenovirus B",
+    "GA": "GCF_000888635.1",
+    "size": "45,413",
+    "gc": "67",
+    "genes": "37"
+  },
+  {
+    "species": "Turkey aviadenovirus C",
+    "GA": "GCF_000912195.1",
+    "size": "42,940",
+    "gc": "48.5",
+    "genes": "33"
+  },
+  {
+    "species": "Turkey aviadenovirus D",
+    "GA": "GCF_000913655.1",
+    "size": "43,686",
+    "gc": "51.5",
+    "genes": "37"
+  },
+  {
+    "species": "Turkeypox virus",
+    "GA": "GCF_001431935.1",
+    "size": "188,534",
+    "gc": "30",
+    "genes": "171"
+  },
+  {
+    "species": "Umatilla virus",
+    "GA": "GCF_000923315.1",
+    "size": "19,402",
+    "gc": "41",
+    "genes": "10"
+  },
+  {
+    "species": "Uukuvirus uriae",
+    "GA": "GCF_013086475.1",
+    "size": "11,455",
+    "gc": "42.5",
+    "genes": "4"
+  },
+  {
+    "species": "Venezuelan equine encephalitis virus",
+    "GA": "GCF_002889695.1",
+    "size": "11,447",
+    "gc": "50",
+    "genes": "6"
+  },
+  {
+    "species": "Western equine encephalitis virus",
+    "GA": "GCF_002889215.1",
+    "size": "11,562",
+    "gc": "48.5",
+    "genes": "2"
+  },
+  {
+    "species": "White-eye coronavirus HKU16",
+    "GA": "GCF_000896875.1",
+    "size": "26,041",
+    "gc": "40",
+    "genes": "8"
+  },
+  {
+    "species": "WigFec circovirus 1",
+    "GA": "GCF_029886425.1",
+    "size": "1,723",
+    "gc": "51",
+    "genes": "2"
+  },
+  {
+    "species": "WigFec circovirus 2",
+    "GA": "GCF_029886435.1",
+    "size": "1,821",
+    "gc": "48",
+    "genes": "2"
+  },
+  {
+    "species": "Wigeon coronavirus HKU20",
+    "GA": "GCF_000895415.1",
+    "size": "26,227",
+    "gc": "39.5",
+    "genes": "10"
+  },
+  {
+    "species": "Wigfec virus K19_221",
+    "GA": "GCA_031321275.1",
+    "size": "3,789",
+    "gc": "46.5"
+  },
+  {
+    "species": "Wigfec virus K19_227",
+    "GA": "GCA_031320975.1",
+    "size": "3,714",
+    "gc": "39"
+  },
+  {
+    "species": "Wigfec virus K19_259",
+    "GA": "GCA_031321285.1",
+    "size": "3,393",
+    "gc": "37.5"
+  },
+  {
+    "species": "Wigfec virus K19_292",
+    "GA": "GCA_031321135.1",
+    "size": "3,112",
+    "gc": "38.5"
+  },
+  {
+    "species": "Wigfec virus K19_327",
+    "GA": "GCA_031321295.1",
+    "size": "2,948",
+    "gc": "44.5"
+  },
+  {
+    "species": "Wigfec virus K19_346",
+    "GA": "GCA_031321145.1",
+    "size": "2,885",
+    "gc": "38"
+  },
+  {
+    "species": "Wigfec virus K19_385",
+    "GA": "GCA_031321155.1",
+    "size": "2,661",
+    "gc": "37"
+  },
+  {
+    "species": "Wigfec virus K19_426",
+    "GA": "GCA_031320985.1",
+    "size": "2,412",
+    "gc": "43"
+  },
+  {
+    "species": "Wigfec virus K19_432",
+    "GA": "GCA_031320995.1",
+    "size": "2,388",
+    "gc": "43"
+  },
+  {
+    "species": "Wigfec virus K19_435",
+    "GA": "GCA_031321405.1",
+    "size": "2,375",
+    "gc": "51"
+  },
+  {
+    "species": "Wigfec virus K19_443",
+    "GA": "GCA_031321305.1",
+    "size": "2,360",
+    "gc": "46"
+  },
+  {
+    "species": "Wigfec virus K19_448",
+    "GA": "GCA_031321355.1",
+    "size": "2,327",
+    "gc": "38.5"
+  },
+  {
+    "species": "Wigfec virus K19_450",
+    "GA": "GCA_031321005.1",
+    "size": "2,318",
+    "gc": "43.5"
+  },
+  {
+    "species": "Wigfec virus K19_454",
+    "GA": "GCA_031321365.1",
+    "size": "2,301",
+    "gc": "46.5"
+  },
+  {
+    "species": "Wigfec virus K19_467",
+    "GA": "GCA_031321415.1",
+    "size": "2,232",
+    "gc": "45.5"
+  },
+  {
+    "species": "Wigfec virus K19_469",
+    "GA": "GCA_031321395.1",
+    "size": "2,231",
+    "gc": "50.5"
+  },
+  {
+    "species": "Wigfec virus K19_482",
+    "GA": "GCA_031321385.1",
+    "size": "2,200",
+    "gc": "51.5"
+  },
+  {
+    "species": "Wigfec virus K19_484",
+    "GA": "GCA_031321015.1",
+    "size": "2,197",
+    "gc": "51"
+  },
+  {
+    "species": "Wigfec virus K19_486",
+    "GA": "GCA_031321025.1",
+    "size": "2,194",
+    "gc": "53.5"
+  },
+  {
+    "species": "Wigfec virus K19_493",
+    "GA": "GCA_031321315.1",
+    "size": "2,170",
+    "gc": "45"
+  },
+  {
+    "species": "Wigfec virus K19_494",
+    "GA": "GCA_031321035.1",
+    "size": "2,155",
+    "gc": "50"
+  },
+  {
+    "species": "Wigfec virus K19_511",
+    "GA": "GCA_031321045.1",
+    "size": "2,108",
+    "gc": "50.5"
+  },
+  {
+    "species": "Wigfec virus K19_513",
+    "GA": "GCA_031321375.1",
+    "size": "2,104",
+    "gc": "44.5"
+  },
+  {
+    "species": "Wigfec virus K19_521",
+    "GA": "GCA_031321055.1",
+    "size": "2,090",
+    "gc": "34"
+  },
+  {
+    "species": "Wigfec virus K19_525",
+    "GA": "GCA_031321165.1",
+    "size": "2,086",
+    "gc": "32"
+  },
+  {
+    "species": "Wigfec virus K19_526",
+    "GA": "GCA_031321325.1",
+    "size": "2,084",
+    "gc": "42"
+  },
+  {
+    "species": "Wigfec virus K19_545",
+    "GA": "GCA_031321065.1",
+    "size": "2,037",
+    "gc": "41.5"
+  },
+  {
+    "species": "Wigfec virus K19_555",
+    "GA": "GCA_031321175.1",
+    "size": "2,020",
+    "gc": "45.5"
+  },
+  {
+    "species": "Wigfec virus K19_558",
+    "GA": "GCA_031321185.1",
+    "size": "2,010",
+    "gc": "46.5"
+  },
+  {
+    "species": "Wigfec virus K19_561",
+    "GA": "GCA_031321195.1",
+    "size": "2,004",
+    "gc": "31.5"
+  },
+  {
+    "species": "Wigfec virus K19_562",
+    "GA": "GCA_031321075.1",
+    "size": "1,999",
+    "gc": "47.5"
+  },
+  {
+    "species": "Wigfec virus K19_571",
+    "GA": "GCA_031321205.1",
+    "size": "1,986",
+    "gc": "39"
+  },
+  {
+    "species": "Wigfec virus K19_576",
+    "GA": "GCA_031321335.1",
+    "size": "1,981",
+    "gc": "52"
+  },
+  {
+    "species": "Wigfec virus K19_588",
+    "GA": "GCA_031321085.1",
+    "size": "1,934",
+    "gc": "41.5"
+  },
+  {
+    "species": "Wigfec virus K19_593",
+    "GA": "GCA_031321215.1",
+    "size": "1,929",
+    "gc": "37.5"
+  },
+  {
+    "species": "Wigfec virus K19_598",
+    "GA": "GCA_031321095.1",
+    "size": "1,920",
+    "gc": "40"
+  },
+  {
+    "species": "Wigfec virus K19_600",
+    "GA": "GCA_031321225.1",
+    "size": "1,916",
+    "gc": "37"
+  },
+  {
+    "species": "Wigfec virus K19_605",
+    "GA": "GCA_031321105.1",
+    "size": "1,903",
+    "gc": "42"
+  },
+  {
+    "species": "Wigfec virus K19_615",
+    "GA": "GCA_031321345.1",
+    "size": "1,865",
+    "gc": "35.5"
+  },
+  {
+    "species": "Wigfec virus K19_623",
+    "GA": "GCA_031321115.1",
+    "size": "1,840",
+    "gc": "30.5"
+  },
+  {
+    "species": "Wigfec virus K19_645",
+    "GA": "GCA_031321235.1",
+    "size": "1,750",
+    "gc": "42.5"
+  },
+  {
+    "species": "Wigfec virus K19_654",
+    "GA": "GCA_031321245.1",
+    "size": "1,726",
+    "gc": "38"
+  },
+  {
+    "species": "Wigfec virus K19_658",
+    "GA": "GCA_031321125.1",
+    "size": "1,722",
+    "gc": "37"
+  },
+  {
+    "species": "Wigfec virus K19_668",
+    "GA": "GCA_031321255.1",
+    "size": "1,702",
+    "gc": "37"
+  },
+  {
+    "species": "Wigfec virus K19_691",
+    "GA": "GCA_031321265.1",
+    "size": "1,665",
+    "gc": "38.5"
+  },
+  {
+    "species": "Zingilamo virus",
+    "GA": "GCA_031320685.1",
+    "size": "11,687",
+    "gc": "52.5"
+  },
+  {
+    "species": "cormorant polyomavirus 1",
+    "GA": "GCA_031281625.1",
+    "size": "5,133",
+    "gc": "47.5"
+  },
+  {
+    "species": "crane CRESS-DNA virus",
+    "GA": "GCA_031274965.1",
+    "size": "2,243",
+    "gc": "51.5"
+  },
+  {
+    "species": "duck egg-reducing syndrome virus",
+    "GA": "GCA_031321475.1",
+    "size": "9,042",
+    "gc": "41.5"
+  },
+  {
+    "species": "egret CRESS-DNA virus",
+    "GA": "GCA_031275015.1",
+    "size": "2,216",
+    "gc": "54"
+  },
+  {
+    "species": "finch CRESS-DNA virus",
+    "GA": "GCA_031275045.1",
+    "size": "2,366",
+    "gc": "53"
+  },
+  {
+    "species": "robinz virus RP_1123",
+    "GA": "GCA_031280485.1",
+    "size": "1,929",
+    "gc": "34.5"
+  },
+  {
+    "species": "robinz virus RP_1124",
+    "GA": "GCA_031280535.1",
+    "size": "1,933",
+    "gc": "34.5"
+  },
+  {
+    "species": "robinz virus RP_116",
+    "GA": "GCA_031280745.1",
+    "size": "2,213",
+    "gc": "50"
+  },
+  {
+    "species": "robinz virus RP_1170",
+    "GA": "GCF_029886335.1",
+    "size": "1,846",
+    "gc": "39",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_199",
+    "GA": "GCA_031280765.1",
+    "size": "2,195",
+    "gc": "55.5"
+  },
+  {
+    "species": "robinz virus RP_212",
+    "GA": "GCA_031280925.1",
+    "size": "2,114",
+    "gc": "48.5"
+  },
+  {
+    "species": "robinz virus RP_244",
+    "GA": "GCA_031281065.1",
+    "size": "1,790",
+    "gc": "44.5"
+  },
+  {
+    "species": "robinz virus RP_258",
+    "GA": "GCA_031280985.1",
+    "size": "2,083",
+    "gc": "44.5"
+  },
+  {
+    "species": "robinz virus RP_259",
+    "GA": "GCF_029886275.1",
+    "size": "1,916",
+    "gc": "40.5",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_326",
+    "GA": "GCA_031280835.1",
+    "size": "1,982",
+    "gc": "48"
+  },
+  {
+    "species": "robinz virus RP_327",
+    "GA": "GCA_031281095.1",
+    "size": "2,573",
+    "gc": "53.5"
+  },
+  {
+    "species": "robinz virus RP_334",
+    "GA": "GCA_031281165.1",
+    "size": "2,458",
+    "gc": "49"
+  },
+  {
+    "species": "robinz virus RP_340",
+    "GA": "GCA_031281185.1",
+    "size": "2,263",
+    "gc": "45.5"
+  },
+  {
+    "species": "robinz virus RP_369",
+    "GA": "GCA_031280595.1",
+    "size": "2,215",
+    "gc": "52"
+  },
+  {
+    "species": "robinz virus RP_377",
+    "GA": "GCA_031280875.1",
+    "size": "2,194",
+    "gc": "50.5"
+  },
+  {
+    "species": "robinz virus RP_380",
+    "GA": "GCA_031280605.1",
+    "size": "2,219",
+    "gc": "48"
+  },
+  {
+    "species": "robinz virus RP_382",
+    "GA": "GCA_031281015.1",
+    "size": "2,224",
+    "gc": "50"
+  },
+  {
+    "species": "robinz virus RP_384",
+    "GA": "GCA_031280655.1",
+    "size": "2,218",
+    "gc": "52"
+  },
+  {
+    "species": "robinz virus RP_386",
+    "GA": "GCA_031281355.1",
+    "size": "2,207",
+    "gc": "52"
+  },
+  {
+    "species": "robinz virus RP_389",
+    "GA": "GCA_031281035.1",
+    "size": "2,212",
+    "gc": "49.5"
+  },
+  {
+    "species": "robinz virus RP_390",
+    "GA": "GCA_031280895.1",
+    "size": "2,141",
+    "gc": "53"
+  },
+  {
+    "species": "robinz virus RP_393",
+    "GA": "GCA_031280735.1",
+    "size": "2,190",
+    "gc": "54.5"
+  },
+  {
+    "species": "robinz virus RP_404",
+    "GA": "GCA_031281205.1",
+    "size": "2,094",
+    "gc": "47.5"
+  },
+  {
+    "species": "robinz virus RP_428",
+    "GA": "GCA_031281235.1",
+    "size": "2,067",
+    "gc": "47"
+  },
+  {
+    "species": "robinz virus RP_429",
+    "GA": "GCA_031281295.1",
+    "size": "2,068",
+    "gc": "50.5"
+  },
+  {
+    "species": "robinz virus RP_493",
+    "GA": "GCF_029886285.1",
+    "size": "1,939",
+    "gc": "49",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_513",
+    "GA": "GCA_031281325.1",
+    "size": "1,781",
+    "gc": "34"
+  },
+  {
+    "species": "robinz virus RP_526",
+    "GA": "GCF_029886295.1",
+    "size": "1,806",
+    "gc": "38.5",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_584",
+    "GA": "GCF_029886305.1",
+    "size": "1,882",
+    "gc": "42",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_620",
+    "GA": "GCF_029886315.1",
+    "size": "1,930",
+    "gc": "34.5",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_736",
+    "GA": "GCF_029886325.1",
+    "size": "1,829",
+    "gc": "39.5",
+    "genes": "2"
+  },
+  {
+    "species": "robinz virus RP_954",
+    "GA": "GCA_031280465.1",
+    "size": "1,914",
+    "gc": "40.5"
+  },
+  {
+    "species": "robinz virus RP_99",
+    "GA": "GCA_031280575.1",
+    "size": "2,257",
+    "gc": "51.5"
+  },
+  {
+    "species": "tawny owl-associated circovirus",
+    "GA": "GCA_031314345.1",
+    "size": "1,745",
+    "gc": "47.5",
+    "genes": "2"
+  },
+  {
+    "species": "trumpeter swan calicivirus",
+    "GA": "GCA_031321585.1",
+    "size": "8,368",
+    "gc": "52",
+    "genes": "2"
+  },
+  {
+    "species": "unidentified adenovirus",
+    "GA": "GCA_024750155.1",
+    "size": "35,938",
+    "gc": "55",
+    "genes": "15"
+  }
+]
