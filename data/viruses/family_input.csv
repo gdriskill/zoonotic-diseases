@@ -67,6 +67,7 @@ Orivirus A,2170052,Picornavirales,Picornaviridae,Orivirus
 Farmington virus,1027468,Mononegavirales,Rhabdoviridae,
 Chicken picornavirus 1,1534544,Picornavirales,Picornaviridae,
 Chicken picornavirus 4,1534547,Picornavirales,Picornaviridae,
+Umatilla virus,40060,Reovirales,Sedoreoviridae,Orbivirus
 Treiszetapapillomavirus 1,1922208,Zurhausenvirales,Papillomaviridae,Treiszetapapillomavirus
 Goose calicivirus,1493858,Picornavirales,Caliciviridae,
 Aalivirus apekidu,2169685,Picornavirales,Picornaviridae,Aalivirus
@@ -357,6 +358,7 @@ Avian associated picorna-like virus 8,2936971,Picornavirales,,
 Avian associated picorna-like virus 9,2936972,Picornavirales,,
 Avian associated picorna-like virus 10,2936963,Picornavirales,,
 Avian associated picorna-like virus 11,2936964,Picornavirales,,
+Avian associated orbivirus 1,2936961,Reovirales,Sedoreoviridae,Orbivirus
 Avian associated reo-like virus 1,2936973,Reovirales,,
 Avian associated reo-like virus 2,2936974,Reovirales,,
 Avian associated reo-like virus 3,2936975,Reovirales,,
@@ -925,6 +927,7 @@ Kittiwake papillomavirus 5,2562554,Zurhausenvirales,Papillomaviridae,
 Kittiwake papillomavirus 6,2562555,Zurhausenvirales,Papillomaviridae,
 Kittiwake papillomavirus 7,2562556,Zurhausenvirales,Papillomaviridae,
 Chicken circovirus SDWF,2518641,Cirlivirales,Circoviridae,
+Kammavanpettai virus,2282480,Reovirales,Sedoreoviridae,Orbivirus
 Bubo bubo herpesvirus,2489502,Herpesvirales,,
 Avocet calicivirus,2212749,Picornavirales,Caliciviridae,
 Avocet picornavirus,2212755,Picornavirales,,
@@ -961,6 +964,7 @@ Chaphamaparvovirus gruiform4,3059868,Piccovirales,Parvoviridae,Chaphamaparvoviru
 Kestrel picornavirus,1964371,Picornavirales,Picornaviridae,
 Chicken picornavirus UCC13,1839669,Picornavirales,Picornaviridae,
 Chicken proventriculitis virus,1566005,Picornavirales,Picornaviridae,
+Dnistrovskyi 408 orbivirus,1930308,Reovirales,Sedoreoviridae,Orbivirus
 Jingmen toti-like virus 1,1923352,,,
 Jingmen birna-like virus,1923347,,,
 Jingmen picobirna-like virus 1,1923349,,,
@@ -996,6 +1000,7 @@ Astrovirus Pygoscelis/DT/2012,1586002,Stellavirales,Astroviridae,
 Gallid herpesvirus,39566,Herpesvirales,,
 shorebird astrovirus,1344564,Stellavirales,Astroviridae,
 shorebird coronavirus,1344565,Nidovirales,Coronaviridae,
+Baku virus,1484571,Reovirales,Sedoreoviridae,Orbivirus
 Eurasian oystercatcher coronavirus,1446361,Nidovirales,Coronaviridae,
 BeAn 157575 virus,1272938,Mononegavirales,Rhabdoviridae,
 Kannamangalam virus,1272944,Mononegavirales,Rhabdoviridae,
