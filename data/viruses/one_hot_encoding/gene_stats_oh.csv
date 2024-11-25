@@ -1,0 +1,1929 @@
+Pathogen Species,Species,GA,size,gc,genes,GA_missing,size_missing,gc_missing,genes_missing
+Aalivirus A,Aalivirus A,,,,,1,1,1,1
+Aalivirus apekidu,Aalivirus apekidu,GCF_000919155.1,8976.0,43.0,1.0,0,0,0,0
+Acanthis flammea CRESS-DNA-virus sp.,Acanthis flammea CRESS-DNA-virus sp.,,,,,1,1,1,1
+Accipiter gentilis parvo-like hybrid virus,Accipiter gentilis parvo-like hybrid virus,,,,,1,1,1,1
+Accipiter gentilis parvoviridae sp.,Accipiter gentilis parvoviridae sp.,,,,,1,1,1,1
+Adeno-associated virus,Adeno-associated virus,GCF_004129875.1,4857.0,51.0,2.0,0,0,0,0
+Adenoviridae sp.,Adenoviridae sp.,,,,,1,1,1,1
+Adenovirus acanthiza15342,Adenovirus acanthiza15342,,,,,1,1,1,1
+Adintovirus pavo15764,Adintovirus pavo15764,,,,,1,1,1,1
+Aegithalos caudatus CRESS-DNA-virus sp.,Aegithalos caudatus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Aegithalos caudatus parvoviridae sp.,Aegithalos caudatus parvoviridae sp.,,,,,1,1,1,1
+Aichivirus A,Aichivirus A,,,,,1,1,1,1
+Akhtuba virus,Akhtuba virus,,,,,1,1,1,1
+Albatrosspox virus,Albatrosspox virus,GCA_023528145.1,351909.0,30.0,,0,0,0,1
+Alphachrysovirus shuangaoense,Alphachrysovirus shuangaoense,,,,,1,1,1,1
+Alphainfluenzavirus influenzae,Alphainfluenzavirus influenzae,GCF_000864105.1,13590.0,44.0,12.0,0,0,0,0
+Amundsen virus,Amundsen virus,,,,,1,1,1,1
+Anas platyrhynchos papillomavirus 2,Anas platyrhynchos papillomavirus 2,GCA_031259165.1,8350.0,48.5,6.0,0,0,0,0
+Anas platyrhynchos papillomavirus 3,Anas platyrhynchos papillomavirus 3,,,,,1,1,1,1
+Anatid alphaherpesvirus 1,Anatid alphaherpesvirus 1,,,,,1,1,1,1
+Anatid alphaherpesvirus 2,Anatid alphaherpesvirus 2,,,,,1,1,1,1
+Anatid alphaherpesvirus 3,Anatid alphaherpesvirus 3,,,,,1,1,1,1
+Anativirus B,Anativirus B,,,,,1,1,1,1
+Anativirus biphaco,Anativirus biphaco,GCF_013087335.1,8204.0,40.5,1.0,0,0,0,0
+Anativirus sp.,Anativirus sp.,,,,,1,1,1,1
+Anellovirus gallus2670,Anellovirus gallus2670,,,,,1,1,1,1
+Anellovirus meleagris2358,Anellovirus meleagris2358,,,,,1,1,1,1
+Anellovirus meleagris2399,Anellovirus meleagris2399,,,,,1,1,1,1
+Anser anser CRESS-DNA-virus sp.,Anser anser CRESS-DNA-virus sp.,,,,,1,1,1,1
+Anser anser dependoparvovirus,Anser anser dependoparvovirus,,,,,1,1,1,1
+Anser circovirus,Anser circovirus,,,,,1,1,1,1
+Anser cygnoides coronavirus,Anser cygnoides coronavirus,,,,,1,1,1,1
+Anser fabalis coronavirus,Anser fabalis coronavirus,,,,,1,1,1,1
+Anser fabalis coronavirus NCN2,Anser fabalis coronavirus NCN2,GCA_031259465.1,28466.0,38.5,,0,0,0,1
+Antarctic picorna-like virus,Antarctic picorna-like virus,,,,,1,1,1,1
+Antarctic virus 1_II_CPGEORsw003Ad,Antarctic virus 1_II_CPGEORsw003Ad,GCA_031220185.1,2322.0,53.5,,0,0,0,1
+Antarctic virus 1_II_CPGEORsw003Ch,Antarctic virus 1_II_CPGEORsw003Ch,GCA_031220215.1,2322.0,53.5,,0,0,0,1
+Antarctic virus 1_I_CPGEORsw001Ad,Antarctic virus 1_I_CPGEORsw001Ad,GCA_031222645.1,2323.0,53.0,,0,0,0,1
+Antarctic virus 1_I_CPGEORsw002Ad,Antarctic virus 1_I_CPGEORsw002Ad,GCA_031222685.1,2323.0,53.0,,0,0,0,1
+Antarctic virus 2_I_GPYANKsw001Ad,Antarctic virus 2_I_GPYANKsw001Ad,GCA_031222755.1,1944.0,48.0,,0,0,0,1
+Antarctic virus 2_I_GPYANKsw001Ch,Antarctic virus 2_I_GPYANKsw001Ch,GCA_031222775.1,1944.0,48.0,,0,0,0,1
+Antarctic virus 2_I_GPYANKsw002Ad,Antarctic virus 2_I_GPYANKsw002Ad,GCA_031222785.1,1944.0,48.0,,0,0,0,1
+Antarctic virus 2_I_GPYANKsw003Ad,Antarctic virus 2_I_GPYANKsw003Ad,GCA_031222815.1,1944.0,48.0,,0,0,0,1
+Antarctic virus 2_I_GPYANKsw004Ad,Antarctic virus 2_I_GPYANKsw004Ad,GCA_031222865.1,1944.0,48.0,,0,0,0,1
+Antarctic virus 3_III_KPSTAsw010Ad,Antarctic virus 3_III_KPSTAsw010Ad,GCA_031222875.1,2713.0,50.5,,0,0,0,1
+Antarctic virus 3_III_KPSTAsw014Ch,Antarctic virus 3_III_KPSTAsw014Ch,GCA_031222925.1,2712.0,50.5,,0,0,0,1
+Antarctic virus 3_III_KPSTAsw016Ch,Antarctic virus 3_III_KPSTAsw016Ch,GCA_031222945.1,2712.0,50.5,,0,0,0,1
+Antarctic virus 3_III_KPSTAsw018Ch,Antarctic virus 3_III_KPSTAsw018Ch,GCA_031223005.1,2713.0,50.5,,0,0,0,1
+Antarctic virus 3_III_KPSTAsw019Ch,Antarctic virus 3_III_KPSTAsw019Ch,GCA_031223025.1,2712.0,50.5,,0,0,0,1
+Antarctic virus 3_II_CPHALFsw005Ad,Antarctic virus 3_II_CPHALFsw005Ad,GCA_031223085.1,2705.0,49.5,,0,0,0,1
+Antarctic virus 3_IV_KPSTAsw015Ch,Antarctic virus 3_IV_KPSTAsw015Ch,GCA_031223095.1,2709.0,50.5,,0,0,0,1
+Antarctic virus 3_I_CPHALFsw004Ad,Antarctic virus 3_I_CPHALFsw004Ad,GCA_031223155.1,2720.0,50.0,,0,0,0,1
+Antarctic virus 3_V_CPHALFsw003Ad,Antarctic virus 3_V_CPHALFsw003Ad,GCA_031223215.1,2689.0,50.0,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw004Ad,Antarctic virus 4_II_KPSTAsw004Ad,GCA_031223245.1,2728.0,50.5,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw014Ch,Antarctic virus 4_II_KPSTAsw014Ch,GCA_031223275.1,2728.0,50.5,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw015Ch,Antarctic virus 4_II_KPSTAsw015Ch,GCA_031223325.1,2728.0,50.5,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw016Ch,Antarctic virus 4_II_KPSTAsw016Ch,GCA_031223345.1,2727.0,50.5,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw017Ch,Antarctic virus 4_II_KPSTAsw017Ch,GCA_031223385.1,2728.0,50.5,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw018Ch,Antarctic virus 4_II_KPSTAsw018Ch,GCA_031223425.1,2729.0,50.5,,0,0,0,1
+Antarctic virus 4_II_KPSTAsw019Ch,Antarctic virus 4_II_KPSTAsw019Ch,GCA_031223465.1,2729.0,50.5,,0,0,0,1
+Antarctic virus 4_I_KPSTAsw001Ad,Antarctic virus 4_I_KPSTAsw001Ad,GCA_031223515.1,2721.0,51.5,,0,0,0,1
+Antarctic virus 4_I_KPSTAsw002Ad,Antarctic virus 4_I_KPSTAsw002Ad,GCA_031223535.1,2721.0,51.5,,0,0,0,1
+Antarctic virus 4_I_KPSTAsw008Ad,Antarctic virus 4_I_KPSTAsw008Ad,GCA_031223575.1,2721.0,51.5,,0,0,0,1
+Antarctic virus 4_I_KPSTAsw009Ad,Antarctic virus 4_I_KPSTAsw009Ad,GCA_031223625.1,2721.0,51.5,,0,0,0,1
+Antarctic virus 4_I_KPSTAsw010Ad,Antarctic virus 4_I_KPSTAsw010Ad,GCA_031223635.1,2721.0,51.5,,0,0,0,1
+Antarctic virus 5_I_KPSTAsw001Ad,Antarctic virus 5_I_KPSTAsw001Ad,GCA_031223695.1,2719.0,49.5,,0,0,0,1
+Antarctic virus 5_I_KPSTAsw002Ad,Antarctic virus 5_I_KPSTAsw002Ad,GCA_031223715.1,2719.0,49.5,,0,0,0,1
+Antarctic virus 5_I_KPSTAsw004Ad,Antarctic virus 5_I_KPSTAsw004Ad,,,,,1,1,1,1
+Antarctic virus 5_I_KPSTAsw008Ad,Antarctic virus 5_I_KPSTAsw008Ad,GCA_031223735.1,2719.0,49.5,,0,0,0,1
+Antarctic virus 5_I_KPSTAsw009Ad,Antarctic virus 5_I_KPSTAsw009Ad,GCA_031223745.1,2719.0,49.5,,0,0,0,1
+Antarctic virus 5_I_KPSTAsw018Ch,Antarctic virus 5_I_KPSTAsw018Ch,GCA_031223755.1,2719.0,49.5,,0,0,0,1
+Antarctic virus 5_I_KPSTAsw020Ch,Antarctic virus 5_I_KPSTAsw020Ch,GCA_031223765.1,2719.0,49.5,,0,0,0,1
+Antarctic virus 6_I_APBOOTsw001Ad,Antarctic virus 6_I_APBOOTsw001Ad,GCA_031223775.1,2329.0,49.0,,0,0,0,1
+Antarctic virus 6_I_APBOOTsw001Ch,Antarctic virus 6_I_APBOOTsw001Ch,GCA_031223905.1,2329.0,49.0,,0,0,0,1
+Apapanepox virus,Apapanepox virus,,,,,1,1,1,1
+Aplomado falcon AAV1,Aplomado falcon AAV1,,,,,1,1,1,1
+Aplomado falcon AAV2,Aplomado falcon AAV2,,,,,1,1,1,1
+Apteryx rowi circovirus-like virus,Apteryx rowi circovirus-like virus,GCF_004129215.1,2085.0,46.0,2.0,0,0,0,0
+Aquila chrysaetos herpesvirus,Aquila chrysaetos herpesvirus,,,,,1,1,1,1
+Ara ararauna Chaphamaparvovirus,Ara ararauna Chaphamaparvovirus,,,,,1,1,1,1
+Ara ararauna aveparvovirus,Ara ararauna aveparvovirus,,,,,1,1,1,1
+Ara ararauna parvoviridae sp.,Ara ararauna parvoviridae sp.,,,,,1,1,1,1
+Ara severa parvoviridae sp.,Ara severa parvoviridae sp.,,,,,1,1,1,1
+Ardenna gravis alphaherpesvirus,Ardenna gravis alphaherpesvirus,,,,,1,1,1,1
+Artemyev virus,Artemyev virus,,,,,1,1,1,1
+Arundinax aedon parvoviridae sp.,Arundinax aedon parvoviridae sp.,,,,,1,1,1,1
+Asio otus herpesvirus,Asio otus herpesvirus,,,,,1,1,1,1
+Astroviridae sp.,Astroviridae sp.,GCA_031323405.1,8840.0,42.0,,0,0,0,1
+Astrovirus CDB-2012,Astrovirus CDB-2012,,,,,1,1,1,1
+Astrovirus Er/BMTK529/HUN/2011,Astrovirus Er/BMTK529/HUN/2011,,,,,1,1,1,1
+Astrovirus Er/SZAL6/HUN/2011,Astrovirus Er/SZAL6/HUN/2011,GCF_001045265.1,7025.0,52.5,3.0,0,0,0,0
+Astrovirus HK-2014,Astrovirus HK-2014,,,,,1,1,1,1
+Astrovirus Pygoscelis/DT/2012,Astrovirus Pygoscelis/DT/2012,,,,,1,1,1,1
+Astrovirus black-naped monarch/Cambodia/2010,Astrovirus black-naped monarch/Cambodia/2010,,,,,1,1,1,1
+Atadenovirus sp.,Atadenovirus sp.,,,,,1,1,1,1
+Australian shelduck avian sapelovirus,Australian shelduck avian sapelovirus,,,,,1,1,1,1
+Avastrovirus 1,Avastrovirus 1,,,,,1,1,1,1
+Avastrovirus 2,Avastrovirus 2,,,,,1,1,1,1
+Avastrovirus 3,Avastrovirus 3,,,,,1,1,1,1
+Avastrovirus guineafowl/ITA/2010/Bari-ELVA,Avastrovirus guineafowl/ITA/2010/Bari-ELVA,,,,,1,1,1,1
+Avastrovirus sp.,Avastrovirus sp.,,,,,1,1,1,1
+Aveparvovirus columbid1,Aveparvovirus columbid1,,,,,1,1,1,1
+Aveparvovirus galliform1,Aveparvovirus galliform1,,,,,1,1,1,1
+Aveparvovirus gruiform1,Aveparvovirus gruiform1,GCF_004130255.1,5515.0,54.0,4.0,0,0,0,0
+Aveparvovirus sp.,Aveparvovirus sp.,GCA_031199785.1,6092.0,45.0,,0,0,0,1
+Averyanov virus,Averyanov virus,,,,,1,1,1,1
+Aviadenovirus KLC-2015,Aviadenovirus KLC-2015,,,,,1,1,1,1
+Aviadenovirus hydropericardii,Aviadenovirus hydropericardii,,,,,1,1,1,1
+Aviadenovirus leucophthalmi,Aviadenovirus leucophthalmi,GCF_023131475.1,35595.0,52.5,25.0,0,0,0,0
+Aviadenovirus sp.,Aviadenovirus sp.,GCA_034408845.1,40727.0,49.5,,0,0,0,1
+Avian HDV-like agent,Avian HDV-like agent,GCF_004134625.1,1706.0,51.0,1.0,0,0,0,0
+Avian associated bastrovirus 1,Avian associated bastrovirus 1,,,,,1,1,1,1
+Avian associated bastrovirus 2,Avian associated bastrovirus 2,,,,,1,1,1,1
+Avian associated calicivirus 1,Avian associated calicivirus 1,,,,,1,1,1,1
+Avian associated calicivirus 2,Avian associated calicivirus 2,,,,,1,1,1,1
+Avian associated calicivirus 3,Avian associated calicivirus 3,,,,,1,1,1,1
+Avian associated calicivirus 4,Avian associated calicivirus 4,,,,,1,1,1,1
+Avian associated calicivirus 5,Avian associated calicivirus 5,,,,,1,1,1,1
+Avian associated hepe-like virus 1,Avian associated hepe-like virus 1,,,,,1,1,1,1
+Avian associated hepe-like virus 10,Avian associated hepe-like virus 10,,,,,1,1,1,1
+Avian associated hepe-like virus 2,Avian associated hepe-like virus 2,,,,,1,1,1,1
+Avian associated hepe-like virus 3,Avian associated hepe-like virus 3,,,,,1,1,1,1
+Avian associated hepe-like virus 4,Avian associated hepe-like virus 4,,,,,1,1,1,1
+Avian associated hepe-like virus 5,Avian associated hepe-like virus 5,,,,,1,1,1,1
+Avian associated hepe-like virus 6,Avian associated hepe-like virus 6,,,,,1,1,1,1
+Avian associated hepe-like virus 7,Avian associated hepe-like virus 7,,,,,1,1,1,1
+Avian associated hepe-like virus 8,Avian associated hepe-like virus 8,,,,,1,1,1,1
+Avian associated hepe-like virus 9,Avian associated hepe-like virus 9,,,,,1,1,1,1
+Avian associated orbivirus 1,Avian associated orbivirus 1,,,,,1,1,1,1
+Avian associated picorna-like virus 1,Avian associated picorna-like virus 1,,,,,1,1,1,1
+Avian associated picorna-like virus 10,Avian associated picorna-like virus 10,,,,,1,1,1,1
+Avian associated picorna-like virus 11,Avian associated picorna-like virus 11,,,,,1,1,1,1
+Avian associated picorna-like virus 13,Avian associated picorna-like virus 13,,,,,1,1,1,1
+Avian associated picorna-like virus 14,Avian associated picorna-like virus 14,,,,,1,1,1,1
+Avian associated picorna-like virus 15,Avian associated picorna-like virus 15,,,,,1,1,1,1
+Avian associated picorna-like virus 16,Avian associated picorna-like virus 16,,,,,1,1,1,1
+Avian associated picorna-like virus 17,Avian associated picorna-like virus 17,,,,,1,1,1,1
+Avian associated picorna-like virus 18,Avian associated picorna-like virus 18,,,,,1,1,1,1
+Avian associated picorna-like virus 19,Avian associated picorna-like virus 19,,,,,1,1,1,1
+Avian associated picorna-like virus 2,Avian associated picorna-like virus 2,,,,,1,1,1,1
+Avian associated picorna-like virus 20,Avian associated picorna-like virus 20,,,,,1,1,1,1
+Avian associated picorna-like virus 21,Avian associated picorna-like virus 21,,,,,1,1,1,1
+Avian associated picorna-like virus 22,Avian associated picorna-like virus 22,,,,,1,1,1,1
+Avian associated picorna-like virus 23,Avian associated picorna-like virus 23,,,,,1,1,1,1
+Avian associated picorna-like virus 24,Avian associated picorna-like virus 24,,,,,1,1,1,1
+Avian associated picorna-like virus 25,Avian associated picorna-like virus 25,,,,,1,1,1,1
+Avian associated picorna-like virus 26,Avian associated picorna-like virus 26,,,,,1,1,1,1
+Avian associated picorna-like virus 27,Avian associated picorna-like virus 27,,,,,1,1,1,1
+Avian associated picorna-like virus 3,Avian associated picorna-like virus 3,,,,,1,1,1,1
+Avian associated picorna-like virus 4,Avian associated picorna-like virus 4,,,,,1,1,1,1
+Avian associated picorna-like virus 5,Avian associated picorna-like virus 5,,,,,1,1,1,1
+Avian associated picorna-like virus 6,Avian associated picorna-like virus 6,,,,,1,1,1,1
+Avian associated picorna-like virus 7,Avian associated picorna-like virus 7,,,,,1,1,1,1
+Avian associated picorna-like virus 8,Avian associated picorna-like virus 8,,,,,1,1,1,1
+Avian associated picorna-like virus 9,Avian associated picorna-like virus 9,,,,,1,1,1,1
+Avian associated reo-like virus 1,Avian associated reo-like virus 1,,,,,1,1,1,1
+Avian associated reo-like virus 2,Avian associated reo-like virus 2,,,,,1,1,1,1
+Avian associated reo-like virus 3,Avian associated reo-like virus 3,,,,,1,1,1,1
+Avian associated reo-like virus 4,Avian associated reo-like virus 4,,,,,1,1,1,1
+Avian associated reo-like virus 5,Avian associated reo-like virus 5,,,,,1,1,1,1
+Avian associated reo-like virus 6,Avian associated reo-like virus 6,,,,,1,1,1,1
+Avian astrovirus,Avian astrovirus,GCA_031163175.1,6900.0,48.5,3.0,0,0,0,0
+Avian astrovirus 2,Avian astrovirus 2,,,,,1,1,1,1
+Avian avastrovirus 4,Avian avastrovirus 4,,,,,1,1,1,1
+Avian bornavirus,Avian bornavirus,,,,,1,1,1,1
+Avian chapparvovirus,Avian chapparvovirus,GCF_029884985.1,4425.0,40.5,3.0,0,0,0,0
+Avian coronavirus,Avian coronavirus,GCF_012271575.1,27464.0,38.0,6.0,0,0,0,0
+Avian coronavirus 9203,Avian coronavirus 9203,,,,,1,1,1,1
+Avian coronavirus MW05,Avian coronavirus MW05,,,,,1,1,1,1
+Avian endogenous retrovirus EAV-HP,Avian endogenous retrovirus EAV-HP,GCF_000859965.1,4302.0,53.0,1.0,0,0,0,0
+Avian endogenous virus,Avian endogenous virus,,,,,1,1,1,1
+Avian gyrovirus 13,Avian gyrovirus 13,GCA_031236215.1,2195.0,46.5,2.0,0,0,0,0
+Avian leukosis virus,Avian leukosis virus,GCF_000891575.1,7489.0,53.0,3.0,0,0,0,0
+Avian megrivirus,Avian megrivirus,GCA_031321445.1,9594.0,47.0,,0,0,0,1
+Avian metaavulavirus 21,Avian metaavulavirus 21,GCF_018586885.1,16914.0,40.5,6.0,0,0,0,0
+Avian myeloblastosis-associated virus,Avian myeloblastosis-associated virus,,,,,1,1,1,1
+Avian nephritis virus,Avian nephritis virus,GCA_031155505.1,6959.0,45.5,,0,0,0,1
+Avian nephritis virus 3,Avian nephritis virus 3,,,,,1,1,1,1
+Avian orthoreovirus,Avian orthoreovirus,GCF_003092915.1,23593.0,48.5,12.0,0,0,0,0
+Avian paramyxovirus 17,Avian paramyxovirus 17,GCF_013087815.1,15408.0,52.0,6.0,0,0,0,0
+Avian paramyxovirus penguin/Espirito Santo-Brazil/2008,Avian paramyxovirus penguin/Espirito Santo-Brazil/2008,,,,,1,1,1,1
+Avian picobirnavirus,Avian picobirnavirus,,,,,1,1,1,1
+Avian picobirnavirus GI,Avian picobirnavirus GI,,,,,1,1,1,1
+Avian polyomavirus,Avian polyomavirus,,,,,1,1,1,1
+Avian retrovirus,Avian retrovirus,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1001/2008,Avian rotavirus turkey/Minnesota/B1001/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1002/2008,Avian rotavirus turkey/Minnesota/B1002/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1003/2008,Avian rotavirus turkey/Minnesota/B1003/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1004/2008,Avian rotavirus turkey/Minnesota/B1004/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1006/2008,Avian rotavirus turkey/Minnesota/B1006/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1009/2008,Avian rotavirus turkey/Minnesota/B1009/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1010/2008,Avian rotavirus turkey/Minnesota/B1010/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1012/2008,Avian rotavirus turkey/Minnesota/B1012/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1013/2008,Avian rotavirus turkey/Minnesota/B1013/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1014/2008,Avian rotavirus turkey/Minnesota/B1014/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1015/2008,Avian rotavirus turkey/Minnesota/B1015/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1016/2008,Avian rotavirus turkey/Minnesota/B1016/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1017/2008,Avian rotavirus turkey/Minnesota/B1017/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1019/2008,Avian rotavirus turkey/Minnesota/B1019/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1020/2008,Avian rotavirus turkey/Minnesota/B1020/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1021/2008,Avian rotavirus turkey/Minnesota/B1021/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B1023/2008,Avian rotavirus turkey/Minnesota/B1023/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B2004/2008,Avian rotavirus turkey/Minnesota/B2004/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B2031/2008,Avian rotavirus turkey/Minnesota/B2031/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B2032/2008,Avian rotavirus turkey/Minnesota/B2032/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B2036/2008,Avian rotavirus turkey/Minnesota/B2036/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B2039/2008,Avian rotavirus turkey/Minnesota/B2039/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3003/2008,Avian rotavirus turkey/Minnesota/B3003/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3004/2008,Avian rotavirus turkey/Minnesota/B3004/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3005/2008,Avian rotavirus turkey/Minnesota/B3005/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3006/2008,Avian rotavirus turkey/Minnesota/B3006/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3007/2008,Avian rotavirus turkey/Minnesota/B3007/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3025/2008,Avian rotavirus turkey/Minnesota/B3025/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B3029/2008,Avian rotavirus turkey/Minnesota/B3029/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B4021/2008,Avian rotavirus turkey/Minnesota/B4021/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5006/2008,Avian rotavirus turkey/Minnesota/B5006/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5009/2008,Avian rotavirus turkey/Minnesota/B5009/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5015/2008,Avian rotavirus turkey/Minnesota/B5015/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5018/2008,Avian rotavirus turkey/Minnesota/B5018/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5019/2008,Avian rotavirus turkey/Minnesota/B5019/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5020/2008,Avian rotavirus turkey/Minnesota/B5020/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5022/2008,Avian rotavirus turkey/Minnesota/B5022/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5023/2008,Avian rotavirus turkey/Minnesota/B5023/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5024/2008,Avian rotavirus turkey/Minnesota/B5024/2008,,,,,1,1,1,1
+Avian rotavirus turkey/Minnesota/B5035/2008,Avian rotavirus turkey/Minnesota/B5035/2008,,,,,1,1,1,1
+Avibirnavirus gumboroense,Avibirnavirus gumboroense,GCF_000855485.1,5898.0,53.5,3.0,0,0,0,0
+Avihepatovirus A,Avihepatovirus A,,,,,1,1,1,1
+Avihepatovirus sp.,Avihepatovirus sp.,,,,,1,1,1,1
+Avihepevirus egretti,Avihepevirus egretti,,,,,1,1,1,1
+Avihepevirus magniiecur,Avihepevirus magniiecur,,,,,1,1,1,1
+Avipoxvirus 1130,Avipoxvirus 1130,,,,,1,1,1,1
+Avipoxvirus 2017,Avipoxvirus 2017,,,,,1,1,1,1
+Avipoxvirus 2A205643,Avipoxvirus 2A205643,,,,,1,1,1,1
+Avipoxvirus 31239,Avipoxvirus 31239,,,,,1,1,1,1
+Avipoxvirus 3864,Avipoxvirus 3864,,,,,1,1,1,1
+Avipoxvirus BL-2012,Avipoxvirus BL-2012,,,,,1,1,1,1
+Avipoxvirus Berthelot's pipit/Porto Santo/V5PO/2006,Avipoxvirus Berthelot's pipit/Porto Santo/V5PO/2006,,,,,1,1,1,1
+Avipoxvirus Berthelot's pipit/Tenerife/blue titpox/2006,Avipoxvirus Berthelot's pipit/Tenerife/blue titpox/2006,,,,,1,1,1,1
+Avipoxvirus Betim 1,Avipoxvirus Betim 1,,,,,1,1,1,1
+Avipoxvirus CVL,Avipoxvirus CVL,,,,,1,1,1,1
+Avipoxvirus DX,Avipoxvirus DX,,,,,1,1,1,1
+Avipoxvirus E00/RD,Avipoxvirus E00/RD,,,,,1,1,1,1
+Avipoxvirus E00/S5,Avipoxvirus E00/S5,,,,,1,1,1,1
+Avipoxvirus E00/U5,Avipoxvirus E00/U5,,,,,1,1,1,1
+Avipoxvirus E00/UN,Avipoxvirus E00/UN,,,,,1,1,1,1
+Avipoxvirus E00/VS,Avipoxvirus E00/VS,,,,,1,1,1,1
+Avipoxvirus EX8221,Avipoxvirus EX8221,,,,,1,1,1,1
+Avipoxvirus FGPV_KD09.ZAF,Avipoxvirus FGPV_KD09.ZAF,,,,,1,1,1,1
+Avipoxvirus FMA-2012,Avipoxvirus FMA-2012,,,,,1,1,1,1
+Avipoxvirus GB,Avipoxvirus GB,,,,,1,1,1,1
+Avipoxvirus Gav01/Lima/2011,Avipoxvirus Gav01/Lima/2011,,,,,1,1,1,1
+Avipoxvirus HNPV/NZL/2002,Avipoxvirus HNPV/NZL/2002,,,,,1,1,1,1
+Avipoxvirus HUPV1/NZL/1992,Avipoxvirus HUPV1/NZL/1992,,,,,1,1,1,1
+Avipoxvirus ID2701,Avipoxvirus ID2701,,,,,1,1,1,1
+Avipoxvirus ID2757,Avipoxvirus ID2757,,,,,1,1,1,1
+Avipoxvirus ID8501092,Avipoxvirus ID8501092,,,,,1,1,1,1
+Avipoxvirus ID8926,Avipoxvirus ID8926,,,,,1,1,1,1
+Avipoxvirus ID8964,Avipoxvirus ID8964,,,,,1,1,1,1
+Avipoxvirus ID9081,Avipoxvirus ID9081,,,,,1,1,1,1
+Avipoxvirus ID9801,Avipoxvirus ID9801,,,,,1,1,1,1
+Avipoxvirus India/07/2009,Avipoxvirus India/07/2009,,,,,1,1,1,1
+Avipoxvirus India/08/2009,Avipoxvirus India/08/2009,,,,,1,1,1,1
+Avipoxvirus Japanese cormorant/Iwakuni/2017,Avipoxvirus Japanese cormorant/Iwakuni/2017,,,,,1,1,1,1
+Avipoxvirus Japanese cormorant/Miyoshi/2017,Avipoxvirus Japanese cormorant/Miyoshi/2017,,,,,1,1,1,1
+Avipoxvirus Japanese cormorant/Yamanashi/2017,Avipoxvirus Japanese cormorant/Yamanashi/2017,,,,,1,1,1,1
+Avipoxvirus Japanese cormorant/Yamanashi/2019,Avipoxvirus Japanese cormorant/Yamanashi/2019,,,,,1,1,1,1
+Avipoxvirus MK1,Avipoxvirus MK1,,,,,1,1,1,1
+Avipoxvirus MZ-2014,Avipoxvirus MZ-2014,,,,,1,1,1,1
+Avipoxvirus N624124,Avipoxvirus N624124,,,,,1,1,1,1
+Avipoxvirus OKr-2014,Avipoxvirus OKr-2014,,,,,1,1,1,1
+Avipoxvirus OL1,Avipoxvirus OL1,,,,,1,1,1,1
+Avipoxvirus PA153/05,Avipoxvirus PA153/05,,,,,1,1,1,1
+Avipoxvirus PAPV/NZL/2002,Avipoxvirus PAPV/NZL/2002,,,,,1,1,1,1
+Avipoxvirus PCcPV1/NZL/2006,Avipoxvirus PCcPV1/NZL/2006,,,,,1,1,1,1
+Avipoxvirus PCcPV2/NZL/2007,Avipoxvirus PCcPV2/NZL/2007,,,,,1,1,1,1
+Avipoxvirus PEPV_San92,Avipoxvirus PEPV_San92,,,,,1,1,1,1
+Avipoxvirus PGPV10K_LD1,Avipoxvirus PGPV10K_LD1,,,,,1,1,1,1
+Avipoxvirus PGPV10K_RP1,Avipoxvirus PGPV10K_RP1,,,,,1,1,1,1
+Avipoxvirus PGPV10K_SP1,Avipoxvirus PGPV10K_SP1,,,,,1,1,1,1
+Avipoxvirus PGPV11K_FP1,Avipoxvirus PGPV11K_FP1,,,,,1,1,1,1
+Avipoxvirus PGPV11K_FP2,Avipoxvirus PGPV11K_FP2,,,,,1,1,1,1
+Avipoxvirus PGPV11K_LD2,Avipoxvirus PGPV11K_LD2,,,,,1,1,1,1
+Avipoxvirus PGPV11K_Pi5,Avipoxvirus PGPV11K_Pi5,,,,,1,1,1,1
+Avipoxvirus PGPV93K_RP2,Avipoxvirus PGPV93K_RP2,,,,,1,1,1,1
+Avipoxvirus PGPVO_Pi1,Avipoxvirus PGPVO_Pi1,,,,,1,1,1,1
+Avipoxvirus PGPVO_Pi2,Avipoxvirus PGPVO_Pi2,,,,,1,1,1,1
+Avipoxvirus PGPVO_Pi4,Avipoxvirus PGPVO_Pi4,,,,,1,1,1,1
+Avipoxvirus PTPV/NZL/2005,Avipoxvirus PTPV/NZL/2005,,,,,1,1,1,1
+Avipoxvirus Pat/07,Avipoxvirus Pat/07,,,,,1,1,1,1
+Avipoxvirus Peekham,Avipoxvirus Peekham,,,,,1,1,1,1
+Avipoxvirus Pox10291,Avipoxvirus Pox10291,,,,,1,1,1,1
+Avipoxvirus Pox10302,Avipoxvirus Pox10302,,,,,1,1,1,1
+Avipoxvirus Pox10588,Avipoxvirus Pox10588,,,,,1,1,1,1
+Avipoxvirus Pox10643,Avipoxvirus Pox10643,,,,,1,1,1,1
+Avipoxvirus Pox10716,Avipoxvirus Pox10716,,,,,1,1,1,1
+Avipoxvirus Pox11408,Avipoxvirus Pox11408,,,,,1,1,1,1
+Avipoxvirus Pox11458,Avipoxvirus Pox11458,,,,,1,1,1,1
+Avipoxvirus Pox12717,Avipoxvirus Pox12717,,,,,1,1,1,1
+Avipoxvirus Pox13916,Avipoxvirus Pox13916,,,,,1,1,1,1
+Avipoxvirus Pox7379,Avipoxvirus Pox7379,,,,,1,1,1,1
+Avipoxvirus PoxHAAM26,Avipoxvirus PoxHAAM26,,,,,1,1,1,1
+Avipoxvirus PoxPV013.3,Avipoxvirus PoxPV013.3,,,,,1,1,1,1
+Avipoxvirus Spilornis cheela/Taiwan/2008,Avipoxvirus Spilornis cheela/Taiwan/2008,,,,,1,1,1,1
+Avipoxvirus TD,Avipoxvirus TD,,,,,1,1,1,1
+Avipoxvirus TMPV,Avipoxvirus TMPV,,,,,1,1,1,1
+Avipoxvirus TNPV3/NZL/2007,Avipoxvirus TNPV3/NZL/2007,,,,,1,1,1,1
+Avipoxvirus TNPV6/NZL/2009,Avipoxvirus TNPV6/NZL/2009,,,,,1,1,1,1
+Avipoxvirus TPPV/NZL/2002,Avipoxvirus TPPV/NZL/2002,,,,,1,1,1,1
+Avipoxvirus TVPV2/NZL/2008,Avipoxvirus TVPV2/NZL/2008,,,,,1,1,1,1
+Avipoxvirus VIC-02,Avipoxvirus VIC-02,,,,,1,1,1,1
+Avipoxvirus VIC-08,Avipoxvirus VIC-08,,,,,1,1,1,1
+Avipoxvirus XL,Avipoxvirus XL,,,,,1,1,1,1
+Avipoxvirus ZLPV1/NZL/2007,Avipoxvirus ZLPV1/NZL/2007,,,,,1,1,1,1
+Avipoxvirus blackcap/CZE/2007,Avipoxvirus blackcap/CZE/2007,,,,,1,1,1,1
+Avipoxvirus canary/PT-44463/Portugal/2010,Avipoxvirus canary/PT-44463/Portugal/2010,,,,,1,1,1,1
+Avipoxvirus chicken/PT-30327/Portugal/2013,Avipoxvirus chicken/PT-30327/Portugal/2013,,,,,1,1,1,1
+Avipoxvirus clade C,Avipoxvirus clade C,,,,,1,1,1,1
+Avipoxvirus flamingo/KD09/ZAF,Avipoxvirus flamingo/KD09/ZAF,,,,,1,1,1,1
+Avipoxvirus flamingo/PT-29021/Portugal/2010,Avipoxvirus flamingo/PT-29021/Portugal/2010,,,,,1,1,1,1
+Avipoxvirus great tit/ER-2008/CZE,Avipoxvirus great tit/ER-2008/CZE,,,,,1,1,1,1
+Avipoxvirus isolate 1739/2006,Avipoxvirus isolate 1739/2006,,,,,1,1,1,1
+Avipoxvirus isolate 2634/1998,Avipoxvirus isolate 2634/1998,,,,,1,1,1,1
+Avipoxvirus isolate APIII,Avipoxvirus isolate APIII,,,,,1,1,1,1
+Avipoxvirus isolate Alaska,Avipoxvirus isolate Alaska,,,,,1,1,1,1
+Avipoxvirus isolate Antarctica,Avipoxvirus isolate Antarctica,,,,,1,1,1,1
+Avipoxvirus isolate Argentina,Avipoxvirus isolate Argentina,,,,,1,1,1,1
+Avipoxvirus isolate Arizona,Avipoxvirus isolate Arizona,,,,,1,1,1,1
+Avipoxvirus isolate Belgium,Avipoxvirus isolate Belgium,,,,,1,1,1,1
+Avipoxvirus isolate California,Avipoxvirus isolate California,,,,,1,1,1,1
+Avipoxvirus isolate Cca/07,Avipoxvirus isolate Cca/07,,,,,1,1,1,1
+Avipoxvirus isolate Cch/07,Avipoxvirus isolate Cch/07,,,,,1,1,1,1
+Avipoxvirus isolate Chile,Avipoxvirus isolate Chile,,,,,1,1,1,1
+Avipoxvirus isolate Colorado,Avipoxvirus isolate Colorado,,,,,1,1,1,1
+Avipoxvirus isolate DD1258,Avipoxvirus isolate DD1258,,,,,1,1,1,1
+Avipoxvirus isolate Florida,Avipoxvirus isolate Florida,,,,,1,1,1,1
+Avipoxvirus isolate Galapagos Islands,Avipoxvirus isolate Galapagos Islands,,,,,1,1,1,1
+Avipoxvirus isolate Georgia,Avipoxvirus isolate Georgia,,,,,1,1,1,1
+Avipoxvirus isolate Hawaii,Avipoxvirus isolate Hawaii,,,,,1,1,1,1
+Avipoxvirus isolate Hungary,Avipoxvirus isolate Hungary,,,,,1,1,1,1
+Avipoxvirus isolate ID8501092,Avipoxvirus isolate ID8501092,,,,,1,1,1,1
+Avipoxvirus isolate ID8964,Avipoxvirus isolate ID8964,,,,,1,1,1,1
+Avipoxvirus isolate Illinois,Avipoxvirus isolate Illinois,,,,,1,1,1,1
+Avipoxvirus isolate Maryland,Avipoxvirus isolate Maryland,,,,,1,1,1,1
+Avipoxvirus isolate Massachusetts,Avipoxvirus isolate Massachusetts,,,,,1,1,1,1
+Avipoxvirus isolate Midway Islands,Avipoxvirus isolate Midway Islands,,,,,1,1,1,1
+Avipoxvirus isolate Minnesota,Avipoxvirus isolate Minnesota,,,,,1,1,1,1
+Avipoxvirus isolate Mississippi,Avipoxvirus isolate Mississippi,,,,,1,1,1,1
+Avipoxvirus isolate Montana,Avipoxvirus isolate Montana,,,,,1,1,1,1
+Avipoxvirus isolate Nevada,Avipoxvirus isolate Nevada,,,,,1,1,1,1
+Avipoxvirus isolate New York,Avipoxvirus isolate New York,,,,,1,1,1,1
+Avipoxvirus isolate Oregon,Avipoxvirus isolate Oregon,,,,,1,1,1,1
+Avipoxvirus isolate PM33/2007,Avipoxvirus isolate PM33/2007,,,,,1,1,1,1
+Avipoxvirus isolate PM34/2007,Avipoxvirus isolate PM34/2007,,,,,1,1,1,1
+Avipoxvirus isolate PM9/2007,Avipoxvirus isolate PM9/2007,,,,,1,1,1,1
+Avipoxvirus isolate Pat/07,Avipoxvirus isolate Pat/07,,,,,1,1,1,1
+Avipoxvirus isolate Pennsylvania,Avipoxvirus isolate Pennsylvania,,,,,1,1,1,1
+Avipoxvirus isolate Sat/07,Avipoxvirus isolate Sat/07,,,,,1,1,1,1
+Avipoxvirus isolate Sevilla,Avipoxvirus isolate Sevilla,,,,,1,1,1,1
+Avipoxvirus isolate South Korea,Avipoxvirus isolate South Korea,,,,,1,1,1,1
+Avipoxvirus isolate Spain,Avipoxvirus isolate Spain,,,,,1,1,1,1
+Avipoxvirus isolate Texas,Avipoxvirus isolate Texas,,,,,1,1,1,1
+Avipoxvirus isolate United Kingdom,Avipoxvirus isolate United Kingdom,,,,,1,1,1,1
+Avipoxvirus isolate Utah,Avipoxvirus isolate Utah,,,,,1,1,1,1
+Avipoxvirus isolate Vienna,Avipoxvirus isolate Vienna,,,,,1,1,1,1
+Avipoxvirus isolate Washington,Avipoxvirus isolate Washington,,,,,1,1,1,1
+Avipoxvirus isolate Washington DC,Avipoxvirus isolate Washington DC,,,,,1,1,1,1
+Avipoxvirus isolate Wisconsin,Avipoxvirus isolate Wisconsin,,,,,1,1,1,1
+Avipoxvirus isolate the Netherlands,Avipoxvirus isolate the Netherlands,,,,,1,1,1,1
+Avipoxvirus large-billed crow/Asahikawa/Hokkaido/JPN/2008,Avipoxvirus large-billed crow/Asahikawa/Hokkaido/JPN/2008,,,,,1,1,1,1
+Avipoxvirus penguin/AP/ARG/2007,Avipoxvirus penguin/AP/ARG/2007,,,,,1,1,1,1
+Avipoxvirus pigeon/CAPM V-101/CZE/1965,Avipoxvirus pigeon/CAPM V-101/CZE/1965,,,,,1,1,1,1
+Avipoxvirus sp.,Avipoxvirus sp.,GCA_033951315.1,113506.0,31.0,108.0,0,0,0,0
+Avipoxvirus strain Elsharqyia_PGPV,Avipoxvirus strain Elsharqyia_PGPV,,,,,1,1,1,1
+Avipoxvirus white-tailed eagle/Hokkaido/JPN/2004,Avipoxvirus white-tailed eagle/Hokkaido/JPN/2004,,,,,1,1,1,1
+Avipoxvirus wood pigeon/ER-2008/CZE,Avipoxvirus wood pigeon/ER-2008/CZE,,,,,1,1,1,1
+Avisivirus A,Avisivirus A,GCF_002816595.1,7373.0,45.0,1.0,0,0,0,0
+Avisivirus AVE052/AsV,Avisivirus AVE052/AsV,GCA_031171275.1,7342.0,46.0,,0,0,0,1
+Avisivirus B,Avisivirus B,GCF_000924115.1,7310.0,48.5,1.0,0,0,0,0
+Avisivirus C,Avisivirus C,GCF_000923475.1,7167.0,45.0,1.0,0,0,0,0
+Avisivirus Pf-CHK1/AsV,Avisivirus Pf-CHK1/AsV,GCF_001502795.1,7270.0,45.5,1.0,0,0,0,0
+Avisivirus sp.,Avisivirus sp.,,,,,1,1,1,1
+Avocet calicivirus,Avocet calicivirus,,,,,1,1,1,1
+Avocet megrivirus,Avocet megrivirus,,,,,1,1,1,1
+Avocet picornavirus,Avocet picornavirus,,,,,1,1,1,1
+Avocet picornavirus B,Avocet picornavirus B,,,,,1,1,1,1
+Avon-Heathcote Estuary associated circular virus 25,Avon-Heathcote Estuary associated circular virus 25,GCF_000954435.1,2142.0,42.0,2.0,0,0,0,0
+Avulavirus sp.,Avulavirus sp.,,,,,1,1,1,1
+Baku virus,Baku virus,,,,,1,1,1,1
+Balagodu virus,Balagodu virus,GCF_029887365.1,12557.0,36.5,3.0,0,0,0,0
+Bald eagle hepacivirus,Bald eagle hepacivirus,GCA_031193265.1,11013.0,47.0,,0,0,0,1
+Bald eagle poxvirus,Bald eagle poxvirus,,,,,1,1,1,1
+Balleny virus,Balleny virus,,,,,1,1,1,1
+Bandavirus dabieense,Bandavirus dabieense,,,,,1,1,1,1
+Bardin virus,Bardin virus,,,,,1,1,1,1
+Bavaria virus,Bavaria virus,GCF_001963095.1,8176.0,54.0,2.0,0,0,0,0
+Bavovirus sp.,Bavovirus sp.,,,,,1,1,1,1
+BeAn 157575 virus,BeAn 157575 virus,,,,,1,1,1,1
+Belem virus,Belem virus,GCF_029887655.1,12765.0,35.5,4.0,0,0,0,0
+Bellingshausen virus,Bellingshausen virus,,,,,1,1,1,1
+Bengalese munia circovirus,Bengalese munia circovirus,,,,,1,1,1,1
+Betacoronavirus 1,Betacoronavirus 1,,,,,1,1,1,1
+Bird calicivirus,Bird calicivirus,,,,,1,1,1,1
+Bird parvovirus,Bird parvovirus,,,,,1,1,1,1
+Birnavirus sp.,Birnavirus sp.,,,,,1,1,1,1
+Biscoe virus,Biscoe virus,,,,,1,1,1,1
+Blackbird arilivirus,Blackbird arilivirus,GCF_004132805.1,9228.0,48.0,2.0,0,0,0,0
+Blackbird siadenovirus,Blackbird siadenovirus,,,,,1,1,1,1
+Blencathra virus,Blencathra virus,,,,,1,1,1,1
+Blue tit circovirus,Blue tit circovirus,,,,,1,1,1,1
+Blue tit hepacivirus,Blue tit hepacivirus,,,,,1,1,1,1
+Bobaya virus,Bobaya virus,GCF_029888205.1,12536.0,36.0,3.0,0,0,0,0
+Bonasa bonasia parvoviridae sp.,Bonasa bonasia parvoviridae sp.,,,,,1,1,1,1
+Borchgrevink virus,Borchgrevink virus,,,,,1,1,1,1
+Bransfield virus,Bransfield virus,,,,,1,1,1,1
+Brazilian bird anellovirus type 1,Brazilian bird anellovirus type 1,,,,,1,1,1,1
+Brazilian bird anellovirus type 2,Brazilian bird anellovirus type 2,,,,,1,1,1,1
+Brazilian bird anellovirus type 3,Brazilian bird anellovirus type 3,,,,,1,1,1,1
+Brazilian penguinpox virus,Brazilian penguinpox virus,,,,,1,1,1,1
+British Admiral virus,British Admiral virus,,,,,1,1,1,1
+Bruce virus,Bruce virus,,,,,1,1,1,1
+Bruthen virus,Bruthen virus,,,,,1,1,1,1
+Bubo bubo herpesvirus,Bubo bubo herpesvirus,,,,,1,1,1,1
+Budgerigar adenovirus 1,Budgerigar adenovirus 1,,,,,1,1,1,1
+Buffalo Bayou virus,Buffalo Bayou virus,,,,,1,1,1,1
+Bulbul coronavirus HKU11,Bulbul coronavirus HKU11,GCF_002816215.1,26487.0,38.5,9.0,0,0,0,0
+Buldecovirus sp.,Buldecovirus sp.,,,,,1,1,1,1
+Burhinus oedicnemus herpesvirus,Burhinus oedicnemus herpesvirus,,,,,1,1,1,1
+Buteo buteo herpesvirus,Buteo buteo herpesvirus,,,,,1,1,1,1
+Byrd virus,Byrd virus,,,,,1,1,1,1
+CRESS DNA virus,CRESS DNA virus,,,,,1,1,1,1
+Cacatuid alphaherpesvirus 1,Cacatuid alphaherpesvirus 1,,,,,1,1,1,1
+Cacatuid alphaherpesvirus 2,Cacatuid alphaherpesvirus 2,GCF_027939225.1,141537.0,46.0,79.0,0,0,0,0
+Caliciviridae sp.,Caliciviridae sp.,,,,,1,1,1,1
+Calicivirus chicken/V0013/Bayern/2004,Calicivirus chicken/V0013/Bayern/2004,,,,,1,1,1,1
+Calicivirus chicken/V0021/Bayern/2004,Calicivirus chicken/V0021/Bayern/2004,GCF_004786895.1,7908.0,54.0,2.0,0,0,0,0
+Calicivirus chicken/V0027/Bayern/2004,Calicivirus chicken/V0027/Bayern/2004,,,,,1,1,1,1
+Calonectris borealis alphaherpesvirus,Calonectris borealis alphaherpesvirus,,,,,1,1,1,1
+Canada goose coronavirus,Canada goose coronavirus,GCF_012271745.1,28539.0,38.5,16.0,0,0,0,0
+Canary chaphamaparvovirus 1,Canary chaphamaparvovirus 1,,,,,1,1,1,1
+Canary chaphamaparvovirus 2,Canary chaphamaparvovirus 2,,,,,1,1,1,1
+Canary dependoparvovirus 1,Canary dependoparvovirus 1,,,,,1,1,1,1
+Canary dependoparvovirus 2,Canary dependoparvovirus 2,,,,,1,1,1,1
+Canarypox virus,Canarypox virus,GCF_000841685.1,359853.0,30.5,328.0,0,0,0,0
+Cape sugarbird pox virus,Cape sugarbird pox virus,,,,,1,1,1,1
+Carnarvon virus,Carnarvon virus,,,,,1,1,1,1
+Carpodacus sibiricus Genomoviridae sp.,Carpodacus sibiricus Genomoviridae sp.,,,,,1,1,1,1
+Carpodacus sibiricus parvoviridae sp.,Carpodacus sibiricus parvoviridae sp.,,,,,1,1,1,1
+Cataraqui virus,Cataraqui virus,,,,,1,1,1,1
+Caudoviricetes sp.,Caudoviricetes sp.,GCA_003657725.1,419387.0,27.5,,0,0,0,1
+Cecropis daurica CRESS-DNA-virus sp.,Cecropis daurica CRESS-DNA-virus sp.,,,,,1,1,1,1
+Cecropis daurica Genomoviridae sp.,Cecropis daurica Genomoviridae sp.,,,,,1,1,1,1
+Cecropis daurica parvoviridae sp.,Cecropis daurica parvoviridae sp.,,,,,1,1,1,1
+Chaphamaparvovirus anseriform 7,Chaphamaparvovirus anseriform 7,,,,,1,1,1,1
+Chaphamaparvovirus anseriform 8,Chaphamaparvovirus anseriform 8,,,,,1,1,1,1
+Chaphamaparvovirus anseriform 9,Chaphamaparvovirus anseriform 9,,,,,1,1,1,1
+Chaphamaparvovirus anseriform1,Chaphamaparvovirus anseriform1,GCF_029885285.1,4382.0,40.5,4.0,0,0,0,0
+Chaphamaparvovirus anseriform2,Chaphamaparvovirus anseriform2,GCF_029885295.1,4302.0,39.5,4.0,0,0,0,0
+Chaphamaparvovirus anseriform3,Chaphamaparvovirus anseriform3,GCF_029885305.1,4387.0,39.0,4.0,0,0,0,0
+Chaphamaparvovirus anseriform4,Chaphamaparvovirus anseriform4,GCF_029885275.1,4323.0,39.0,4.0,0,0,0,0
+Chaphamaparvovirus anseriform5,Chaphamaparvovirus anseriform5,GCF_029885885.1,4231.0,41.0,4.0,0,0,0,0
+Chaphamaparvovirus anseriform6,Chaphamaparvovirus anseriform6,GCF_029885895.1,4087.0,41.0,4.0,0,0,0,0
+Chaphamaparvovirus avian1,Chaphamaparvovirus avian1,,,,,1,1,1,1
+Chaphamaparvovirus galliform1,Chaphamaparvovirus galliform1,GCF_013087235.1,3539.0,40.0,2.0,0,0,0,0
+Chaphamaparvovirus galliform2,Chaphamaparvovirus galliform2,GCF_013087825.1,4432.0,39.5,2.0,0,0,0,0
+Chaphamaparvovirus galliform3,Chaphamaparvovirus galliform3,GCF_013087285.1,3661.0,39.5,1.0,0,0,0,0
+Chaphamaparvovirus galliform4,Chaphamaparvovirus galliform4,GCF_018587365.1,4428.0,42.5,3.0,0,0,0,0
+Chaphamaparvovirus galliform5,Chaphamaparvovirus galliform5,GCF_018587395.1,4348.0,42.0,3.0,0,0,0,0
+Chaphamaparvovirus gruiform1,Chaphamaparvovirus gruiform1,,,,,1,1,1,1
+Chaphamaparvovirus gruiform2,Chaphamaparvovirus gruiform2,,,,,1,1,1,1
+Chaphamaparvovirus gruiform3,Chaphamaparvovirus gruiform3,,,,,1,1,1,1
+Chaphamaparvovirus gruiform4,Chaphamaparvovirus gruiform4,,,,,1,1,1,1
+Chaphamaparvovirus gyb-MR3/2015/HUN,Chaphamaparvovirus gyb-MR3/2015/HUN,,,,,1,1,1,1
+Chaphamaparvovirus psittacine1,Chaphamaparvovirus psittacine1,GCF_018587825.1,4116.0,42.5,3.0,0,0,0,0
+Chaphamaparvovirus sp.,Chaphamaparvovirus sp.,,,,,1,1,1,1
+Chaphamaparvovirus strigiform1,Chaphamaparvovirus strigiform1,GCF_029885625.1,4219.0,41.0,3.0,0,0,0,0
+Chapparvovirus sp.,Chapparvovirus sp.,GCA_031176495.1,4181.0,34.5,,0,0,0,1
+Charcot virus,Charcot virus,,,,,1,1,1,1
+Chatham orthoreovirus,Chatham orthoreovirus,GCA_031528425.1,23498.0,48.0,,0,0,0,1
+Chestnut teal aalivirus,Chestnut teal aalivirus,,,,,1,1,1,1
+Chestnut teal astrovirus,Chestnut teal astrovirus,,,,,1,1,1,1
+Chestnut teal chaphamaparvovirus,Chestnut teal chaphamaparvovirus,,,,,1,1,1,1
+Chestnut teal chaphamaparvovirus 1,Chestnut teal chaphamaparvovirus 1,GCF_029885285.1,4382.0,40.5,4.0,0,0,0,0
+Chestnut teal chaphamaparvovirus 2,Chestnut teal chaphamaparvovirus 2,GCF_029885295.1,4302.0,39.5,4.0,0,0,0,0
+Chestnut teal chaphamaparvovirus 3,Chestnut teal chaphamaparvovirus 3,GCF_029885305.1,4387.0,39.0,4.0,0,0,0,0
+Chestnut teal megrivirus,Chestnut teal megrivirus,,,,,1,1,1,1
+Chestnut teal sicinivirus-like virus,Chestnut teal sicinivirus-like virus,,,,,1,1,1,1
+Chicken associated smacovirus,Chicken associated smacovirus,GCF_003963755.1,2343.0,40.0,2.0,0,0,0,0
+Chicken astrovirus,Chicken astrovirus,GCF_000852205.1,6927.0,46.5,2.0,0,0,0,0
+Chicken astrovirus 2,Chicken astrovirus 2,,,,,1,1,1,1
+Chicken chapparvovirus 1,Chicken chapparvovirus 1,,,,,1,1,1,1
+Chicken circovirus 2,Chicken circovirus 2,GCA_031201085.1,2001.0,34.5,2.0,0,0,0,0
+Chicken circovirus 3,Chicken circovirus 3,,,,,1,1,1,1
+Chicken circovirus 4,Chicken circovirus 4,GCA_031198535.1,2031.0,31.0,2.0,0,0,0,0
+Chicken circovirus 5,Chicken circovirus 5,GCA_031198515.1,1936.0,43.5,2.0,0,0,0,0
+Chicken circovirus SDWF,Chicken circovirus SDWF,GCA_031185315.1,1911.0,37.0,2.0,0,0,0,0
+Chicken cyclovirus mg4_1122,Chicken cyclovirus mg4_1122,GCA_031200465.1,1847.0,42.5,,0,0,0,1
+Chicken cyclovirus mg5_2967,Chicken cyclovirus mg5_2967,GCA_031200475.1,1902.0,49.5,,0,0,0,1
+Chicken cyclovirus mg7_102,Chicken cyclovirus mg7_102,GCA_031200485.1,1910.0,49.5,,0,0,0,1
+Chicken enteric coronavirus,Chicken enteric coronavirus,,,,,1,1,1,1
+Chicken gallivirus 1,Chicken gallivirus 1,,,,,1,1,1,1
+Chicken genomovirus,Chicken genomovirus,,,,,1,1,1,1
+Chicken genomovirus mg2_274u,Chicken genomovirus mg2_274u,GCA_031200365.1,2206.0,50.0,,0,0,0,1
+Chicken genomovirus mg2_75,Chicken genomovirus mg2_75,GCA_031200375.1,2144.0,49.0,,0,0,0,1
+Chicken genomovirus mg2_77,Chicken genomovirus mg2_77,GCA_031200385.1,2127.0,50.5,,0,0,0,1
+Chicken genomovirus mg4_1107,Chicken genomovirus mg4_1107,GCA_031200395.1,2270.0,51.0,,0,0,0,1
+Chicken genomovirus mg4_1196,Chicken genomovirus mg4_1196,GCA_031200405.1,2191.0,49.5,,0,0,0,1
+Chicken genomovirus mg4_1210,Chicken genomovirus mg4_1210,GCA_031200415.1,2180.0,50.5,,0,0,0,1
+Chicken genomovirus mg4_1259,Chicken genomovirus mg4_1259,GCA_031200425.1,2145.0,50.0,,0,0,0,1
+Chicken genomovirus mg7_70,Chicken genomovirus mg7_70,GCA_031200435.1,2236.0,54.0,,0,0,0,1
+Chicken genomovirus mg7_74,Chicken genomovirus mg7_74,GCA_031200445.1,2182.0,50.5,,0,0,0,1
+Chicken genomovirus mg8_416,Chicken genomovirus mg8_416,GCA_031200455.1,2161.0,49.0,,0,0,0,1
+Chicken parvovirus 109/HRV/2009,Chicken parvovirus 109/HRV/2009,,,,,1,1,1,1
+Chicken parvovirus 347/HUN/2008,Chicken parvovirus 347/HUN/2008,,,,,1,1,1,1
+Chicken parvovirus 348/HUN/2008,Chicken parvovirus 348/HUN/2008,,,,,1,1,1,1
+Chicken parvovirus 399/HRV/2010,Chicken parvovirus 399/HRV/2010,,,,,1,1,1,1
+Chicken parvovirus 404/HRV/2010,Chicken parvovirus 404/HRV/2010,,,,,1,1,1,1
+Chicken parvovirus 458/HRV/2010,Chicken parvovirus 458/HRV/2010,,,,,1,1,1,1
+Chicken parvovirus 478/HRV/2010,Chicken parvovirus 478/HRV/2010,,,,,1,1,1,1
+Chicken parvovirus 528/HUN/2009,Chicken parvovirus 528/HUN/2009,,,,,1,1,1,1
+Chicken parvovirus 5B8/2009,Chicken parvovirus 5B8/2009,,,,,1,1,1,1
+Chicken parvovirus 92/HRV/2009,Chicken parvovirus 92/HRV/2009,,,,,1,1,1,1
+Chicken parvovirus A1/HUN/2009,Chicken parvovirus A1/HUN/2009,,,,,1,1,1,1
+Chicken parvovirus ABU/HUN/2009,Chicken parvovirus ABU/HUN/2009,,,,,1,1,1,1
+Chicken parvovirus B1/HUN/2009,Chicken parvovirus B1/HUN/2009,,,,,1,1,1,1
+Chicken parvovirus Ch1514/2007/HUN,Chicken parvovirus Ch1514/2007/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch1515/2007/HUN,Chicken parvovirus Ch1515/2007/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch189/2009/HUN,Chicken parvovirus Ch189/2009/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch538/2009/HUN,Chicken parvovirus Ch538/2009/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch5596_10/2010/HUN,Chicken parvovirus Ch5596_10/2010/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch5596_13/2010/HUN,Chicken parvovirus Ch5596_13/2010/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch5596_18/2010/HUN,Chicken parvovirus Ch5596_18/2010/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch5596_7/2010/HUN,Chicken parvovirus Ch5596_7/2010/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch841_3/2009/HUN,Chicken parvovirus Ch841_3/2009/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch852/2009/HUN,Chicken parvovirus Ch852/2009/HUN,,,,,1,1,1,1
+Chicken parvovirus Ch_114_10,Chicken parvovirus Ch_114_10,,,,,1,1,1,1
+Chicken parvovirus Cro/Glog/2010,Chicken parvovirus Cro/Glog/2010,,,,,1,1,1,1
+Chicken picobirnavirus,Chicken picobirnavirus,GCF_004117635.1,4232.0,45.0,4.0,0,0,0,0
+Chicken picornavirus,Chicken picornavirus,,,,,1,1,1,1
+Chicken picornavirus 1,Chicken picornavirus 1,GCF_000923455.1,8287.0,55.5,1.0,0,0,0,0
+Chicken picornavirus 4,Chicken picornavirus 4,GCF_000922415.1,9564.0,44.5,1.0,0,0,0,0
+Chicken picornavirus HK-2014,Chicken picornavirus HK-2014,,,,,1,1,1,1
+Chicken picornavirus UCC13,Chicken picornavirus UCC13,,,,,1,1,1,1
+Chicken proventricular necrosis virus,Chicken proventricular necrosis virus,,,,,1,1,1,1
+Chicken proventriculitis virus,Chicken proventriculitis virus,,,,,1,1,1,1
+Chicken proventriculitis-associated circular virus 1,Chicken proventriculitis-associated circular virus 1,GCA_031268925.1,1858.0,46.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 10,Chicken proventriculitis-associated circular virus 10,GCA_031269125.1,3843.0,30.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 11,Chicken proventriculitis-associated circular virus 11,GCA_031269185.1,4890.0,35.0,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 12,Chicken proventriculitis-associated circular virus 12,,,,,1,1,1,1
+Chicken proventriculitis-associated circular virus 14,Chicken proventriculitis-associated circular virus 14,GCA_031269325.1,1654.0,47.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 15,Chicken proventriculitis-associated circular virus 15,GCA_031269375.1,1787.0,44.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 16,Chicken proventriculitis-associated circular virus 16,GCA_031269445.1,1697.0,47.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 17,Chicken proventriculitis-associated circular virus 17,GCA_031269455.1,1181.0,41.5,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 18,Chicken proventriculitis-associated circular virus 18,GCA_031269495.1,1031.0,40.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 19,Chicken proventriculitis-associated circular virus 19,GCA_031269555.1,3167.0,41.5,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 2,Chicken proventriculitis-associated circular virus 2,GCA_031268945.1,1623.0,46.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 20,Chicken proventriculitis-associated circular virus 20,GCA_031269585.1,1411.0,44.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 21,Chicken proventriculitis-associated circular virus 21,GCA_031269625.1,1813.0,43.0,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 22,Chicken proventriculitis-associated circular virus 22,GCA_031269695.1,1852.0,40.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 23,Chicken proventriculitis-associated circular virus 23,GCA_031269715.1,1866.0,43.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 24,Chicken proventriculitis-associated circular virus 24,GCA_031269745.1,1793.0,46.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 26,Chicken proventriculitis-associated circular virus 26,GCA_031269805.1,1948.0,48.5,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 27,Chicken proventriculitis-associated circular virus 27,GCA_031269835.1,1953.0,41.0,1.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 28,Chicken proventriculitis-associated circular virus 28,GCA_031269855.1,1830.0,45.0,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 29,Chicken proventriculitis-associated circular virus 29,GCA_031269885.1,1726.0,48.0,3.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 3,Chicken proventriculitis-associated circular virus 3,GCA_031269005.1,2070.0,39.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 30,Chicken proventriculitis-associated circular virus 30,GCA_031269975.1,3345.0,50.0,4.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 4,Chicken proventriculitis-associated circular virus 4,GCA_031269055.1,1240.0,38.5,1.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 5,Chicken proventriculitis-associated circular virus 5,GCA_031269085.1,1531.0,42.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 7,Chicken proventriculitis-associated circular virus 7,GCA_031269215.1,1894.0,44.0,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 8,Chicken proventriculitis-associated circular virus 8,GCA_031269265.1,1931.0,42.5,2.0,0,0,0,0
+Chicken proventriculitis-associated circular virus 9,Chicken proventriculitis-associated circular virus 9,GCA_031269305.1,1809.0,42.5,2.0,0,0,0,0
+Chicken smacovirus mg2_55,Chicken smacovirus mg2_55,GCA_031200495.1,2452.0,54.5,,0,0,0,1
+Chicken smacovirus mg5_1444,Chicken smacovirus mg5_1444,GCA_031200505.1,2394.0,50.0,,0,0,0,1
+Chicken smacovirus mg6_1052,Chicken smacovirus mg6_1052,GCA_031200515.1,2574.0,51.5,,0,0,0,1
+Chicken smacovirus mg7_57,Chicken smacovirus mg7_57,GCA_031200525.1,2573.0,52.0,,0,0,0,1
+Chicken smacovirus mg8_345,Chicken smacovirus mg8_345,GCA_031200595.1,2405.0,50.5,,0,0,0,1
+Chicken stool associated circular virus 1,Chicken stool associated circular virus 1,GCF_003729875.1,3173.0,48.0,2.0,0,0,0,0
+Chicken stool associated circular virus 2,Chicken stool associated circular virus 2,GCF_003729855.1,3161.0,48.0,2.0,0,0,0,0
+Chicken stool-associated circular virus,Chicken stool-associated circular virus,GCF_001968175.1,4668.0,43.5,3.0,0,0,0,0
+Chicken virus mg4_1578,Chicken virus mg4_1578,GCA_031200215.1,1933.0,33.0,,0,0,0,1
+Chicken virus mg4_2302,Chicken virus mg4_2302,GCA_031200225.1,1690.0,47.5,,0,0,0,1
+Chicken virus mg4_280,Chicken virus mg4_280,GCA_031200255.1,1934.0,38.0,,0,0,0,1
+Chicken virus mg4_657,Chicken virus mg4_657,GCA_031200265.1,2863.0,41.5,,0,0,0,1
+Chicken virus mg5_1345,Chicken virus mg5_1345,GCA_031200275.1,2443.0,50.0,,0,0,0,1
+Chicken virus mg5_2197,Chicken virus mg5_2197,GCA_031200285.1,2093.0,44.5,,0,0,0,1
+Chicken virus mg5_2676,Chicken virus mg5_2676,GCA_031200295.1,1962.0,38.0,,0,0,0,1
+Chicken virus mg6_1197,Chicken virus mg6_1197,GCA_031200305.1,2455.0,50.5,,0,0,0,1
+Chicken virus mg6_2056,Chicken virus mg6_2056,GCA_031200315.1,1977.0,36.5,,0,0,0,1
+Chicken virus mg7_41u,Chicken virus mg7_41u,GCA_031200325.1,2163.0,50.0,,0,0,0,1
+Chicken virus mg7_59,Chicken virus mg7_59,GCA_031200335.1,2543.0,51.0,,0,0,0,1
+Chicken virus mg8_273,Chicken virus mg8_273,GCA_031200345.1,2862.0,41.5,,0,0,0,1
+Chicken virus mg8_324,Chicken virus mg8_324,GCA_031200355.1,2539.0,51.0,,0,0,0,1
+Chimeric virus 14,Chimeric virus 14,GCF_001021315.1,3141.0,40.0,2.0,0,0,0,0
+Chimney swift adenovirus 1,Chimney swift adenovirus 1,,,,,1,1,1,1
+Chinstrap penguin adenovirus 1,Chinstrap penguin adenovirus 1,,,,,1,1,1,1
+Chinstrap penguin adenovirus 3,Chinstrap penguin adenovirus 3,,,,,1,1,1,1
+Chinstrap penguin adenovirus 4,Chinstrap penguin adenovirus 4,,,,,1,1,1,1
+Chinstrap penguin adenovirus 5,Chinstrap penguin adenovirus 5,,,,,1,1,1,1
+Chinstrap penguin adenovirus 6,Chinstrap penguin adenovirus 6,,,,,1,1,1,1
+Chinstrap penguin adenovirus 7,Chinstrap penguin adenovirus 7,,,,,1,1,1,1
+Chinstrap penguin adenovirus 8,Chinstrap penguin adenovirus 8,,,,,1,1,1,1
+Chloris chloris herpesvirus,Chloris chloris herpesvirus,,,,,1,1,1,1
+Christensen virus,Christensen virus,,,,,1,1,1,1
+Chrysolophus pictus CRESS-DNA-virus sp.,Chrysolophus pictus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Chrysolophuspictus parvoviridae sp.,Chrysolophuspictus parvoviridae sp.,,,,,1,1,1,1
+Chuviridae sp.,Chuviridae sp.,,,,,1,1,1,1
+Ciconia boyciana CRESS-DNA-virus sp.,Ciconia boyciana CRESS-DNA-virus sp.,,,,,1,1,1,1
+Ciconia boyciana Circoviridae sp.,Ciconia boyciana Circoviridae sp.,,,,,1,1,1,1
+Ciconia boyciana parvo-like hybrid virus,Ciconia boyciana parvo-like hybrid virus,,,,,1,1,1,1
+Ciconia boyciana parvoviridae sp.,Ciconia boyciana parvoviridae sp.,,,,,1,1,1,1
+Ciconiid herpesvirus 1,Ciconiid herpesvirus 1,,,,,1,1,1,1
+Circoviridae TaCV1,Circoviridae TaCV1,GCA_003389855.1,3398.0,33.0,,0,0,0,1
+Circoviridae TaCV2,Circoviridae TaCV2,GCA_003389875.1,2967.0,33.0,,0,0,0,1
+Circoviridae sp.,Circoviridae sp.,GCF_003656925.1,2780.0,40.5,2.0,0,0,0,0
+Circovirus NG_chicken17,Circovirus NG_chicken17,,,,,1,1,1,1
+Circovirus NG_chicken20,Circovirus NG_chicken20,,,,,1,1,1,1
+Circovirus NG_chicken21,Circovirus NG_chicken21,,,,,1,1,1,1
+Circovirus NG_chicken25,Circovirus NG_chicken25,,,,,1,1,1,1
+Circovirus NG_chicken33,Circovirus NG_chicken33,,,,,1,1,1,1
+Circovirus NG_chicken38,Circovirus NG_chicken38,,,,,1,1,1,1
+Circovirus NG_chicken39,Circovirus NG_chicken39,,,,,1,1,1,1
+Circovirus NG_chicken5,Circovirus NG_chicken5,,,,,1,1,1,1
+Circovirus canary,Circovirus canary,GCF_000846785.1,1952.0,51.5,4.0,0,0,0,0
+Circovirus duck,Circovirus duck,GCF_000864045.1,1991.0,51.0,4.0,0,0,0,0
+Circovirus finch,Circovirus finch,GCF_000869525.1,1962.0,54.5,3.0,0,0,0,0
+Circovirus goose,Circovirus goose,GCF_000837325.1,1821.0,49.0,4.0,0,0,0,0
+Circovirus gull,Circovirus gull,GCF_000870205.1,2035.0,51.0,3.0,0,0,0,0
+Circovirus parrot,Circovirus parrot,,,,,1,1,1,1
+Circovirus penguin,Circovirus penguin,GCF_018587745.1,1988.0,50.0,2.0,0,0,0,0
+Circovirus pigeon,Circovirus pigeon,GCF_000843885.1,2037.0,55.5,5.0,0,0,0,0
+Circovirus raven,Circovirus raven,GCF_000869425.1,1898.0,51.5,2.0,0,0,0,0
+Circovirus sp.,Circovirus sp.,GCA_004043995.1,2288.0,53.0,2.0,0,0,0,0
+Circovirus starling,Circovirus starling,GCF_000868125.1,2063.0,50.5,3.0,0,0,0,0
+Circovirus swan,Circovirus swan,GCF_000925255.1,1783.0,51.0,2.0,0,0,0,0
+Circovirus zebrafinch,Circovirus zebrafinch,GCF_000989035.1,1982.0,56.0,4.0,0,0,0,0
+Coelho virus,Coelho virus,,,,,1,1,1,1
+Columba livia papillomavirus 1,Columba livia papillomavirus 1,,,,,1,1,1,1
+Columba palumbus herpesvirus,Columba palumbus herpesvirus,,,,,1,1,1,1
+Comazfec virus 1,Comazfec virus 1,,,,,1,1,1,1
+Comazfec virus 10,Comazfec virus 10,,,,,1,1,1,1
+Comazfec virus 11,Comazfec virus 11,,,,,1,1,1,1
+Comazfec virus 12,Comazfec virus 12,,,,,1,1,1,1
+Comazfec virus 13,Comazfec virus 13,,,,,1,1,1,1
+Comazfec virus 14,Comazfec virus 14,,,,,1,1,1,1
+Comazfec virus 15,Comazfec virus 15,,,,,1,1,1,1
+Comazfec virus 16,Comazfec virus 16,,,,,1,1,1,1
+Comazfec virus 17,Comazfec virus 17,,,,,1,1,1,1
+Comazfec virus 2,Comazfec virus 2,,,,,1,1,1,1
+Comazfec virus 3,Comazfec virus 3,,,,,1,1,1,1
+Comazfec virus 4,Comazfec virus 4,,,,,1,1,1,1
+Comazfec virus 5,Comazfec virus 5,,,,,1,1,1,1
+Comazfec virus 6,Comazfec virus 6,,,,,1,1,1,1
+Comazfec virus 7,Comazfec virus 7,,,,,1,1,1,1
+Comazfec virus 8,Comazfec virus 8,,,,,1,1,1,1
+Comazfec virus 9,Comazfec virus 9,,,,,1,1,1,1
+Common blackbird circovirus,Common blackbird circovirus,,,,,1,1,1,1
+Common bullfinch circovirus,Common bullfinch circovirus,,,,,1,1,1,1
+Common buzzard alphaherpesvirus,Common buzzard alphaherpesvirus,,,,,1,1,1,1
+Common crossbill circovirus,Common crossbill circovirus,,,,,1,1,1,1
+Common grenadier circovirus,Common grenadier circovirus,,,,,1,1,1,1
+Common moorhen coronavirus HKU21,Common moorhen coronavirus HKU21,GCF_000896895.1,26223.0,35.0,9.0,0,0,0,0
+Common starling circovirus,Common starling circovirus,,,,,1,1,1,1
+Condorpox virus,Condorpox virus,,,,,1,1,1,1
+Cook virus,Cook virus,,,,,1,1,1,1
+Cooks petrelpox virus,Cooks petrelpox virus,,,,,1,1,1,1
+Cooper virus,Cooper virus,,,,,1,1,1,1
+Cope virus,Cope virus,,,,,1,1,1,1
+Coronavirus Anas/p42/2005/GBR,Coronavirus Anas/p42/2005/GBR,,,,,1,1,1,1
+Coronavirus Anas/p71/2005/GBR,Coronavirus Anas/p71/2005/GBR,,,,,1,1,1,1
+Coronavirus HKU15,Coronavirus HKU15,,,,,1,1,1,1
+Coronavirus PREDICT_CoV-100,Coronavirus PREDICT_CoV-100,,,,,1,1,1,1
+Coronavirus oystercatcher/p17/2006/GBR,Coronavirus oystercatcher/p17/2006/GBR,,,,,1,1,1,1
+Coronavirus red knot/p60/2006/GBR,Coronavirus red knot/p60/2006/GBR,,,,,1,1,1,1
+Corvid orthoreovirus,Corvid orthoreovirus,GCA_031528435.1,23578.0,50.5,12.0,0,0,0,0
+Corvus cornix herpesvirus,Corvus cornix herpesvirus,,,,,1,1,1,1
+Corvus corone cornix 2002 orthoreovirus,Corvus corone cornix 2002 orthoreovirus,,,,,1,1,1,1
+Corvus monedula herpesvirus,Corvus monedula herpesvirus,,,,,1,1,1,1
+Crahelivirus A,Crahelivirus A,,,,,1,1,1,1
+Cressdnaviricota sp.,Cressdnaviricota sp.,GCF_023141935.1,2191.0,58.0,2.0,0,0,0,0
+Cressvirus meleagris1922,Cressvirus meleagris1922,,,,,1,1,1,1
+Cressvirus meleagris952,Cressvirus meleagris952,,,,,1,1,1,1
+Crow astrovirus,Crow astrovirus,,,,,1,1,1,1
+Crow circovirus,Crow circovirus,,,,,1,1,1,1
+Crowpox virus,Crowpox virus,GCA_031314235.1,328768.0,29.5,403.0,0,0,0,0
+Crucivirus sp.,Crucivirus sp.,GCA_031190105.1,6350.0,42.5,,0,0,0,1
+Culex negev-like virus 3,Culex negev-like virus 3,GCA_036852075.1,9325.0,37.0,,0,0,0,1
+Cyanistes caeruleus herpesvirus,Cyanistes caeruleus herpesvirus,,,,,1,1,1,1
+Cyanopica cyanus CRESS-DNA-virus sp.,Cyanopica cyanus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Cyanopica cyanus parvoviridae sp.,Cyanopica cyanus parvoviridae sp.,,,,,1,1,1,1
+Cyanoramphus nest associated circular K DNA virus,Cyanoramphus nest associated circular K DNA virus,GCF_000918055.1,2087.0,52.0,2.0,0,0,0,0
+Cyanoramphus nest associated circular X DNA virus,Cyanoramphus nest associated circular X DNA virus,GCF_000919075.1,2308.0,49.5,2.0,0,0,0,0
+Cyclovirus NG_chicken11,Cyclovirus NG_chicken11,,,,,1,1,1,1
+Cyclovirus NG_chicken12,Cyclovirus NG_chicken12,,,,,1,1,1,1
+Cyclovirus NG_chicken13,Cyclovirus NG_chicken13,,,,,1,1,1,1
+Cyclovirus NG_chicken14,Cyclovirus NG_chicken14,,,,,1,1,1,1
+Cyclovirus NG_chicken15,Cyclovirus NG_chicken15,,,,,1,1,1,1
+Cyclovirus NG_chicken16,Cyclovirus NG_chicken16,,,,,1,1,1,1
+Cyclovirus NG_chicken18,Cyclovirus NG_chicken18,,,,,1,1,1,1
+Cyclovirus NG_chicken19,Cyclovirus NG_chicken19,,,,,1,1,1,1
+Cyclovirus NG_chicken2,Cyclovirus NG_chicken2,,,,,1,1,1,1
+Cyclovirus NG_chicken22,Cyclovirus NG_chicken22,,,,,1,1,1,1
+Cyclovirus NG_chicken23,Cyclovirus NG_chicken23,,,,,1,1,1,1
+Cyclovirus NG_chicken24,Cyclovirus NG_chicken24,,,,,1,1,1,1
+Cyclovirus NG_chicken26,Cyclovirus NG_chicken26,,,,,1,1,1,1
+Cyclovirus NG_chicken3,Cyclovirus NG_chicken3,,,,,1,1,1,1
+Cyclovirus NG_chicken31,Cyclovirus NG_chicken31,,,,,1,1,1,1
+Cyclovirus NG_chicken32,Cyclovirus NG_chicken32,,,,,1,1,1,1
+Cyclovirus NG_chicken36,Cyclovirus NG_chicken36,,,,,1,1,1,1
+Cyclovirus NG_chicken37,Cyclovirus NG_chicken37,,,,,1,1,1,1
+Cyclovirus NG_chicken6,Cyclovirus NG_chicken6,,,,,1,1,1,1
+Cyclovirus NG_chicken7,Cyclovirus NG_chicken7,,,,,1,1,1,1
+Cyclovirus NG_chicken8,Cyclovirus NG_chicken8,,,,,1,1,1,1
+Cyclovirus NG_chicken9,Cyclovirus NG_chicken9,,,,,1,1,1,1
+Cyclovirus adie,Cyclovirus adie,GCF_002819905.1,1760.0,44.5,2.0,0,0,0,0
+Cyclovirus cervienka,Cyclovirus cervienka,GCF_029886325.1,1829.0,39.5,2.0,0,0,0,0
+Cyclovirus kacsa,Cyclovirus kacsa,GCF_002194385.1,1902.0,49.5,2.0,0,0,0,0
+Cyclovirus liepsnele,Cyclovirus liepsnele,GCF_029886335.1,1846.0,39.0,2.0,0,0,0,0
+Cyclovirus naahoohai,Cyclovirus naahoohai,GCF_004133245.1,1778.0,41.0,2.0,0,0,0,0
+Cyclovirus nhanloai,Cyclovirus nhanloai,,,,,1,1,1,1
+Cyclovirus pettirosso,Cyclovirus pettirosso,GCF_029886285.1,1939.0,49.0,2.0,0,0,0,0
+Cyclovirus prihor,Cyclovirus prihor,GCF_029886315.1,1930.0,34.5,2.0,0,0,0,0
+Cyclovirus punarinta,Cyclovirus punarinta,GCF_029886295.1,1806.0,38.5,2.0,0,0,0,0
+Cyclovirus rudzik,Cyclovirus rudzik,GCF_029886305.1,1882.0,42.0,2.0,0,0,0,0
+Cyclovirus totoi,Cyclovirus totoi,GCF_029886275.1,1916.0,40.5,2.0,0,0,0,0
+Cygnet River virus,Cygnet River virus,,,,,1,1,1,1
+Cygnus atratus CRESS-DNA-virus sp.,Cygnus atratus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Cygnus atratus Chaphamaparvovirus,Cygnus atratus Chaphamaparvovirus,,,,,1,1,1,1
+Cygnus atratus parvoviridae sp.,Cygnus atratus parvoviridae sp.,,,,,1,1,1,1
+Cygnus columbianus CRESS-DNA-virus sp.,Cygnus columbianus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Cygnus columbianus Chaphamaparvovirus,Cygnus columbianus Chaphamaparvovirus,,,,,1,1,1,1
+Cygnus columbianus parvo-like hybrid virus,Cygnus columbianus parvo-like hybrid virus,,,,,1,1,1,1
+Cygnus columbianus parvoviridae sp.,Cygnus columbianus parvoviridae sp.,,,,,1,1,1,1
+Cyvirus cyprinidallo3,Cyvirus cyprinidallo3,,,,,1,1,1,1
+Dalvirus anatis,Dalvirus anatis,,,,,1,1,1,1
+Davis virus,Davis virus,,,,,1,1,1,1
+Deltacoronavirus B04,Deltacoronavirus B04,,,,,1,1,1,1
+Deltacoronavirus B07,Deltacoronavirus B07,,,,,1,1,1,1
+Deltacoronavirus HNU1-1,Deltacoronavirus HNU1-1,GCA_031243005.1,26289.0,42.0,9.0,0,0,0,0
+Deltacoronavirus HNU1-2,Deltacoronavirus HNU1-2,GCA_031243015.1,26289.0,42.0,9.0,0,0,0,0
+Deltacoronavirus HNU2,Deltacoronavirus HNU2,GCA_031243035.1,26240.0,41.5,9.0,0,0,0,0
+Deltacoronavirus HNU3,Deltacoronavirus HNU3,GCA_031243025.1,26208.0,42.0,9.0,0,0,0,0
+Deltacoronavirus sp.,Deltacoronavirus sp.,GCA_031163155.1,26159.0,40.0,10.0,0,0,0,0
+Dendrocopos leucotos CRESS-DNA-virus sp.,Dendrocopos leucotos CRESS-DNA-virus sp.,,,,,1,1,1,1
+Dendrocopos leucotos Chaphamaparvovirus,Dendrocopos leucotos Chaphamaparvovirus,,,,,1,1,1,1
+Dendrocopos leucotos parvoviridae sp.,Dendrocopos leucotos parvoviridae sp.,,,,,1,1,1,1
+Dependoparvovirus anseriform1,Dependoparvovirus anseriform1,GCF_000845505.1,5132.0,46.0,2.0,0,0,0,0
+Dependoparvovirus avian1,Dependoparvovirus avian1,GCF_029884995.1,4642.0,57.5,4.0,0,0,0,0
+Dependoparvovirus avian2,Dependoparvovirus avian2,,,,,1,1,1,1
+Dependoparvovirus sp.,Dependoparvovirus sp.,,,,,1,1,1,1
+Dnistrovskyi 408 orbivirus,Dnistrovskyi 408 orbivirus,,,,,1,1,1,1
+Drake virus,Drake virus,,,,,1,1,1,1
+Dralkin virus,Dralkin virus,,,,,1,1,1,1
+Driatsky virus,Driatsky virus,,,,,1,1,1,1
+Dryglaski virus,Dryglaski virus,,,,,1,1,1,1
+Dubrovin virus,Dubrovin virus,,,,,1,1,1,1
+Duck adeno-associated virus,Duck adeno-associated virus,,,,,1,1,1,1
+Duck adenovirus,Duck adenovirus,,,,,1,1,1,1
+Duck adenovirus 4,Duck adenovirus 4,,,,,1,1,1,1
+Duck associated circular virus VC9,Duck associated circular virus VC9,,,,,1,1,1,1
+Duck astrovirus 3,Duck astrovirus 3,,,,,1,1,1,1
+Duck astrovirus CPH,Duck astrovirus CPH,GCA_031160965.1,7463.0,43.0,,0,0,0,1
+Duck astrovirus GII.A,Duck astrovirus GII.A,GCF_000883675.1,7722.0,41.5,3.0,0,0,0,0
+Duck atadenovirus A,Duck atadenovirus A,GCF_000845945.1,33213.0,43.0,30.0,0,0,0,0
+Duck aviadenovirus,Duck aviadenovirus,,,,,1,1,1,1
+Duck aviadenovirus B,Duck aviadenovirus B,GCF_000923915.1,43734.0,46.0,36.0,0,0,0,0
+Duck calicivirus,Duck calicivirus,,,,,1,1,1,1
+Duck calicivirus 2,Duck calicivirus 2,GCA_031192985.1,8293.0,54.5,2.0,0,0,0,0
+Duck circovirus 3,Duck circovirus 3,GCA_031321665.1,1755.0,50.5,,0,0,0,1
+Duck coronavirus 2714,Duck coronavirus 2714,,,,,1,1,1,1
+Duck faeces associated circular DNA virus 1,Duck faeces associated circular DNA virus 1,GCF_001646015.1,2750.0,43.0,2.0,0,0,0,0
+Duck faeces associated circular DNA virus 2,Duck faeces associated circular DNA virus 2,GCF_001646195.1,1845.0,32.0,2.0,0,0,0,0
+Duck faeces associated circular DNA virus 3,Duck faeces associated circular DNA virus 3,GCF_001646395.1,1856.0,28.0,2.0,0,0,0,0
+Duck flavivirus Anhui/2010,Duck flavivirus Anhui/2010,,,,,1,1,1,1
+Duck flavivirus strain YY5,Duck flavivirus strain YY5,,,,,1,1,1,1
+Duck genomovirus VC16,Duck genomovirus VC16,,,,,1,1,1,1
+Duck genomovirus VC17,Duck genomovirus VC17,,,,,1,1,1,1
+Duck hemorrhagic ovaritis virus,Duck hemorrhagic ovaritis virus,,,,,1,1,1,1
+Duck hepacivirus,Duck hepacivirus,,,,,1,1,1,1
+Duck hepatitis B virus,Duck hepatitis B virus,GCF_000844545.1,3024.0,43.0,5.0,0,0,0,0
+Duck hepatitis virus 3,Duck hepatitis virus 3,,,,,1,1,1,1
+Duck hepatitis virus AP,Duck hepatitis virus AP,,,,,1,1,1,1
+Duck infectious anemia virus,Duck infectious anemia virus,GCA_031155845.1,8447.0,52.0,,0,0,0,1
+Duck papillomavirus,Duck papillomavirus,,,,,1,1,1,1
+Duck papillomavirus 3,Duck papillomavirus 3,GCA_031189275.1,7887.0,54.5,7.0,0,0,0,0
+Duck parvovirus NM100,Duck parvovirus NM100,GCA_031164375.1,5073.0,46.0,,0,0,0,1
+Duck parvovirus NM4,Duck parvovirus NM4,GCA_031165915.1,5073.0,46.0,,0,0,0,1
+Duck picornavirus,Duck picornavirus,,,,,1,1,1,1
+Duck picornavirus duck/FC22/China/2017,Duck picornavirus duck/FC22/China/2017,GCA_031192865.1,7448.0,45.5,,0,0,0,1
+Duck rhabdovirus,Duck rhabdovirus,,,,,1,1,1,1
+Duck sapelovirus,Duck sapelovirus,,,,,1,1,1,1
+Duck ssDNA virus,Duck ssDNA virus,GCA_031236235.1,1621.0,42.0,,0,0,0,1
+Duck-associated chapparvovirus,Duck-associated chapparvovirus,,,,,1,1,1,1
+Duck-dominant coronavirus,Duck-dominant coronavirus,,,,,1,1,1,1
+Dundee virus,Dundee virus,,,,,1,1,1,1
+Durnavirales sp.,Durnavirales sp.,,,,,1,1,1,1
+Eagle poxvirus,Eagle poxvirus,,,,,1,1,1,1
+Eastern equine encephalitis virus,Eastern equine encephalitis virus,GCF_000862705.1,11675.0,48.5,4.0,0,0,0,0
+Ellsworth virus,Ellsworth virus,,,,,1,1,1,1
+Emberiza chrysophrys CRESS-DNA-virus sp.,Emberiza chrysophrys CRESS-DNA-virus sp.,,,,,1,1,1,1
+Emberiza chrysophrys parvoviridae sp.,Emberiza chrysophrys parvoviridae sp.,,,,,1,1,1,1
+Emberiza cioides CRESS-DNA-virus sp.,Emberiza cioides CRESS-DNA-virus sp.,,,,,1,1,1,1
+Emberiza elegans CRESS-DNA-virus sp.,Emberiza elegans CRESS-DNA-virus sp.,,,,,1,1,1,1
+Emberiza pusilla Chaphamaparvovirus,Emberiza pusilla Chaphamaparvovirus,,,,,1,1,1,1
+Emberiza pusilla parvo-like hybrid virus,Emberiza pusilla parvo-like hybrid virus,,,,,1,1,1,1
+Emberiza pusilla parvoviridae sp.,Emberiza pusilla parvoviridae sp.,,,,,1,1,1,1
+Emberiza rustica CRESS-DNA-virus sp.,Emberiza rustica CRESS-DNA-virus sp.,,,,,1,1,1,1
+Emberiza rustica Genomoviridae sp.,Emberiza rustica Genomoviridae sp.,,,,,1,1,1,1
+Emberiza rustica parvoviridae sp.,Emberiza rustica parvoviridae sp.,,,,,1,1,1,1
+Emberiza spodocephala CRESS-DNA-virus sp.,Emberiza spodocephala CRESS-DNA-virus sp.,,,,,1,1,1,1
+Emberiza spodocephala Genomoviridae sp.,Emberiza spodocephala Genomoviridae sp.,,,,,1,1,1,1
+Emberiza spodocephala parvoviridae sp.,Emberiza spodocephala parvoviridae sp.,,,,,1,1,1,1
+Emberiza tristrami CRESS-DNA-virus sp.,Emberiza tristrami CRESS-DNA-virus sp.,,,,,1,1,1,1
+Emberiza tristrami Genomoviridae sp.,Emberiza tristrami Genomoviridae sp.,,,,,1,1,1,1
+Emberiza tristrami parvoviridae sp.,Emberiza tristrami parvoviridae sp.,,,,,1,1,1,1
+Enquatrovirus sp.,Enquatrovirus sp.,,,,,1,1,1,1
+Enterovirus F,Enterovirus F,GCF_000907315.1,7397.0,50.5,1.0,0,0,0,0
+Estrildidae adenovirus 1,Estrildidae adenovirus 1,,,,,1,1,1,1
+Estrildidae adenovirus 2,Estrildidae adenovirus 2,,,,,1,1,1,1
+Etapapillomavirus 1,Etapapillomavirus 1,GCF_000841045.1,7729.0,47.5,6.0,0,0,0,0
+Eurasian blackcap circovirus,Eurasian blackcap circovirus,,,,,1,1,1,1
+Eurasian jay circovirus,Eurasian jay circovirus,,,,,1,1,1,1
+Eurasian oystercatcher coronavirus,Eurasian oystercatcher coronavirus,,,,,1,1,1,1
+European bee-eater circovirus,European bee-eater circovirus,GCA_031310625.1,1960.0,49.5,,0,0,0,1
+European goldfinch circovirus,European goldfinch circovirus,,,,,1,1,1,1
+European roller astrovirus,European roller astrovirus,GCA_031190065.1,8417.0,40.0,,0,0,0,1
+Faeces associated gemycircularvirus 1,Faeces associated gemycircularvirus 1,,,,,1,1,1,1
+Falco tinnunculus herpesvirus,Falco tinnunculus herpesvirus,,,,,1,1,1,1
+Falcon aviadenovirus A,Falcon aviadenovirus A,GCA_022338145.1,39008.0,43.5,,0,0,0,1
+Falcon coronavirus UAE-HKU27,Falcon coronavirus UAE-HKU27,GCA_031171215.1,26162.0,40.0,10.0,0,0,0,0
+Falcon picornavirus,Falcon picornavirus,GCF_002355005.1,7964.0,42.5,1.0,0,0,0,0
+Farmington virus,Farmington virus,GCF_000926315.1,12233.0,51.5,5.0,0,0,0,0
+Feral pigeon astrovirus,Feral pigeon astrovirus,,,,,1,1,1,1
+Ficedula mugimaki CRESS-DNA-virus sp.,Ficedula mugimaki CRESS-DNA-virus sp.,,,,,1,1,1,1
+Ficedula mugimaki parvoviridae sp.,Ficedula mugimaki parvoviridae sp.,,,,,1,1,1,1
+Ficedula parva CRESS-DNA-virus sp.,Ficedula parva CRESS-DNA-virus sp.,,,,,1,1,1,1
+Ficedula parva parvoviridae sp.,Ficedula parva parvoviridae sp.,,,,,1,1,1,1
+Filchner virus,Filchner virus,,,,,1,1,1,1
+Finch poxvirus,Finch poxvirus,GCA_031311155.1,354030.0,30.0,,0,0,0,1
+Finchpox virus,Finchpox virus,,,,,1,1,1,1
+Flamingopox virus,Flamingopox virus,,,,,1,1,1,1
+Flamingopox virus FGPVKD09,Flamingopox virus FGPVKD09,GCF_002889855.1,293123.0,29.5,285.0,0,0,0,0
+Flavivirus CJD05/CHN/2010,Flavivirus CJD05/CHN/2010,,,,,1,1,1,1
+Flavivirus duck/SD/CHN/2010,Flavivirus duck/SD/CHN/2010,,,,,1,1,1,1
+Flavivirus strain CJD05,Flavivirus strain CJD05,,,,,1,1,1,1
+Foot-and-mouth disease virus,Foot-and-mouth disease virus,,,,,1,1,1,1
+Fort Morgan virus,Fort Morgan virus,GCF_000885435.1,11381.0,48.5,3.0,0,0,0,0
+Fowl adenovirus,Fowl adenovirus,GCA_009372355.1,44291.0,53.5,,0,0,0,1
+Fowl adenovirus 12,Fowl adenovirus 12,,,,,1,1,1,1
+Fowl adenovirus HR1,Fowl adenovirus HR1,,,,,1,1,1,1
+Fowl adenovirus HR2,Fowl adenovirus HR2,,,,,1,1,1,1
+Fowl adenovirus HR3,Fowl adenovirus HR3,,,,,1,1,1,1
+Fowl adenovirus HR4,Fowl adenovirus HR4,,,,,1,1,1,1
+Fowl aviadenovirus A,Fowl aviadenovirus A,GCF_000845105.1,43804.0,54.5,31.0,0,0,0,0
+Fowl aviadenovirus B,Fowl aviadenovirus B,GCF_000907375.1,45781.0,56.5,39.0,0,0,0,0
+Fowl aviadenovirus C,Fowl aviadenovirus C,GCF_000890915.1,45667.0,54.5,46.0,0,0,0,0
+Fowl aviadenovirus D,Fowl aviadenovirus D,GCF_000844285.1,45063.0,54.0,29.0,0,0,0,0
+Fowl aviadenovirus E,Fowl aviadenovirus E,GCF_002817995.1,43810.0,58.0,37.0,0,0,0,0
+Fowl aviadenovirus sp.,Fowl aviadenovirus sp.,,,,,1,1,1,1
+Fowlpox virus,Fowlpox virus,GCF_000838605.1,288539.0,31.0,260.0,0,0,0,0
+Fregata magnificens alphaherpesvirus 1,Fregata magnificens alphaherpesvirus 1,,,,,1,1,1,1
+Fregata magnificens herpesvirus,Fregata magnificens herpesvirus,,,,,1,1,1,1
+French Guiana picornavirus,French Guiana picornavirus,GCA_031239545.1,7645.0,44.0,,0,0,0,1
+French Guiana reovirus,French Guiana reovirus,,,,,1,1,1,1
+Fringilla montifringilla CRESS-DNA-virus sp.,Fringilla montifringilla CRESS-DNA-virus sp.,,,,,1,1,1,1
+Fringilla montifringilla Chaphamaparvovirus,Fringilla montifringilla Chaphamaparvovirus,,,,,1,1,1,1
+Fringilla montifringilla Circoviridae sp.,Fringilla montifringilla Circoviridae sp.,,,,,1,1,1,1
+Fringilla montifringilla Genomoviridae sp.,Fringilla montifringilla Genomoviridae sp.,,,,,1,1,1,1
+Fringilla montifringilla parvoviridae sp.,Fringilla montifringilla parvoviridae sp.,,,,,1,1,1,1
+Fuchs virus,Fuchs virus,,,,,1,1,1,1
+Gallid herpesvirus,Gallid herpesvirus,,,,,1,1,1,1
+Galliform chaphamaparvovirus 10,Galliform chaphamaparvovirus 10,GCA_031311165.1,4211.0,44.5,,0,0,0,1
+Galliform chaphamaparvovirus 11,Galliform chaphamaparvovirus 11,GCA_031311175.1,4070.0,43.5,,0,0,0,1
+Galliform chaphamaparvovirus 12,Galliform chaphamaparvovirus 12,GCA_031311185.1,3429.0,42.0,,0,0,0,1
+Galliform chaphamaparvovirus 13,Galliform chaphamaparvovirus 13,GCA_031311195.1,2582.0,43.0,,0,0,0,1
+Galliform chaphamaparvovirus 14,Galliform chaphamaparvovirus 14,GCA_031311205.1,1948.0,44.5,,0,0,0,1
+Galliform chaphamaparvovirus 15,Galliform chaphamaparvovirus 15,GCA_031311215.1,1914.0,40.5,,0,0,0,1
+Galliform chaphamaparvovirus 16,Galliform chaphamaparvovirus 16,GCA_031311225.1,1895.0,44.5,,0,0,0,1
+Galliform chaphamaparvovirus 17,Galliform chaphamaparvovirus 17,GCA_031311235.1,1622.0,45.0,,0,0,0,1
+Galliform chaphamaparvovirus 6,Galliform chaphamaparvovirus 6,GCA_031311245.1,4270.0,44.5,,0,0,0,1
+Galliform chaphamaparvovirus 7,Galliform chaphamaparvovirus 7,GCA_031311255.1,4230.0,42.5,,0,0,0,1
+Galliform chaphamaparvovirus 8,Galliform chaphamaparvovirus 8,GCA_031311265.1,4225.0,40.5,,0,0,0,1
+Galliform chaphamaparvovirus 9,Galliform chaphamaparvovirus 9,GCA_031311275.1,4212.0,43.0,,0,0,0,1
+Gallivirus A,Gallivirus A,GCF_000924095.1,8432.0,45.0,1.0,0,0,0,0
+Gallivirus Pf-CHK1/GV,Gallivirus Pf-CHK1/GV,GCF_001500755.1,8506.0,45.5,1.0,0,0,0,0
+Gallivirus sp.,Gallivirus sp.,,,,,1,1,1,1
+Gammacoronavirus sp.,Gammacoronavirus sp.,,,,,1,1,1,1
+Gammapolyomavirus anseris,Gammapolyomavirus anseris,,,,,1,1,1,1
+Gammapolyomavirus avis,Gammapolyomavirus avis,,,,,1,1,1,1
+Gammapolyomavirus corvi,Gammapolyomavirus corvi,GCF_000868965.1,5079.0,45.5,6.0,0,0,0,0
+Gammapolyomavirus cratorquatus,Gammapolyomavirus cratorquatus,GCF_000914155.1,5084.0,45.5,6.0,0,0,0,0
+Gammapolyomavirus egouldiae,Gammapolyomavirus egouldiae,GCF_003033365.1,5172.0,44.5,6.0,0,0,0,0
+Gammapolyomavirus lonmaja,Gammapolyomavirus lonmaja,GCF_003033375.1,5284.0,51.0,6.0,0,0,0,0
+Gammapolyomavirus padeliae,Gammapolyomavirus padeliae,GCF_000930155.1,4988.0,52.5,5.0,0,0,0,0
+Gammapolyomavirus pypyrrhula,Gammapolyomavirus pypyrrhula,GCF_000864605.1,5278.0,51.0,6.0,0,0,0,0
+Gammapolyomavirus secanaria,Gammapolyomavirus secanaria,GCF_000896095.1,5421.0,49.0,5.0,0,0,0,0
+Garrulus glandarius associated circular virus 1,Garrulus glandarius associated circular virus 1,GCF_002219445.1,1971.0,45.0,2.0,0,0,0,0
+Garrulus glandarius parvoviridae sp.,Garrulus glandarius parvoviridae sp.,,,,,1,1,1,1
+Gaviid herpesvirus 1,Gaviid herpesvirus 1,,,,,1,1,1,1
+Gemycircularvirus blabi1,Gemycircularvirus blabi1,,,,,1,1,1,1
+Gemycircularvirus chicas1,Gemycircularvirus chicas1,GCF_001646115.1,2247.0,52.5,3.0,0,0,0,0
+Gemycircularvirus chicas2,Gemycircularvirus chicas2,GCF_001646335.1,2230.0,53.0,3.0,0,0,0,0
+Gemycircularvirus chickad1,Gemycircularvirus chickad1,GCF_001273685.1,2152.0,52.0,2.0,0,0,0,0
+Gemycircularvirus furse1,Gemycircularvirus furse1,,,,,1,1,1,1
+Gemycircularvirus geras1,Gemycircularvirus geras1,GCF_000928755.1,2288.0,54.0,2.0,0,0,0,0
+Gemycircularvirus geras2,Gemycircularvirus geras2,GCF_000929795.1,2187.0,50.5,2.0,0,0,0,0
+Gemycircularvirus geras3,Gemycircularvirus geras3,GCF_000927875.1,2199.0,53.0,2.0,0,0,0,0
+Gemycircularvirus malas1,Gemycircularvirus malas1,GCF_000927855.1,2290.0,47.5,2.0,0,0,0,0
+Gemycircularvirus sp.,Gemycircularvirus sp.,GCF_003848605.1,2138.0,50.0,2.0,0,0,0,0
+Gemygorvirus malas1,Gemygorvirus malas1,GCF_001646535.1,2194.0,53.0,3.0,0,0,0,0
+Gemygorvirus stara1,Gemygorvirus stara1,GCF_000930475.1,2229.0,51.0,2.0,0,0,0,0
+Gemykibivirus blabi1,Gemykibivirus blabi1,GCF_000927915.1,2130.0,50.5,2.0,0,0,0,0
+Gemykibivirus blaro1,Gemykibivirus blaro1,GCF_000928815.1,2174.0,52.0,2.0,0,0,0,0
+Gemykibivirus galga1,Gemykibivirus galga1,GCF_018589205.1,2189.0,52.0,2.0,0,0,0,0
+Gemykibivirus galga2,Gemykibivirus galga2,GCF_018589245.1,2183.0,52.5,2.0,0,0,0,0
+Gemykibivirus galga3,Gemykibivirus galga3,GCF_018589115.1,2173.0,51.0,2.0,0,0,0,0
+Gemykibivirus sewopo1,Gemykibivirus sewopo1,GCF_001646055.1,2136.0,50.5,3.0,0,0,0,0
+Gemykrogvirus galga1,Gemykrogvirus galga1,GCF_018589195.1,2142.0,48.0,2.0,0,0,0,0
+Gemykrogvirus galga2,Gemykrogvirus galga2,GCF_001967675.1,2143.0,49.0,2.0,0,0,0,0
+Gemykrogvirus galga3,Gemykrogvirus galga3,GCF_018589075.1,2216.0,52.0,2.0,0,0,0,0
+Gemykrogvirus galga4,Gemykrogvirus galga4,GCF_018589215.1,2160.0,50.0,2.0,0,0,0,0
+Gemykrogvirus galga5,Gemykrogvirus galga5,GCF_018589065.1,2222.0,52.0,2.0,0,0,0,0
+Gemytondvirus ostri1,Gemytondvirus ostri1,GCF_000928795.1,2122.0,48.5,2.0,0,0,0,0
+Genomoviridae sp.,Genomoviridae sp.,GCF_018591135.1,2178.0,54.0,2.0,0,0,0,0
+Gentoo penguin virus,Gentoo penguin virus,,,,,1,1,1,1
+Gerritsz virus,Gerritsz virus,,,,,1,1,1,1
+Ghabrivirales sp.,Ghabrivirales sp.,,,,,1,1,1,1
+Goose adenovirus 5,Goose adenovirus 5,,,,,1,1,1,1
+Goose adenovirus Y81G4,Goose adenovirus Y81G4,,,,,1,1,1,1
+Goose astrovirus,Goose astrovirus,GCF_002146085.1,7299.0,41.5,3.0,0,0,0,0
+Goose astrovirus 1,Goose astrovirus 1,GCA_031301795.1,7310.0,42.0,,0,0,0,1
+Goose astrovirus 2,Goose astrovirus 2,GCA_031242835.1,7183.0,43.5,3.0,0,0,0,0
+Goose aviadenovirus A,Goose aviadenovirus A,GCF_000897155.1,43376.0,44.5,35.0,0,0,0,0
+Goose calicivirus,Goose calicivirus,GCF_000920715.1,8013.0,54.5,2.0,0,0,0,0
+Goose parvovirus SDDY21,Goose parvovirus SDDY21,,,,,1,1,1,1
+Goose parvovirus SDJN21,Goose parvovirus SDJN21,,,,,1,1,1,1
+Goose parvovirus SDWF22,Goose parvovirus SDWF22,,,,,1,1,1,1
+Goose pegivirus 1,Goose pegivirus 1,GCA_031250005.1,11479.0,57.5,,0,0,0,1
+Goose pegivirus 2,Goose pegivirus 2,GCA_031250015.1,11195.0,58.5,,0,0,0,1
+Goose-dominant Coronavirus,Goose-dominant Coronavirus,,,,,1,1,1,1
+Gouldian finch adenovirus 1,Gouldian finch adenovirus 1,,,,,1,1,1,1
+Gouldian finch circovirus,Gouldian finch circovirus,,,,,1,1,1,1
+Great tit siadenovirus A,Great tit siadenovirus A,GCF_002925555.1,13628.0,37.5,10.0,0,0,0,0
+Grey teal calicivirus,Grey teal calicivirus,,,,,1,1,1,1
+Grey teal chaphamaparvovirus,Grey teal chaphamaparvovirus,,,,,1,1,1,1
+Grey teal gyrovirus,Grey teal gyrovirus,,,,,1,1,1,1
+Grey teal parvovirus,Grey teal parvovirus,,,,,1,1,1,1
+Grey teal picobirnavirus X,Grey teal picobirnavirus X,,,,,1,1,1,1
+Grey teal picobirnavirus Z,Grey teal picobirnavirus Z,,,,,1,1,1,1
+Grey teal picobirnavirus y,Grey teal picobirnavirus y,,,,,1,1,1,1
+Griffon vulture papillomavirus,Griffon vulture papillomavirus,,,,,1,1,1,1
+Gruhelivirus A,Gruhelivirus A,GCF_013087255.1,7073.0,43.5,1.0,0,0,0,0
+Grus japonensis CRESS-DNA-virus sp.,Grus japonensis CRESS-DNA-virus sp.,,,,,1,1,1,1
+Grus japonensis Chaphamaparvovirus,Grus japonensis Chaphamaparvovirus,,,,,1,1,1,1
+Grus japonensis parvo-like hybrid virus,Grus japonensis parvo-like hybrid virus,,,,,1,1,1,1
+Grus japonensis parvoviridae sp.,Grus japonensis parvoviridae sp.,,,,,1,1,1,1
+Grus monacha CRESS-DNA-virus sp.,Grus monacha CRESS-DNA-virus sp.,,,,,1,1,1,1
+Grus nigricollis-associatied genomovirus,Grus nigricollis-associatied genomovirus,,,,,1,1,1,1
+Grusopivirus A,Grusopivirus A,GCF_003390015.1,7917.0,41.0,1.0,0,0,0,0
+Grusopivirus B,Grusopivirus B,GCF_003390035.1,7104.0,42.5,1.0,0,0,0,0
+Grusopivirus C,Grusopivirus C,GCF_004995665.1,7862.0,39.5,1.0,0,0,0,0
+Grusopivirus sp.,Grusopivirus sp.,,,,,1,1,1,1
+Guinea fowl astrovirus,Guinea fowl astrovirus,,,,,1,1,1,1
+Guinea fowl circovirus,Guinea fowl circovirus,,,,,1,1,1,1
+Guinea fowl picornavirus,Guinea fowl picornavirus,GCA_031243325.1,8061.0,41.0,,0,0,0,1
+Gull adenovirus,Gull adenovirus,,,,,1,1,1,1
+Gull coronavirus,Gull coronavirus,,,,,1,1,1,1
+Gull metapneumovirus,Gull metapneumovirus,GCA_031192995.1,14458.0,42.0,9.0,0,0,0,0
+Gull papillomavirus 1,Gull papillomavirus 1,GCA_031189325.1,7699.0,57.5,7.0,0,0,0,0
+Gull papillomavirus 2,Gull papillomavirus 2,,,,,1,1,1,1
+Gull papillomavirus 3,Gull papillomavirus 3,,,,,1,1,1,1
+Gyrovirus 10,Gyrovirus 10,GCA_003260835.1,2195.0,51.5,3.0,0,0,0,0
+Gyrovirus 2126_10,Gyrovirus 2126_10,,,,,1,1,1,1
+Gyrovirus 2316_26,Gyrovirus 2316_26,,,,,1,1,1,1
+Gyrovirus 2316_32,Gyrovirus 2316_32,,,,,1,1,1,1
+Gyrovirus 2885_18H,Gyrovirus 2885_18H,,,,,1,1,1,1
+Gyrovirus 2885_18K,Gyrovirus 2885_18K,,,,,1,1,1,1
+Gyrovirus 2885_18L,Gyrovirus 2885_18L,,,,,1,1,1,1
+Gyrovirus 3,Gyrovirus 3,GCA_031191135.1,2356.0,53.0,3.0,0,0,0,0
+Gyrovirus 6,Gyrovirus 6,GCA_031191145.1,2220.0,52.5,3.0,0,0,0,0
+Gyrovirus 9,Gyrovirus 9,GCA_031236225.1,2215.0,45.0,3.0,0,0,0,0
+Gyrovirus VC5,Gyrovirus VC5,,,,,1,1,1,1
+Gyrovirus VC7,Gyrovirus VC7,,,,,1,1,1,1
+Gyrovirus chickenanemia,Gyrovirus chickenanemia,,,,,1,1,1,1
+Gyrovirus fulgla1,Gyrovirus fulgla1,GCF_001045285.1,2218.0,49.5,3.0,0,0,0,0
+Gyrovirus galga1,Gyrovirus galga1,GCF_000891935.1,2383.0,53.5,3.0,0,0,0,0
+Gyrovirus homsa1,Gyrovirus homsa1,,,,,1,1,1,1
+Gyrovirus homsa2,Gyrovirus homsa2,,,,,1,1,1,1
+Gyrovirus homsa3,Gyrovirus homsa3,,,,,1,1,1,1
+Gyrovirus hydho1,Gyrovirus hydho1,GCF_004134085.1,2394.0,53.0,4.0,0,0,0,0
+Gyrovirus myferr1,Gyrovirus myferr1,GCF_018583945.1,1873.0,54.5,3.0,0,0,0,0
+Halley virus,Halley virus,,,,,1,1,1,1
+Halvorsen virus,Halvorsen virus,,,,,1,1,1,1
+Hapavirus flanders,Hapavirus flanders,GCF_002815595.1,13038.0,37.0,9.0,0,0,0,0
+Hapavirus landjia,Hapavirus landjia,GCF_002146145.1,13695.0,37.0,11.0,0,0,0,0
+Harkavirus A,Harkavirus A,GCF_000981755.1,8003.0,42.0,1.0,0,0,0,0
+Hawaiian goose poxvirus,Hawaiian goose poxvirus,,,,,1,1,1,1
+Hawfinch circovirus,Hawfinch circovirus,,,,,1,1,1,1
+Hedwig virus,Hedwig virus,,,,,1,1,1,1
+Hepacivirus Q,Hepacivirus Q,GCA_031315615.1,9893.0,45.0,,0,0,0,1
+Hepacivirus sp.,Hepacivirus sp.,GCA_031173525.1,8675.0,46.5,,0,0,0,1
+Hepatitis B virus,Hepatitis B virus,GCF_003033055.1,3248.0,48.5,4.0,0,0,0,0
+Hepatitis E virus,Hepatitis E virus,,,,,1,1,1,1
+Hepeviridae sp.,Hepeviridae sp.,,,,,1,1,1,1
+Heron hepatitis B virus,Heron hepatitis B virus,GCF_000861965.1,3027.0,45.0,5.0,0,0,0,0
+Herpesvirus eupittula14478,Herpesvirus eupittula14478,,,,,1,1,1,1
+Herpesvirus goose/GAV08/Poland/2008,Herpesvirus goose/GAV08/Poland/2008,,,,,1,1,1,1
+Highlands J virus,Highlands J virus,GCF_000881255.1,11526.0,49.0,3.0,0,0,0,0
+Hilary virus,Hilary virus,,,,,1,1,1,1
+Houbara coronavirus UAE-HKU28,Houbara coronavirus UAE-HKU28,GCA_031171225.1,26155.0,39.5,10.0,0,0,0,0
+Huchismacovirus chicas1,Huchismacovirus chicas1,GCF_003033445.1,2408.0,42.0,2.0,0,0,0,0
+Huchismacovirus chicas2,Huchismacovirus chicas2,GCF_003033465.1,2459.0,42.5,2.0,0,0,0,0
+Huchismacovirus sp.,Huchismacovirus sp.,GCA_031242685.1,2459.0,42.0,,0,0,0,1
+Human mastadenovirus F,Human mastadenovirus F,GCF_000846685.1,34214.0,51.0,18.0,0,0,0,0
+IC4 retrovirus,IC4 retrovirus,,,,,1,1,1,1
+Iltovirus gallidalpha1,Iltovirus gallidalpha1,GCF_008787145.1,152975.0,48.0,79.0,0,0,0,0
+Iltovirus psittacidalpha1,Iltovirus psittacidalpha1,GCF_000840765.1,163025.0,61.0,77.0,0,0,0,0
+Iltovirus psittacidalpha5,Iltovirus psittacidalpha5,GCF_029884945.1,120899.0,43.5,81.0,0,0,0,0
+JDV virus,JDV virus,,,,,1,1,1,1
+Java sparrow circovirus,Java sparrow circovirus,,,,,1,1,1,1
+Jingmen ascaridia virus 1,Jingmen ascaridia virus 1,,,,,1,1,1,1
+Jingmen birna-like virus,Jingmen birna-like virus,,,,,1,1,1,1
+Jingmen bunya-like virus 1,Jingmen bunya-like virus 1,,,,,1,1,1,1
+Jingmen picobirna-like virus 1,Jingmen picobirna-like virus 1,,,,,1,1,1,1
+Jingmen picorna-like virus,Jingmen picorna-like virus,GCF_001961255.1,10069.0,43.5,1.0,0,0,0,0
+Jingmen tombus-like virus 1,Jingmen tombus-like virus 1,GCF_002008755.1,7949.0,57.0,2.0,0,0,0,0
+Jingmen tombus-like virus 2,Jingmen tombus-like virus 2,GCF_002004055.1,4100.0,48.5,3.0,0,0,0,0
+Jingmen toti-like virus 1,Jingmen toti-like virus 1,,,,,1,1,1,1
+Justusliebigvirus phi92,Justusliebigvirus phi92,,,,,1,1,1,1
+Kagge virus,Kagge virus,,,,,1,1,1,1
+Kammavanpettai virus,Kammavanpettai virus,,,,,1,1,1,1
+Kannamangalam virus,Kannamangalam virus,,,,,1,1,1,1
+Kedah fatal kidney syndrome virus,Kedah fatal kidney syndrome virus,,,,,1,1,1,1
+Kestrel picornavirus,Kestrel picornavirus,,,,,1,1,1,1
+Ketchum virus,Ketchum virus,,,,,1,1,1,1
+Khabarov virus,Khabarov virus,,,,,1,1,1,1
+Khurdivirus volgaense,Khurdivirus volgaense,GCF_023156525.1,10679.0,36.0,3.0,0,0,0,0
+Kittiwake papillomavirus 1,Kittiwake papillomavirus 1,,,,,1,1,1,1
+Kittiwake papillomavirus 2,Kittiwake papillomavirus 2,GCA_031189345.1,7763.0,56.5,7.0,0,0,0,0
+Kittiwake papillomavirus 3,Kittiwake papillomavirus 3,,,,,1,1,1,1
+Kittiwake papillomavirus 4,Kittiwake papillomavirus 4,,,,,1,1,1,1
+Kittiwake papillomavirus 5,Kittiwake papillomavirus 5,,,,,1,1,1,1
+Kittiwake papillomavirus 6,Kittiwake papillomavirus 6,,,,,1,1,1,1
+Kittiwake papillomavirus 7,Kittiwake papillomavirus 7,,,,,1,1,1,1
+Kornilov virus,Kornilov virus,,,,,1,1,1,1
+Korotkevich virus,Korotkevich virus,,,,,1,1,1,1
+Krenkel virus,Krenkel virus,,,,,1,1,1,1
+Kunsagivirus A,Kunsagivirus A,GCF_002817165.1,7272.0,53.0,1.0,0,0,0,0
+Kyst virus,Kyst virus,,,,,1,1,1,1
+Lambdatorquevirus phoci5,Lambdatorquevirus phoci5,,,,,1,1,1,1
+Lanius cristatus parvoviridae sp.,Lanius cristatus parvoviridae sp.,,,,,1,1,1,1
+Larsen virus,Larsen virus,,,,,1,1,1,1
+Larus argentatus herpesvirus,Larus argentatus herpesvirus,,,,,1,1,1,1
+Larus ridibundus coronavirus,Larus ridibundus coronavirus,,,,,1,1,1,1
+Lavender waxbill polyomavirus,Lavender waxbill polyomavirus,,,,,1,1,1,1
+Lawrence virus,Lawrence virus,,,,,1,1,1,1
+Lazarev virus,Lazarev virus,,,,,1,1,1,1
+Leucosticte brandti pegivirus,Leucosticte brandti pegivirus,GCA_031246675.1,10719.0,57.5,,0,0,0,1
+Little bittern circovirus,Little bittern circovirus,GCA_031310635.1,1935.0,49.0,,0,0,0,1
+Loch Leven virus,Loch Leven virus,,,,,1,1,1,1
+Lonchura striata deltavirus,Lonchura striata deltavirus,GCA_031232885.1,1708.0,56.0,1.0,0,0,0,0
+Lophura nycthemera aveparvovirus,Lophura nycthemera aveparvovirus,,,,,1,1,1,1
+Lophura nycthemera parvoviridae sp.,Lophura nycthemera parvoviridae sp.,,,,,1,1,1,1
+Ludopivirus A,Ludopivirus A,GCF_004131145.1,8051.0,47.5,1.0,0,0,0,0
+Luncke virus,Luncke virus,,,,,1,1,1,1
+Luscinia calliope CRESS-DNA-virus sp.,Luscinia calliope CRESS-DNA-virus sp.,,,,,1,1,1,1
+Luscinia cyane CRESS-DNA-virus sp.,Luscinia cyane CRESS-DNA-virus sp.,,,,,1,1,1,1
+Luscinia cyane Chaphamaparvovirus,Luscinia cyane Chaphamaparvovirus,,,,,1,1,1,1
+Luscinia cyane Ichthamaparvovirus,Luscinia cyane Ichthamaparvovirus,,,,,1,1,1,1
+Luscinia cyane parvoviridae sp.,Luscinia cyane parvoviridae sp.,,,,,1,1,1,1
+Luscinia sibilans CRESS-DNA-virus sp.,Luscinia sibilans CRESS-DNA-virus sp.,,,,,1,1,1,1
+Luscinia sibilans parvo-like hybrid virus,Luscinia sibilans parvo-like hybrid virus,,,,,1,1,1,1
+Luscinia sibilans parvoviridae sp.,Luscinia sibilans parvoviridae sp.,,,,,1,1,1,1
+Luteoviridae sp.,Luteoviridae sp.,,,,,1,1,1,1
+Lymphoproliferative disease virus,Lymphoproliferative disease virus,GCA_031102365.1,7432.0,53.5,,0,0,0,1
+Lyssavirus australis,Lyssavirus australis,GCF_000850325.1,11822.0,44.0,5.0,0,0,0,0
+Lyssavirus rabies,Lyssavirus rabies,GCF_000859625.1,11932.0,45.0,5.0,0,0,0,0
+MLV-related retrovirus,MLV-related retrovirus,,,,,1,1,1,1
+Magellan virus,Magellan virus,,,,,1,1,1,1
+Magpie circovirus,Magpie circovirus,,,,,1,1,1,1
+Magpie hepacivirus,Magpie hepacivirus,,,,,1,1,1,1
+Magpie-robin coronavirus HKU18,Magpie-robin coronavirus HKU18,GCF_000894435.1,26689.0,46.5,9.0,0,0,0,0
+Magpiepox virus,Magpiepox virus,GCA_031198355.1,293226.0,29.5,352.0,0,0,0,0
+Magpiepox virus 2,Magpiepox virus 2,GCA_031268825.1,298392.0,29.5,,0,0,0,1
+Maksutov virus,Maksutov virus,,,,,1,1,1,1
+Malazfec virus 1,Malazfec virus 1,GCA_036760835.1,39041.0,34.5,,0,0,0,1
+Malazfec virus 10,Malazfec virus 10,,,,,1,1,1,1
+Malazfec virus 11,Malazfec virus 11,,,,,1,1,1,1
+Malazfec virus 12,Malazfec virus 12,,,,,1,1,1,1
+Malazfec virus 13,Malazfec virus 13,,,,,1,1,1,1
+Malazfec virus 14,Malazfec virus 14,,,,,1,1,1,1
+Malazfec virus 15,Malazfec virus 15,,,,,1,1,1,1
+Malazfec virus 16,Malazfec virus 16,,,,,1,1,1,1
+Malazfec virus 17,Malazfec virus 17,,,,,1,1,1,1
+Malazfec virus 18,Malazfec virus 18,,,,,1,1,1,1
+Malazfec virus 19,Malazfec virus 19,,,,,1,1,1,1
+Malazfec virus 20,Malazfec virus 20,,,,,1,1,1,1
+Malazfec virus 21,Malazfec virus 21,,,,,1,1,1,1
+Malazfec virus 22,Malazfec virus 22,,,,,1,1,1,1
+Malazfec virus 23,Malazfec virus 23,,,,,1,1,1,1
+Malazfec virus 24,Malazfec virus 24,,,,,1,1,1,1
+Malazfec virus 25,Malazfec virus 25,,,,,1,1,1,1
+Malazfec virus 9,Malazfec virus 9,,,,,1,1,1,1
+Marcaroli circovirus,Marcaroli circovirus,,,,,1,1,1,1
+Mardivirus anatidalpha1,Mardivirus anatidalpha1,GCF_000885795.1,158091.0,45.0,77.0,0,0,0,0
+Mardivirus columbidalpha1,Mardivirus columbidalpha1,GCF_002116095.1,204237.0,61.5,130.0,0,0,0,0
+Mardivirus gallidalpha2,Mardivirus gallidalpha2,GCF_000846265.1,177874.0,44.0,87.0,0,0,0,0
+Mardivirus gallidalpha3,Mardivirus gallidalpha3,GCF_008792185.1,165994.0,53.5,124.0,0,0,0,0
+Mardivirus meleagridalpha1,Mardivirus meleagridalpha1,GCF_000839725.1,159160.0,47.5,79.0,0,0,0,0
+Mardivirus spheniscidalpha1,Mardivirus spheniscidalpha1,GCF_001974335.1,164540.0,45.5,86.0,0,0,0,0
+Marr virus,Marr virus,,,,,1,1,1,1
+Mason Creek virus,Mason Creek virus,,,,,1,1,1,1
+Mawson virus,Mawson virus,,,,,1,1,1,1
+Mayaro virus,Mayaro virus,GCF_000863385.1,11411.0,50.5,4.0,0,0,0,0
+Maypo virus,Maypo virus,,,,,1,1,1,1
+Megrivirus A,Megrivirus A,GCF_002008395.1,10101.0,46.0,1.0,0,0,0,0
+Megrivirus B,Megrivirus B,GCF_003028975.1,9101.0,47.5,1.0,0,0,0,0
+Megrivirus C,Megrivirus C,GCF_003029035.1,9560.0,45.0,1.0,0,0,0,0
+Megrivirus D,Megrivirus D,GCF_002184175.1,8541.0,45.5,1.0,0,0,0,0
+Megrivirus E,Megrivirus E,GCF_003029615.1,9702.0,43.0,1.0,0,0,0,0
+Megrivirus sp.,Megrivirus sp.,GCA_031242715.1,9184.0,47.5,,0,0,0,1
+Meldvirus gallus11737,Meldvirus gallus11737,,,,,1,1,1,1
+Meleagrid alphaherpesvirus 2,Meleagrid alphaherpesvirus 2,,,,,1,1,1,1
+Melegrivirus A,Melegrivirus A,GCF_000917935.1,9739.0,45.5,1.0,0,0,0,0
+Mella virus,Mella virus,,,,,1,1,1,1
+Metaavulavirus delawarense,Metaavulavirus delawarense,GCF_002815215.1,15342.0,41.5,6.0,0,0,0,0
+Metaavulavirus falklandense,Metaavulavirus falklandense,GCF_002080355.1,15456.0,42.0,6.0,0,0,0,0
+Metaavulavirus galliense,Metaavulavirus galliense,GCF_000924755.1,17412.0,39.0,7.0,0,0,0,0
+Metaavulavirus hongkongense,Metaavulavirus hongkongense,GCF_002815195.1,16236.0,46.5,7.0,0,0,0,0
+Metaavulavirus japanense,Metaavulavirus japanense,GCF_003032665.1,15444.0,43.5,6.0,0,0,0,0
+Metaavulavirus kazakhstanense,Metaavulavirus kazakhstanense,GCF_004130815.1,15954.0,40.0,6.0,0,0,0,0
+Metaavulavirus kunitachiense,Metaavulavirus kunitachiense,GCF_000924655.1,17262.0,40.0,6.0,0,0,0,0
+Metaavulavirus peixense,Metaavulavirus peixense,GCF_002197575.1,14964.0,40.5,6.0,0,0,0,0
+Metaavulavirus sp.,Metaavulavirus sp.,,,,,1,1,1,1
+Metaavulavirus taiwanense,Metaavulavirus taiwanense,,,,,1,1,1,1
+Metaavulavirus tennessense,Metaavulavirus tennessense,GCF_000926535.1,15480.0,39.0,6.0,0,0,0,0
+Metaavulavirus yucaipaense,Metaavulavirus yucaipaense,GCF_002989675.1,14904.0,47.0,6.0,0,0,0,0
+Metapneumovirus avis,Metapneumovirus avis,,,,,1,1,1,1
+Microbacterium phage P8_2022_SA,Microbacterium phage P8_2022_SA,,,,,1,1,1,1
+Middelburg virus,Middelburg virus,GCF_000921735.1,11550.0,53.0,2.0,0,0,0,0
+Montifringilla taczanowskii coronavirus N,Montifringilla taczanowskii coronavirus N,,,,,1,1,1,1
+Montifringilla taczanowskii pegivirus,Montifringilla taczanowskii pegivirus,GCA_031246695.1,10866.0,57.0,,0,0,0,1
+Morbillivirus canis,Morbillivirus canis,,,,,1,1,1,1
+Mosavirus A,Mosavirus A,GCF_000918135.1,8398.0,45.5,1.0,0,0,0,0
+Motacilla cinerea CRESS-DNA-virus sp.,Motacilla cinerea CRESS-DNA-virus sp.,,,,,1,1,1,1
+Motacilla cinerea Circoviridae sp.,Motacilla cinerea Circoviridae sp.,,,,,1,1,1,1
+Motacilla cinerea parvo-like hybrid virus,Motacilla cinerea parvo-like hybrid virus,,,,,1,1,1,1
+Motacilla cinerea parvoviridae sp.,Motacilla cinerea parvoviridae sp.,,,,,1,1,1,1
+Mott virus,Mott virus,,,,,1,1,1,1
+Mudlarkpox virus,Mudlarkpox virus,GCA_031242895.1,342723.0,30.0,,0,0,0,1
+Munia coronavirus HKU13,Munia coronavirus HKU13,GCF_000880835.1,26552.0,42.5,9.0,0,0,0,0
+Murine mastadenovirus B,Murine mastadenovirus B,,,,,1,1,1,1
+Muscicapa latirostris CRESS-DNA-virus sp.,Muscicapa latirostris CRESS-DNA-virus sp.,,,,,1,1,1,1
+Mute swan associated circo-like virus,Mute swan associated circo-like virus,,,,,1,1,1,1
+Mute swan feces associated avastrovius 1,Mute swan feces associated avastrovius 1,,,,,1,1,1,1
+Mute swan feces associated avastrovius 2,Mute swan feces associated avastrovius 2,,,,,1,1,1,1
+Mute swan feces associated aveparvovirus,Mute swan feces associated aveparvovirus,,,,,1,1,1,1
+Mute swan feces associated avihepatovirus,Mute swan feces associated avihepatovirus,,,,,1,1,1,1
+Mute swan feces associated calicivirus,Mute swan feces associated calicivirus,,,,,1,1,1,1
+Mute swan feces associated chapparvovirus 1,Mute swan feces associated chapparvovirus 1,,,,,1,1,1,1
+Mute swan feces associated chapparvovirus 2,Mute swan feces associated chapparvovirus 2,,,,,1,1,1,1
+Mute swan feces associated chapparvovirus 3,Mute swan feces associated chapparvovirus 3,,,,,1,1,1,1
+Mute swan feces associated chapparvovirus 4,Mute swan feces associated chapparvovirus 4,,,,,1,1,1,1
+Mute swan feces associated chapparvovirus 5,Mute swan feces associated chapparvovirus 5,,,,,1,1,1,1
+Mute swan feces associated chapparvovirus 6,Mute swan feces associated chapparvovirus 6,,,,,1,1,1,1
+Mute swan feces associated circular virus 1,Mute swan feces associated circular virus 1,,,,,1,1,1,1
+Mute swan feces associated circular virus 10,Mute swan feces associated circular virus 10,,,,,1,1,1,1
+Mute swan feces associated circular virus 11,Mute swan feces associated circular virus 11,,,,,1,1,1,1
+Mute swan feces associated circular virus 12,Mute swan feces associated circular virus 12,,,,,1,1,1,1
+Mute swan feces associated circular virus 13,Mute swan feces associated circular virus 13,,,,,1,1,1,1
+Mute swan feces associated circular virus 14,Mute swan feces associated circular virus 14,,,,,1,1,1,1
+Mute swan feces associated circular virus 15,Mute swan feces associated circular virus 15,,,,,1,1,1,1
+Mute swan feces associated circular virus 16,Mute swan feces associated circular virus 16,,,,,1,1,1,1
+Mute swan feces associated circular virus 17,Mute swan feces associated circular virus 17,,,,,1,1,1,1
+Mute swan feces associated circular virus 2,Mute swan feces associated circular virus 2,,,,,1,1,1,1
+Mute swan feces associated circular virus 3,Mute swan feces associated circular virus 3,,,,,1,1,1,1
+Mute swan feces associated circular virus 4,Mute swan feces associated circular virus 4,,,,,1,1,1,1
+Mute swan feces associated circular virus 5,Mute swan feces associated circular virus 5,,,,,1,1,1,1
+Mute swan feces associated circular virus 6,Mute swan feces associated circular virus 6,,,,,1,1,1,1
+Mute swan feces associated circular virus 7,Mute swan feces associated circular virus 7,,,,,1,1,1,1
+Mute swan feces associated circular virus 8,Mute swan feces associated circular virus 8,,,,,1,1,1,1
+Mute swan feces associated circular virus 9,Mute swan feces associated circular virus 9,,,,,1,1,1,1
+Mute swan feces associated gammacoronavirus,Mute swan feces associated gammacoronavirus,,,,,1,1,1,1
+Mute swan feces associated gemycircularvirus 1,Mute swan feces associated gemycircularvirus 1,,,,,1,1,1,1
+Mute swan feces associated hepatovirus 1,Mute swan feces associated hepatovirus 1,,,,,1,1,1,1
+Mute swan feces associated hepatovirus 2,Mute swan feces associated hepatovirus 2,,,,,1,1,1,1
+Mute swan feces associated hepatovirus 3,Mute swan feces associated hepatovirus 3,,,,,1,1,1,1
+Mute swan feces associated hepatovirus 4,Mute swan feces associated hepatovirus 4,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 1,Mute swan feces associated noda-like virus 1,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 2,Mute swan feces associated noda-like virus 2,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 3,Mute swan feces associated noda-like virus 3,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 4,Mute swan feces associated noda-like virus 4,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 5,Mute swan feces associated noda-like virus 5,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 6,Mute swan feces associated noda-like virus 6,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 7,Mute swan feces associated noda-like virus 7,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 8,Mute swan feces associated noda-like virus 8,,,,,1,1,1,1
+Mute swan feces associated noda-like virus 9,Mute swan feces associated noda-like virus 9,,,,,1,1,1,1
+Mute swan feces associated partitiviridae 1,Mute swan feces associated partitiviridae 1,,,,,1,1,1,1
+Mute swan feces associated partitiviridae A,Mute swan feces associated partitiviridae A,,,,,1,1,1,1
+Mute swan feces associated partitiviridae B,Mute swan feces associated partitiviridae B,,,,,1,1,1,1
+Mute swan feces associated partitiviridae C,Mute swan feces associated partitiviridae C,,,,,1,1,1,1
+Mute swan feces associated partitiviridae D,Mute swan feces associated partitiviridae D,,,,,1,1,1,1
+Mute swan feces associated partitiviridae E,Mute swan feces associated partitiviridae E,,,,,1,1,1,1
+Mute swan feces associated partitiviridae F,Mute swan feces associated partitiviridae F,,,,,1,1,1,1
+Mute swan feces associated partitiviridae G,Mute swan feces associated partitiviridae G,,,,,1,1,1,1
+Mute swan feces associated partitiviridae H,Mute swan feces associated partitiviridae H,,,,,1,1,1,1
+Mute swan feces associated partitiviridae I,Mute swan feces associated partitiviridae I,,,,,1,1,1,1
+Mute swan feces associated partitiviridae J,Mute swan feces associated partitiviridae J,,,,,1,1,1,1
+Mute swan feces associated partitiviridae K,Mute swan feces associated partitiviridae K,,,,,1,1,1,1
+Mute swan feces associated partitiviridae L,Mute swan feces associated partitiviridae L,,,,,1,1,1,1
+Mute swan feces associated partitiviridae M,Mute swan feces associated partitiviridae M,,,,,1,1,1,1
+Mute swan feces associated partitiviridae N,Mute swan feces associated partitiviridae N,,,,,1,1,1,1
+Mute swan feces associated partitiviridae O,Mute swan feces associated partitiviridae O,,,,,1,1,1,1
+Mute swan feces associated picobirnavirus 1,Mute swan feces associated picobirnavirus 1,,,,,1,1,1,1
+Mute swan feces associated picobirnavirus 2,Mute swan feces associated picobirnavirus 2,,,,,1,1,1,1
+Mute swan feces associated picobirnavirus 3,Mute swan feces associated picobirnavirus 3,,,,,1,1,1,1
+Mute swan feces associated picobirnavirus A,Mute swan feces associated picobirnavirus A,,,,,1,1,1,1
+Mute swan feces associated picobirnavirus B,Mute swan feces associated picobirnavirus B,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 1,Mute swan feces associated picorna-like virus 1,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 10,Mute swan feces associated picorna-like virus 10,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 11,Mute swan feces associated picorna-like virus 11,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 12,Mute swan feces associated picorna-like virus 12,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 13,Mute swan feces associated picorna-like virus 13,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 14,Mute swan feces associated picorna-like virus 14,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 15,Mute swan feces associated picorna-like virus 15,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 16,Mute swan feces associated picorna-like virus 16,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 17,Mute swan feces associated picorna-like virus 17,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 18,Mute swan feces associated picorna-like virus 18,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 19,Mute swan feces associated picorna-like virus 19,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 2,Mute swan feces associated picorna-like virus 2,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 20,Mute swan feces associated picorna-like virus 20,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 21,Mute swan feces associated picorna-like virus 21,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 22,Mute swan feces associated picorna-like virus 22,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 23,Mute swan feces associated picorna-like virus 23,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 24,Mute swan feces associated picorna-like virus 24,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 25,Mute swan feces associated picorna-like virus 25,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 26,Mute swan feces associated picorna-like virus 26,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 27,Mute swan feces associated picorna-like virus 27,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 28,Mute swan feces associated picorna-like virus 28,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 29,Mute swan feces associated picorna-like virus 29,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 3,Mute swan feces associated picorna-like virus 3,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 4,Mute swan feces associated picorna-like virus 4,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 5,Mute swan feces associated picorna-like virus 5,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 6,Mute swan feces associated picorna-like virus 6,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 7,Mute swan feces associated picorna-like virus 7,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 8,Mute swan feces associated picorna-like virus 8,,,,,1,1,1,1
+Mute swan feces associated picorna-like virus 9,Mute swan feces associated picorna-like virus 9,,,,,1,1,1,1
+Mute swan feces associated sapelovirus 1,Mute swan feces associated sapelovirus 1,,,,,1,1,1,1
+Mute swan feces associated sapelovirus 2,Mute swan feces associated sapelovirus 2,,,,,1,1,1,1
+Mute swan feces associated sapelovirus 3,Mute swan feces associated sapelovirus 3,,,,,1,1,1,1
+Mute swan feces associated toti-like virus 1,Mute swan feces associated toti-like virus 1,,,,,1,1,1,1
+Mute swan feces associated toti-like virus 2,Mute swan feces associated toti-like virus 2,,,,,1,1,1,1
+Mute swan feces associated toti-like virus 3,Mute swan feces associated toti-like virus 3,,,,,1,1,1,1
+Myna aviadenovirus,Myna aviadenovirus,,,,,1,1,1,1
+Myna calicivirus,Myna calicivirus,,,,,1,1,1,1
+Myna chaphamaparvovirus,Myna chaphamaparvovirus,,,,,1,1,1,1
+Myna hepatovirus,Myna hepatovirus,,,,,1,1,1,1
+Myna siadenovirus,Myna siadenovirus,,,,,1,1,1,1
+Mynah circovirus,Mynah circovirus,,,,,1,1,1,1
+Nacovirus A,Nacovirus A,GCF_004786995.1,7656.0,50.0,2.0,0,0,0,0
+Nandayus nenday CRESS-DNA-virus sp.,Nandayus nenday CRESS-DNA-virus sp.,,,,,1,1,1,1
+Nandayus nenday Chaphamaparvovirus,Nandayus nenday Chaphamaparvovirus,,,,,1,1,1,1
+Nandayus nenday parvoviridae sp.,Nandayus nenday parvoviridae sp.,,,,,1,1,1,1
+Nauglamirvirus anduin,Nauglamirvirus anduin,GCF_023131745.1,1970.0,34.0,2.0,0,0,0,0
+Navarro virus,Navarro virus,,,,,1,1,1,1
+Neoavian orthoreovirus,Neoavian orthoreovirus,,,,,1,1,1,1
+Neotropic cormorant aviadenovirus,Neotropic cormorant aviadenovirus,,,,,1,1,1,1
+Neotropic cormorant herpesvirus,Neotropic cormorant herpesvirus,,,,,1,1,1,1
+Netherby virus,Netherby virus,,,,,1,1,1,1
+Neva virus,Neva virus,,,,,1,1,1,1
+Night heron coronavirus HKU19,Night heron coronavirus HKU19,GCF_000896035.1,26077.0,38.0,8.0,0,0,0,0
+Nodaviridae sp.,Nodaviridae sp.,GCA_030027915.1,3205.0,51.5,,0,0,0,1
+Nordenskjold virus,Nordenskjold virus,,,,,1,1,1,1
+Norwalk virus,Norwalk virus,,,,,1,1,1,1
+Nyavirus nyamaniniense,Nyavirus nyamaniniense,GCF_000882955.1,11631.0,52.5,6.0,0,0,0,0
+Nyavirus sanjacintoense,Nyavirus sanjacintoense,GCF_018587265.1,13295.0,51.5,7.0,0,0,0,0
+Nyavirus somateriae,Nyavirus somateriae,GCF_023131265.1,12659.0,48.0,8.0,0,0,0,0
+O'Leary virus,O'Leary virus,,,,,1,1,1,1
+Oates virus,Oates virus,,,,,1,1,1,1
+Onychoprion fuscatus alphaherpesvirus 1,Onychoprion fuscatus alphaherpesvirus 1,,,,,1,1,1,1
+Oriental turtle dovepox virus,Oriental turtle dovepox virus,,,,,1,1,1,1
+Oriolus adenovirus,Oriolus adenovirus,,,,,1,1,1,1
+Orivirus A,Orivirus A,GCF_000926835.1,7037.0,50.0,1.0,0,0,0,0
+Orthoavulavirus borisense,Orthoavulavirus borisense,GCF_003032685.1,14926.0,46.0,6.0,0,0,0,0
+Orthoavulavirus italiense,Orthoavulavirus italiense,GCF_000927075.1,15312.0,45.0,6.0,0,0,0,0
+Orthoavulavirus japanense,Orthoavulavirus japanense,GCF_001654405.1,16146.0,42.5,6.0,0,0,0,0
+Orthoavulavirus javaense,Orthoavulavirus javaense,GCF_002834085.1,15192.0,47.0,6.0,0,0,0,0
+Orthoavulavirus kopaiticense,Orthoavulavirus kopaiticense,GCF_003032695.1,14931.0,50.0,6.0,0,0,0,0
+Orthoavulavirus koreaense,Orthoavulavirus koreaense,,,,,1,1,1,1
+Orthoavulavirus newyorkense,Orthoavulavirus newyorkense,GCF_000926655.1,15438.0,44.5,6.0,0,0,0,0
+Orthoavulavirus oneillense,Orthoavulavirus oneillense,GCF_003032705.1,15017.0,50.0,6.0,0,0,0,0
+Orthoavulavirus sp.,Orthoavulavirus sp.,,,,,1,1,1,1
+Orthoavulavirus upoense,Orthoavulavirus upoense,GCF_003032675.1,15180.0,44.5,6.0,0,0,0,0
+Orthobornavirus alphapsittaciforme,Orthobornavirus alphapsittaciforme,GCF_002815075.1,8902.0,42.5,6.0,0,0,0,0
+Orthobornavirus avisaquaticae,Orthobornavirus avisaquaticae,GCF_001589995.2,8904.0,41.0,6.0,0,0,0,0
+Orthobornavirus betapsittaciforme,Orthobornavirus betapsittaciforme,GCF_002815095.1,8973.0,43.0,6.0,0,0,0,0
+Orthobornavirus bornaense,Orthobornavirus bornaense,,,,,1,1,1,1
+Orthobornavirus estrildidae,Orthobornavirus estrildidae,GCF_002815055.1,5572.0,43.0,6.0,0,0,0,0
+Orthobornavirus serini,Orthobornavirus serini,GCF_001305565.3,8930.0,41.0,6.0,0,0,0,0
+Orthobunyavirus balagoduense,Orthobunyavirus balagoduense,GCF_029887365.1,12557.0,36.5,3.0,0,0,0,0
+Orthobunyavirus bataiense,Orthobunyavirus bataiense,,,,,1,1,1,1
+Orthobunyavirus batamaense,Orthobunyavirus batamaense,GCF_029887665.1,12447.0,36.5,3.0,0,0,0,0
+Orthobunyavirus bobayaense,Orthobunyavirus bobayaense,GCF_029888205.1,12536.0,36.0,3.0,0,0,0,0
+Orthobunyavirus bunyamweraense,Orthobunyavirus bunyamweraense,,,,,1,1,1,1
+Orthobunyavirus gamboaense,Orthobunyavirus gamboaense,,,,,1,1,1,1
+Orthobunyavirus ingwavumaense,Orthobunyavirus ingwavumaense,GCF_004789635.1,12388.0,36.5,3.0,0,0,0,0
+Orthobunyavirus manzanillaense,Orthobunyavirus manzanillaense,,,,,1,1,1,1
+Orthobunyavirus matruhense,Orthobunyavirus matruhense,GCF_009731935.1,12220.0,36.5,3.0,0,0,0,0
+Orthobunyavirus mermetense,Orthobunyavirus mermetense,GCF_004789655.1,12332.0,36.0,3.0,0,0,0,0
+Orthobunyavirus sedlecense,Orthobunyavirus sedlecense,GCF_018594955.1,12532.0,36.0,4.0,0,0,0,0
+Orthobunyavirus teteense,Orthobunyavirus teteense,GCF_002814395.1,12187.0,37.0,3.0,0,0,0,0
+Orthobunyavirus thimiriense,Orthobunyavirus thimiriense,GCF_006297945.1,12418.0,36.5,4.0,0,0,0,0
+Orthoflavivirus bagazaense,Orthoflavivirus bagazaense,,,,,1,1,1,1
+Orthoflavivirus cacipacoreense,Orthoflavivirus cacipacoreense,GCF_000954535.1,10284.0,49.5,1.0,0,0,0,0
+Orthoflavivirus encephalitidis,Orthoflavivirus encephalitidis,,,,,1,1,1,1
+Orthoflavivirus israelense,Orthoflavivirus israelense,,,,,1,1,1,1
+Orthoflavivirus japonicum,Orthoflavivirus japonicum,,,,,1,1,1,1
+Orthoflavivirus louisense,Orthoflavivirus louisense,,,,,1,1,1,1
+Orthoflavivirus loupingi,Orthoflavivirus loupingi,,,,,1,1,1,1
+Orthoflavivirus nilense,Orthoflavivirus nilense,,,,,1,1,1,1
+Orthoflavivirus powassanense,Orthoflavivirus powassanense,,,,,1,1,1,1
+Orthoflavivirus saumarezense,Orthoflavivirus saumarezense,,,,,1,1,1,1
+Orthoflavivirus tembusu,Orthoflavivirus tembusu,GCF_000894755.1,10990.0,49.0,1.0,0,0,0,0
+Orthoflavivirus usutuense,Orthoflavivirus usutuense,,,,,1,1,1,1
+Orthoflavivirus wesselsbronense,Orthoflavivirus wesselsbronense,,,,,1,1,1,1
+Orthonairovirus abuhammadense,Orthonairovirus abuhammadense,GCF_014883235.1,18596.0,42.5,3.0,0,0,0,0
+Orthonairovirus abuminaense,Orthonairovirus abuminaense,GCF_014883245.1,18416.0,41.5,3.0,0,0,0,0
+Orthonairovirus bushkeyense,Orthonairovirus bushkeyense,,,,,1,1,1,1
+Orthonairovirus tunisense,Orthonairovirus tunisense,GCF_004128175.1,18977.0,41.5,3.0,0,0,0,0
+Orthoreovirus sp.,Orthoreovirus sp.,,,,,1,1,1,1
+Oscivirus A,Oscivirus A,GCF_000887535.1,7641.0,47.0,1.0,0,0,0,0
+Ostrekin virus,Ostrekin virus,,,,,1,1,1,1
+Ostrich orthoreovirus Ost1,Ostrich orthoreovirus Ost1,,,,,1,1,1,1
+Ostrich parvovirus,Ostrich parvovirus,,,,,1,1,1,1
+Otus scops CRESS-DNA-virus sp.,Otus scops CRESS-DNA-virus sp.,,,,,1,1,1,1
+Otus scops parvoviridae sp.,Otus scops parvoviridae sp.,,,,,1,1,1,1
+Ousland virus,Ousland virus,,,,,1,1,1,1
+Owl adenovirus,Owl adenovirus,GCA_031258635.1,40551.0,49.0,28.0,0,0,0,0
+Owl adenovirus Aichi10341,Owl adenovirus Aichi10341,,,,,1,1,1,1
+Pacific black duck aalivirus,Pacific black duck aalivirus,,,,,1,1,1,1
+Pacific black duck adeno-associated virus,Pacific black duck adeno-associated virus,,,,,1,1,1,1
+Pacific black duck anativirus-like virus,Pacific black duck anativirus-like virus,,,,,1,1,1,1
+Pacific black duck astrovirus,Pacific black duck astrovirus,,,,,1,1,1,1
+Pacific black duck aveparvovirus,Pacific black duck aveparvovirus,,,,,1,1,1,1
+Pacific black duck aviadenovirus,Pacific black duck aviadenovirus,,,,,1,1,1,1
+Pacific black duck calicivirus,Pacific black duck calicivirus,,,,,1,1,1,1
+Pacific black duck chaphamaparvovirus,Pacific black duck chaphamaparvovirus,,,,,1,1,1,1
+Pacific black duck chaphamaparvovirus 1,Pacific black duck chaphamaparvovirus 1,GCF_029885275.1,4323.0,39.0,4.0,0,0,0,0
+Pacific black duck megrivirus,Pacific black duck megrivirus,,,,,1,1,1,1
+Pacific black duck orthoreovirus,Pacific black duck orthoreovirus,,,,,1,1,1,1
+Pacific black duck sicinivirus-like virus,Pacific black duck sicinivirus-like virus,,,,,1,1,1,1
+Palmer virus,Palmer virus,,,,,1,1,1,1
+Papillomavirus luscinia7441,Papillomavirus luscinia7441,,,,,1,1,1,1
+Papillomavirus numida8051,Papillomavirus numida8051,,,,,1,1,1,1
+Paraavulavirus hongkongense,Paraavulavirus hongkongense,GCF_002815175.1,15054.0,47.0,6.0,0,0,0,0
+Paraavulavirus wisconsinense,Paraavulavirus wisconsinense,GCF_000927055.1,16182.0,42.0,6.0,0,0,0,0
+Paramecium bursaria Chlorella virus,Paramecium bursaria Chlorella virus,,,,,1,1,1,1
+Parechovirus B,Parechovirus B,,,,,1,1,1,1
+Parechovirus E,Parechovirus E,,,,,1,1,1,1
+Parrot coronavirus AV71/99,Parrot coronavirus AV71/99,,,,,1,1,1,1
+Parrot hepatitis B virus,Parrot hepatitis B virus,GCF_000895735.1,3048.0,41.5,5.0,0,0,0,0
+Partitiviridae sp.,Partitiviridae sp.,GCA_031323215.1,3505.0,48.5,,0,0,0,1
+Parus major parvoviridae sp.,Parus major parvoviridae sp.,,,,,1,1,1,1
+Parvoviridae sp.,Parvoviridae sp.,GCF_003389895.1,4305.0,38.0,2.0,0,0,0,0
+Parvovirus AC-2012,Parvovirus AC-2012,,,,,1,1,1,1
+Parvovirus AH0225,Parvovirus AH0225,,,,,1,1,1,1
+Parvovirus NIH-CQV,Parvovirus NIH-CQV,GCF_000910875.1,3780.0,46.0,3.0,0,0,0,0
+Parvovirus USP336-5/Brazil/2009,Parvovirus USP336-5/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP336-7/Brazil/2009,Parvovirus USP336-7/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP369-D/Brazil/2009,Parvovirus USP369-D/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP369-E/Brazil/2009,Parvovirus USP369-E/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP371-1/Brazil/2009,Parvovirus USP371-1/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP371-4/Brazil/2009,Parvovirus USP371-4/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP391-2/Brazil/2009,Parvovirus USP391-2/Brazil/2009,,,,,1,1,1,1
+Parvovirus USP400-2B/Brazil/2010,Parvovirus USP400-2B/Brazil/2010,,,,,1,1,1,1
+Parvovirus USP400-4B/Brazil/2010,Parvovirus USP400-4B/Brazil/2010,,,,,1,1,1,1
+Parvovirus USP400-8A/Brazil/2010,Parvovirus USP400-8A/Brazil/2010,,,,,1,1,1,1
+Parvovirus USP400-9A/Brazil/2010,Parvovirus USP400-9A/Brazil/2010,,,,,1,1,1,1
+Parvovirus anas3568,Parvovirus anas3568,,,,,1,1,1,1
+Parvovirus anser6071,Parvovirus anser6071,,,,,1,1,1,1
+Parvovirus anser6262,Parvovirus anser6262,,,,,1,1,1,1
+Parvovirus anser7324,Parvovirus anser7324,,,,,1,1,1,1
+Parvovirus anser7825,Parvovirus anser7825,,,,,1,1,1,1
+Parvovirus chalcites3867,Parvovirus chalcites3867,,,,,1,1,1,1
+Parvovirus chrysococcyx3867a,Parvovirus chrysococcyx3867a,,,,,1,1,1,1
+Parvovirus emberiza5140,Parvovirus emberiza5140,,,,,1,1,1,1
+Parvovirus emberiza5276,Parvovirus emberiza5276,,,,,1,1,1,1
+Parvovirus emberiza6660,Parvovirus emberiza6660,,,,,1,1,1,1
+Parvovirus emberiza7086,Parvovirus emberiza7086,,,,,1,1,1,1
+Parvovirus grus5099,Parvovirus grus5099,,,,,1,1,1,1
+Parvovirus grus5877,Parvovirus grus5877,,,,,1,1,1,1
+Parvovirus grus5942,Parvovirus grus5942,,,,,1,1,1,1
+Parvovirus laniidae3881,Parvovirus laniidae3881,,,,,1,1,1,1
+Parvovirus lanius6615,Parvovirus lanius6615,,,,,1,1,1,1
+Parvovirus larvivora5808,Parvovirus larvivora5808,,,,,1,1,1,1
+Parvovirus leiothrix3317,Parvovirus leiothrix3317,,,,,1,1,1,1
+Parvovirus leiothrix4587,Parvovirus leiothrix4587,,,,,1,1,1,1
+Parvovirus luscinia5410,Parvovirus luscinia5410,,,,,1,1,1,1
+Parvovirus luscinia6815,Parvovirus luscinia6815,,,,,1,1,1,1
+Parvovirus numida6704,Parvovirus numida6704,,,,,1,1,1,1
+Parvovirus partridge/PA147/ITA/2008,Parvovirus partridge/PA147/ITA/2008,,,,,1,1,1,1
+Parvovirus phasianus6595,Parvovirus phasianus6595,,,,,1,1,1,1
+Parvovirus phoenicopterus3947,Parvovirus phoenicopterus3947,,,,,1,1,1,1
+Parvovirus phoenicurus12233s1,Parvovirus phoenicurus12233s1,,,,,1,1,1,1
+Parvovirus phoenicurus12233s2,Parvovirus phoenicurus12233s2,,,,,1,1,1,1
+Parvovirus phoenicurus4436,Parvovirus phoenicurus4436,,,,,1,1,1,1
+Parvovirus phylloscopus4927,Parvovirus phylloscopus4927,,,,,1,1,1,1
+Parvovirus phylloscopus5247,Parvovirus phylloscopus5247,,,,,1,1,1,1
+Parvovirus phylloscopus5401s1,Parvovirus phylloscopus5401s1,,,,,1,1,1,1
+Parvovirus phylloscopus5401s2,Parvovirus phylloscopus5401s2,,,,,1,1,1,1
+Parvovirus steptopelia4906,Parvovirus steptopelia4906,,,,,1,1,1,1
+Parvovirus steptopelia5095,Parvovirus steptopelia5095,,,,,1,1,1,1
+Parvovirus streptopelia4404,Parvovirus streptopelia4404,,,,,1,1,1,1
+Parvovirus sylvia4828,Parvovirus sylvia4828,,,,,1,1,1,1
+Parvovirus turdus4154,Parvovirus turdus4154,,,,,1,1,1,1
+Parvovirus turdus6774,Parvovirus turdus6774,,,,,1,1,1,1
+Parvovirus zapornia4554,Parvovirus zapornia4554,,,,,1,1,1,1
+Parvovirus zonotrichia4755,Parvovirus zonotrichia4755,,,,,1,1,1,1
+Paslahepevirus balayani,Paslahepevirus balayani,GCF_023120345.1,6660.0,51.5,3.0,0,0,0,0
+Passer domesticus herpesvirus,Passer domesticus herpesvirus,,,,,1,1,1,1
+Passer montanus parvoviridae sp.,Passer montanus parvoviridae sp.,,,,,1,1,1,1
+Passer montanus pegivirus,Passer montanus pegivirus,GCA_031246775.1,10916.0,57.5,,0,0,0,1
+Passerid herpesvirus 1,Passerid herpesvirus 1,,,,,1,1,1,1
+Passerine adenovirus 1,Passerine adenovirus 1,GCA_031236175.1,39644.0,53.5,,0,0,0,1
+Passerine astrovirus 1,Passerine astrovirus 1,GCA_031190705.1,6745.0,47.5,3.0,0,0,0,0
+Passerine astrovirus 2,Passerine astrovirus 2,GCA_031190715.1,6864.0,43.5,3.0,0,0,0,0
+Passerine astrovirus 3,Passerine astrovirus 3,GCA_031190725.1,6628.0,42.0,3.0,0,0,0,0
+Passerine astrovirus 4,Passerine astrovirus 4,GCA_031190735.1,6870.0,42.0,3.0,0,0,0,0
+Passerivirus A,Passerivirus A,GCF_000890055.1,8035.0,58.0,1.0,0,0,0,0
+Pavo cristatus CRESS-DNA-virus sp.,Pavo cristatus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Pavo cristatus parvo-like hybrid virus,Pavo cristatus parvo-like hybrid virus,,,,,1,1,1,1
+Pavo cristatus parvoviridae sp.,Pavo cristatus parvoviridae sp.,,,,,1,1,1,1
+Pelican hepacivirus,Pelican hepacivirus,,,,,1,1,1,1
+Penguin herpesvirus 1,Penguin herpesvirus 1,,,,,1,1,1,1
+Penguin herpesvirus 2,Penguin herpesvirus 2,,,,,1,1,1,1
+Penguin siadenovirus A,Penguin siadenovirus A,GCF_001646375.1,24662.0,35.5,22.0,0,0,0,0
+Penguinpox virus,Penguinpox virus,GCF_000923135.1,306862.0,29.5,284.0,0,0,0,0
+Penguinpox virus 2,Penguinpox virus 2,GCA_031242905.1,349821.0,30.0,,0,0,0,1
+Periparus ater CRESS-DNA-virus sp.,Periparus ater CRESS-DNA-virus sp.,,,,,1,1,1,1
+Periparus ater Circoviridae sp.,Periparus ater Circoviridae sp.,,,,,1,1,1,1
+Periparus ater Ichthamaparvovirus,Periparus ater Ichthamaparvovirus,,,,,1,1,1,1
+Periparus ater parvoviridae sp.,Periparus ater parvoviridae sp.,,,,,1,1,1,1
+Pernambuco mycovirus 1,Pernambuco mycovirus 1,,,,,1,1,1,1
+Pernambuco nodavirus,Pernambuco nodavirus,,,,,1,1,1,1
+Pernambuco virus,Pernambuco virus,,,,,1,1,1,1
+Petrov virus,Petrov virus,,,,,1,1,1,1
+Phacovirus BY/PhV,Phacovirus BY/PhV,,,,,1,1,1,1
+Phacovirus CAB/PhV,Phacovirus CAB/PhV,,,,,1,1,1,1
+Phacovirus DM/PhV,Phacovirus DM/PhV,,,,,1,1,1,1
+Phacovirus GT/PhV,Phacovirus GT/PhV,,,,,1,1,1,1
+Phacovirus NG/PhV,Phacovirus NG/PhV,,,,,1,1,1,1
+Phacovirus TR/PhV,Phacovirus TR/PhV,,,,,1,1,1,1
+Phacovirus VG/PhV,Phacovirus VG/PhV,,,,,1,1,1,1
+Phacovirus sp.,Phacovirus sp.,,,,,1,1,1,1
+Phapecoctavirus TSP7,Phapecoctavirus TSP7,GCF_018642085.1,150892.0,39.0,280.0,0,0,0,0
+Phasianid herpesvirus 1,Phasianid herpesvirus 1,,,,,1,1,1,1
+Phasianus chaphamaparvovirus,Phasianus chaphamaparvovirus,,,,,1,1,1,1
+Pheasant-associated gyrovirus,Pheasant-associated gyrovirus,GCA_031310715.1,2353.0,51.5,,0,0,0,1
+Phlebovirus arumowotense,Phlebovirus arumowotense,,,,,1,1,1,1
+Phlebovirus toscanaense,Phlebovirus toscanaense,,,,,1,1,1,1
+Phoenicopterid herpesvirus 1,Phoenicopterid herpesvirus 1,,,,,1,1,1,1
+Phoenicopteridae CRESS-DNA-virus sp.,Phoenicopteridae CRESS-DNA-virus sp.,,,,,1,1,1,1
+Phoenicopteridae parvo-like hybrid virus,Phoenicopteridae parvo-like hybrid virus,,,,,1,1,1,1
+Phoenicopteridae parvoviridae sp.,Phoenicopteridae parvoviridae sp.,,,,,1,1,1,1
+Phoenicopterus roseus CRESS-DNA-virus sp.,Phoenicopterus roseus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Phoenicopterus roseus parvo-like hybrid virus,Phoenicopterus roseus parvo-like hybrid virus,,,,,1,1,1,1
+Phoenicurus auroreus CRESS-DNA-virus sp.,Phoenicurus auroreus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Phoenicurus auroreus parvoviridae sp.,Phoenicurus auroreus parvoviridae sp.,,,,,1,1,1,1
+Phylloscopus fuscatus CRESS-DNA-virus sp.,Phylloscopus fuscatus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Phylloscopus fuscatus Ichthamaparvovirus,Phylloscopus fuscatus Ichthamaparvovirus,,,,,1,1,1,1
+Phylloscopus fuscatus parvoviridae sp.,Phylloscopus fuscatus parvoviridae sp.,,,,,1,1,1,1
+Phylloscopus inornatus parvoviridae sp.,Phylloscopus inornatus parvoviridae sp.,,,,,1,1,1,1
+Phylloscopus parvoviridae sp.,Phylloscopus parvoviridae sp.,,,,,1,1,1,1
+Phylloscopus proregulus Brevihamaparvovirus,Phylloscopus proregulus Brevihamaparvovirus,,,,,1,1,1,1
+Phylloscopus proregulus Ichthamaparvovirus,Phylloscopus proregulus Ichthamaparvovirus,,,,,1,1,1,1
+Phylloscopus proregulus parvoviridae sp.,Phylloscopus proregulus parvoviridae sp.,,,,,1,1,1,1
+Phylloscopus schwarzi parvoviridae sp.,Phylloscopus schwarzi parvoviridae sp.,,,,,1,1,1,1
+Phylloscopus tenellipes CRESS-DNA-virus sp.,Phylloscopus tenellipes CRESS-DNA-virus sp.,,,,,1,1,1,1
+Picobirnaviridae sp. gcode 3,Picobirnaviridae sp. gcode 3,,,,,1,1,1,1
+Picobirnavirus GI/PBV/turkey/USA/MN-1/2011,Picobirnavirus GI/PBV/turkey/USA/MN-1/2011,,,,,1,1,1,1
+Picobirnavirus HK-2014,Picobirnavirus HK-2014,,,,,1,1,1,1
+Picobirnavirus sp.,Picobirnavirus sp.,GCF_004117395.1,4297.0,40.5,4.0,0,0,0,0
+Picobirnavirus turkey/USA-1507/2010,Picobirnavirus turkey/USA-1507/2010,,,,,1,1,1,1
+Picobirnavirus turkey/USA-1512/2010,Picobirnavirus turkey/USA-1512/2010,,,,,1,1,1,1
+Picornavirales sp.,Picornavirales sp.,GCF_013086155.1,8422.0,45.5,1.0,0,0,0,0
+Picornaviridae sp.,Picornaviridae sp.,GCF_003389975.1,7443.0,42.0,1.0,0,0,0,0
+Picornavirus chicken/CHK1/USA/2010,Picornavirus chicken/CHK1/USA/2010,,,,,1,1,1,1
+Picornavirus chicken/CHK148/USA/2010,Picornavirus chicken/CHK148/USA/2010,,,,,1,1,1,1
+Picornavirus chicken/CHK165/USA/2010,Picornavirus chicken/CHK165/USA/2010,,,,,1,1,1,1
+Picornavirus chicken/CHK168/USA/2010,Picornavirus chicken/CHK168/USA/2010,,,,,1,1,1,1
+Picornavirus chicken/CHK175/USA/2010,Picornavirus chicken/CHK175/USA/2010,,,,,1,1,1,1
+Picornavirus turkey/TRK22/USA/2010,Picornavirus turkey/TRK22/USA/2010,,,,,1,1,1,1
+Picornavirus turkey/TRK24/USA/2010,Picornavirus turkey/TRK24/USA/2010,,,,,1,1,1,1
+Picornavirus turkey/TRK90/USA/2010,Picornavirus turkey/TRK90/USA/2010,,,,,1,1,1,1
+Picornavirus turkey/TRK91/USA/2010,Picornavirus turkey/TRK91/USA/2010,,,,,1,1,1,1
+Pigeon adenovirus,Pigeon adenovirus,,,,,1,1,1,1
+Pigeon adenovirus 2a,Pigeon adenovirus 2a,GCA_006436595.1,31314.0,49.0,,0,0,0,1
+Pigeon adenovirus 2b,Pigeon adenovirus 2b,,,,,1,1,1,1
+Pigeon adenovirus 3,Pigeon adenovirus 3,,,,,1,1,1,1
+Pigeon adenovirus 4,Pigeon adenovirus 4,,,,,1,1,1,1
+Pigeon adenovirus 5,Pigeon adenovirus 5,,,,,1,1,1,1
+Pigeon adenovirus FJ2017,Pigeon adenovirus FJ2017,,,,,1,1,1,1
+Pigeon astrovirus,Pigeon astrovirus,,,,,1,1,1,1
+Pigeon aviadenovirus A,Pigeon aviadenovirus A,GCF_000921315.1,45480.0,64.0,37.0,0,0,0,0
+Pigeon aviadenovirus B,Pigeon aviadenovirus B,GCF_001831345.1,41981.0,48.5,35.0,0,0,0,0
+Pigeon coronavirus UAE-HKU29,Pigeon coronavirus UAE-HKU29,GCA_031171245.1,26155.0,39.5,10.0,0,0,0,0
+Pigeon gyrovirus,Pigeon gyrovirus,GCA_031232875.1,2573.0,54.0,2.0,0,0,0,0
+Pigeon parvovirus A,Pigeon parvovirus A,GCF_018580195.1,5492.0,52.0,4.0,0,0,0,0
+Pigeon picornavirus A,Pigeon picornavirus A,,,,,1,1,1,1
+Pigeon picornavirus B,Pigeon picornavirus B,GCF_000892795.1,7801.0,46.0,1.0,0,0,0,0
+Pigeon-dominant Coronavirus,Pigeon-dominant Coronavirus,,,,,1,1,1,1
+Pigeonpox virus,Pigeonpox virus,GCF_000922075.1,282356.0,29.5,271.0,0,0,0,0
+Pileated finch aveparvovirus,Pileated finch aveparvovirus,GCF_029884085.1,5368.0,44.0,3.0,0,0,0,0
+Pin virus,Pin virus,,,,,1,1,1,1
+Pingu picornavirus,Pingu picornavirus,GCF_018583705.1,7601.0,49.0,1.0,0,0,0,0
+Pink-eared duck avastrovirus,Pink-eared duck avastrovirus,,,,,1,1,1,1
+Pink-eared duck calicivirus I,Pink-eared duck calicivirus I,,,,,1,1,1,1
+Pink-eared duck calicivirus II,Pink-eared duck calicivirus II,,,,,1,1,1,1
+Pink-eared duck megrivirus,Pink-eared duck megrivirus,,,,,1,1,1,1
+Pink-eared duck picobirnavirus,Pink-eared duck picobirnavirus,,,,,1,1,1,1
+Pink-eared duck picornavirus,Pink-eared duck picornavirus,,,,,1,1,1,1
+Plum headed parakeet adenovirus 1,Plum headed parakeet adenovirus 1,,,,,1,1,1,1
+Podargid alphaherpesvirus 1,Podargid alphaherpesvirus 1,,,,,1,1,1,1
+Poecivirus A,Poecivirus A,GCF_003085835.1,7653.0,43.5,1.0,0,0,0,0
+Poecivirus NOCR-674,Poecivirus NOCR-674,,,,,1,1,1,1
+Poecivirus NOCR-848,Poecivirus NOCR-848,,,,,1,1,1,1
+Poecivirus RBNH-12,Poecivirus RBNH-12,,,,,1,1,1,1
+Poecivirus RBNH-929,Poecivirus RBNH-929,,,,,1,1,1,1
+Poecivirus sp.,Poecivirus sp.,,,,,1,1,1,1
+Poicephalus senegalus papillomavirus,Poicephalus senegalus papillomavirus,,,,,1,1,1,1
+Polyomavirus erythrura5304,Polyomavirus erythrura5304,,,,,1,1,1,1
+Polyomavirus erythrura5362,Polyomavirus erythrura5362,,,,,1,1,1,1
+Polyomavirus odontophorus5057,Polyomavirus odontophorus5057,,,,,1,1,1,1
+Polyomavirus phylloscopus4708,Polyomavirus phylloscopus4708,,,,,1,1,1,1
+Polyomavirus phylloscopus4853,Polyomavirus phylloscopus4853,,,,,1,1,1,1
+Polyomavirus prunella5215,Polyomavirus prunella5215,,,,,1,1,1,1
+Polyomavirus pteridophora5384,Polyomavirus pteridophora5384,,,,,1,1,1,1
+Polyomavirus saxicola5252a,Polyomavirus saxicola5252a,,,,,1,1,1,1
+Polyomavirus sericulus5319,Polyomavirus sericulus5319,,,,,1,1,1,1
+Polyomavirus taeniopygia5555,Polyomavirus taeniopygia5555,,,,,1,1,1,1
+Polyomavirus zonotrichia5422,Polyomavirus zonotrichia5422,,,,,1,1,1,1
+Porcine epidemic diarrhea virus,Porcine epidemic diarrhea virus,GCF_000848685.1,28033.0,42.0,6.0,0,0,0,0
+Porprismacovirus avias1,Porprismacovirus avias1,GCF_018587855.1,2546.0,48.0,2.0,0,0,0,0
+Porprismacovirus chicas2,Porprismacovirus chicas2,GCF_018589255.1,2534.0,49.0,2.0,0,0,0,0
+Porprismacovirus chicas3,Porprismacovirus chicas3,GCF_018589375.1,2528.0,50.0,2.0,0,0,0,0
+Porprismacovirus chicas4,Porprismacovirus chicas4,GCF_018589325.1,2532.0,49.0,2.0,0,0,0,0
+Porprismacovirus chicas5,Porprismacovirus chicas5,GCF_018589385.1,2419.0,52.5,2.0,0,0,0,0
+Porprismacovirus chicas6,Porprismacovirus chicas6,GCF_018589355.1,2442.0,50.0,2.0,0,0,0,0
+Porprismacovirus chicas7,Porprismacovirus chicas7,GCF_018589365.1,2608.0,47.0,2.0,0,0,0,0
+Porprismacovirus turas1,Porprismacovirus turas1,GCF_000918075.1,2479.0,52.0,2.0,0,0,0,0
+Powell virus,Powell virus,,,,,1,1,1,1
+Protoparvovirus HK-2014,Protoparvovirus HK-2014,,,,,1,1,1,1
+Protoparvovirus Udayana_MDPVA,Protoparvovirus Udayana_MDPVA,,,,,1,1,1,1
+Protoparvovirus Udayana_MDPVB,Protoparvovirus Udayana_MDPVB,,,,,1,1,1,1
+Protoparvovirus sp.,Protoparvovirus sp.,GCA_031166105.1,5046.0,47.0,,0,0,0,1
+Prunella montanella CRESS-DNA-virus sp.,Prunella montanella CRESS-DNA-virus sp.,,,,,1,1,1,1
+Prunella montanella Genomoviridae sp.,Prunella montanella Genomoviridae sp.,,,,,1,1,1,1
+Psittacid alphaherpesvirus 6,Psittacid alphaherpesvirus 6,,,,,1,1,1,1
+Psittacid herpesvirus 3,Psittacid herpesvirus 3,,,,,1,1,1,1
+Psittacidae CRESS-DNA-virus sp.,Psittacidae CRESS-DNA-virus sp.,,,,,1,1,1,1
+Psittacidae Chaphamaparvovirus,Psittacidae Chaphamaparvovirus,,,,,1,1,1,1
+Psittacidae aveparvovirus,Psittacidae aveparvovirus,,,,,1,1,1,1
+Psittacidae dependoparvovirus,Psittacidae dependoparvovirus,,,,,1,1,1,1
+Psittacidae parvo-like hybrid virus,Psittacidae parvo-like hybrid virus,,,,,1,1,1,1
+Psittacidae parvoviridae sp.,Psittacidae parvoviridae sp.,,,,,1,1,1,1
+Psittaciform aveparvovirus,Psittaciform aveparvovirus,,,,,1,1,1,1
+Psittaciform chaphamaparvovirus 3,Psittaciform chaphamaparvovirus 3,GCA_031311285.1,4277.0,43.0,,0,0,0,1
+Psittaciform chaphamaparvovirus 4,Psittaciform chaphamaparvovirus 4,,,,,1,1,1,1
+Psittaciform chaphamaparvovirus 5,Psittaciform chaphamaparvovirus 5,,,,,1,1,1,1
+Psittaciform chaphamaparvovirus 6,Psittaciform chaphamaparvovirus 6,,,,,1,1,1,1
+Psittaciform parvoviridae sp.,Psittaciform parvoviridae sp.,,,,,1,1,1,1
+Psittacine adenovirus 12,Psittacine adenovirus 12,,,,,1,1,1,1
+Psittacine adenovirus 2,Psittacine adenovirus 2,GCA_020842125.1,25616.0,37.0,,0,0,0,1
+Psittacine atadenovirus A,Psittacine atadenovirus A,GCF_000929035.1,31735.0,53.5,29.0,0,0,0,0
+Psittacine aviadenovirus B,Psittacine aviadenovirus B,GCF_003032855.1,40930.0,52.0,42.0,0,0,0,0
+Psittacine aviadenovirus C,Psittacine aviadenovirus C,GCF_006425375.1,38694.0,51.5,55.0,0,0,0,0
+Psittacine chaphamaparvovirus 2,Psittacine chaphamaparvovirus 2,GCA_031308385.1,4312.0,41.5,,0,0,0,1
+Psittacine orthoreovirus AGPReo1983,Psittacine orthoreovirus AGPReo1983,,,,,1,1,1,1
+Psittacine picornavirus,Psittacine picornavirus,,,,,1,1,1,1
+Psittacine siadenovirus 1,Psittacine siadenovirus 1,GCA_031201985.1,27162.0,37.0,,0,0,0,1
+Psittacine siadenovirus D,Psittacine siadenovirus D,GCF_018586905.1,27163.0,37.0,21.0,0,0,0,0
+Psittacine siadenovirus E,Psittacine siadenovirus E,GCF_018584825.1,27209.0,37.5,24.0,0,0,0,0
+Psittacine siadenovirus F,Psittacine siadenovirus F,GCA_031268895.1,25392.0,37.0,,0,0,0,1
+Ptolmey virus,Ptolmey virus,,,,,1,1,1,1
+Puffin papillomavirus 1,Puffin papillomavirus 1,GCA_031189375.1,7703.0,56.5,7.0,0,0,0,0
+Purple grenadier circovirus,Purple grenadier circovirus,,,,,1,1,1,1
+Pygoscepivirus A,Pygoscepivirus A,,,,,1,1,1,1
+Quail coronavirus Italy/Elvia/2005,Quail coronavirus Italy/Elvia/2005,,,,,1,1,1,1
+Quail coronavirus UAE-HKU30,Quail coronavirus UAE-HKU30,GCA_031171235.1,25874.0,42.5,9.0,0,0,0,0
+Quail deltacoronavirus,Quail deltacoronavirus,GCA_031174035.1,25881.0,42.0,,0,0,0,1
+Quail picornavirus QPV1/HUN/2010,Quail picornavirus QPV1/HUN/2010,GCF_000895635.1,8159.0,45.5,1.0,0,0,0,0
+Quailpox virus,Quailpox virus,GCF_002829285.1,581.0,33.5,1.0,0,0,0,0
+Quang Binh virus,Quang Binh virus,GCA_031123885.1,10891.0,52.0,,0,0,0,1
+Quaranjavirus chadense,Quaranjavirus chadense,GCF_016848445.1,11987.0,46.5,7.0,0,0,0,0
+Quaranjavirus wellfleetense,Quaranjavirus wellfleetense,GCF_000927955.1,11958.0,43.5,7.0,0,0,0,0
+RNA virus hoopoe/BBanka01/2015/HUN,RNA virus hoopoe/BBanka01/2015/HUN,GCA_031199605.1,7052.0,36.0,,0,0,0,1
+RNA virus sp.,RNA virus sp.,,,,,1,1,1,1
+Raina virus,Raina virus,,,,,1,1,1,1
+Raptor adenovirus,Raptor adenovirus,,,,,1,1,1,1
+Raptor siadenovirus A,Raptor siadenovirus A,GCF_000893535.1,26284.0,38.5,23.0,0,0,0,0
+Red-billed gull papillomavirus,Red-billed gull papillomavirus,,,,,1,1,1,1
+Red-capped plover megrivirus,Red-capped plover megrivirus,,,,,1,1,1,1
+Red-fronted serin circovirus,Red-fronted serin circovirus,,,,,1,1,1,1
+Red-necked stint Picornavirus B-like,Red-necked stint Picornavirus B-like,,,,,1,1,1,1
+Red-necked stint avastrovirus,Red-necked stint avastrovirus,,,,,1,1,1,1
+Red-necked stint gallivirus,Red-necked stint gallivirus,,,,,1,1,1,1
+Reoviridae sp.,Reoviridae sp.,GCA_031191825.1,4297.0,43.5,,0,0,0,1
+Reovirus sp.,Reovirus sp.,,,,,1,1,1,1
+Reticuloendotheliosis virus,Reticuloendotheliosis virus,GCF_000858025.1,8295.0,52.5,3.0,0,0,0,0
+Retroviridae sp.,Retroviridae sp.,,,,,1,1,1,1
+Rhabdoviridae sp.,Rhabdoviridae sp.,GCF_029886045.1,12485.0,41.5,6.0,0,0,0,0
+Riboviria sp.,Riboviria sp.,,,,,1,1,1,1
+Riiser virus,Riiser virus,,,,,1,1,1,1
+Rockhopper penguin papillomavirus,Rockhopper penguin papillomavirus,,,,,1,1,1,1
+Ross River virus,Ross River virus,GCF_002889255.1,11948.0,51.0,2.0,0,0,0,0
+Ross virus,Ross virus,,,,,1,1,1,1
+Rotavirus A,Rotavirus A,GCF_000880735.1,18562.0,33.5,12.0,0,0,0,0
+Rotavirus D,Rotavirus D,GCF_000890155.1,18500.0,33.0,12.0,0,0,0,0
+Rotavirus F,Rotavirus F,GCF_000910335.1,18341.0,34.5,11.0,0,0,0,0
+Rotavirus G,Rotavirus G,GCF_001343825.1,18186.0,35.0,12.0,0,0,0,0
+Rotavirus sp.,Rotavirus sp.,,,,,1,1,1,1
+Rotavirus turkey/MN/D-000818/2008,Rotavirus turkey/MN/D-000818/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-004782/2008,Rotavirus turkey/MN/D-004782/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-005329/2008,Rotavirus turkey/MN/D-005329/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-005331/2008,Rotavirus turkey/MN/D-005331/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-007553/2007,Rotavirus turkey/MN/D-007553/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-007554/2007,Rotavirus turkey/MN/D-007554/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-007555/2007,Rotavirus turkey/MN/D-007555/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-007861/2007,Rotavirus turkey/MN/D-007861/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-007862/2007,Rotavirus turkey/MN/D-007862/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-007863/2007,Rotavirus turkey/MN/D-007863/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-016170/2008,Rotavirus turkey/MN/D-016170/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-016171/2008,Rotavirus turkey/MN/D-016171/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-022564/2008,Rotavirus turkey/MN/D-022564/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-022565/2008,Rotavirus turkey/MN/D-022565/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-035365/2007,Rotavirus turkey/MN/D-035365/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-046159/2007,Rotavirus turkey/MN/D-046159/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-047428/2008,Rotavirus turkey/MN/D-047428/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-048814/2008,Rotavirus turkey/MN/D-048814/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-049007/2007,Rotavirus turkey/MN/D-049007/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-049317/2007,Rotavirus turkey/MN/D-049317/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-052725/2007,Rotavirus turkey/MN/D-052725/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-053540/2007,Rotavirus turkey/MN/D-053540/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-053578/2007,Rotavirus turkey/MN/D-053578/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-053706/2007,Rotavirus turkey/MN/D-053706/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-053853/2007,Rotavirus turkey/MN/D-053853/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-054413/2007,Rotavirus turkey/MN/D-054413/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-055423/2007,Rotavirus turkey/MN/D-055423/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-055431/2008,Rotavirus turkey/MN/D-055431/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-055471/2008,Rotavirus turkey/MN/D-055471/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-056058/2007,Rotavirus turkey/MN/D-056058/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-056826/2007,Rotavirus turkey/MN/D-056826/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-058211/2007,Rotavirus turkey/MN/D-058211/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-058212/2007,Rotavirus turkey/MN/D-058212/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-058648/2007,Rotavirus turkey/MN/D-058648/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-059191/2007,Rotavirus turkey/MN/D-059191/2007,,,,,1,1,1,1
+Rotavirus turkey/MN/D-059867/2008,Rotavirus turkey/MN/D-059867/2008,,,,,1,1,1,1
+Rotavirus turkey/MN/D-22852/2007,Rotavirus turkey/MN/D-22852/2007,,,,,1,1,1,1
+Rous sarcoma virus,Rous sarcoma virus,GCF_000855425.1,9392.0,54.0,4.0,0,0,0,0
+Ruddy turnstone astrovirus,Ruddy turnstone astrovirus,,,,,1,1,1,1
+Ruddy turnstone calicivirus,Ruddy turnstone calicivirus,,,,,1,1,1,1
+Ruddy turnstone calicivirus A,Ruddy turnstone calicivirus A,,,,,1,1,1,1
+Ruddy turnstone calicivirus B,Ruddy turnstone calicivirus B,,,,,1,1,1,1
+Ruddy turnstone rotavirus,Ruddy turnstone rotavirus,,,,,1,1,1,1
+Rymill virus,Rymill virus,,,,,1,1,1,1
+Rynchops niger coronavirus,Rynchops niger coronavirus,,,,,1,1,1,1
+Salmonella phage DaR-2019a,Salmonella phage DaR-2019a,GCA_006083255.1,89091.0,39.0,146.0,0,0,0,0
+Salmonella phage DaR-2019b,Salmonella phage DaR-2019b,GCA_006083295.1,88966.0,39.0,148.0,0,0,0,0
+Salmonella phage SP1a,Salmonella phage SP1a,GCA_002924565.1,111184.0,39.0,,0,0,0,1
+Sapelovirus sp.,Sapelovirus sp.,,,,,1,1,1,1
+Schouten virus,Schouten virus,,,,,1,1,1,1
+Scott virus,Scott virus,,,,,1,1,1,1
+Sedov virus,Sedov virus,,,,,1,1,1,1
+Senko virus,Senko virus,,,,,1,1,1,1
+Serdyukov virus,Serdyukov virus,,,,,1,1,1,1
+Serinus canaria papillomavirus 1,Serinus canaria papillomavirus 1,GCF_004131485.1,8071.0,49.5,8.0,0,0,0,0
+Sewage-associated circular DNA virus,Sewage-associated circular DNA virus,,,,,1,1,1,1
+Shackleton virus,Shackleton virus,,,,,1,1,1,1
+Sharp-tailed sandpiper Picornavirus B-like,Sharp-tailed sandpiper Picornavirus B-like,,,,,1,1,1,1
+Shelduck calicivirus,Shelduck calicivirus,,,,,1,1,1,1
+Shelduck picobirnavirus I,Shelduck picobirnavirus I,,,,,1,1,1,1
+Shelduck picobirnavirus II,Shelduck picobirnavirus II,,,,,1,1,1,1
+Shelduck picobirnavirus III,Shelduck picobirnavirus III,,,,,1,1,1,1
+Shelduck rhabdovirus,Shelduck rhabdovirus,,,,,1,1,1,1
+Shelvocke virus,Shelvocke virus,,,,,1,1,1,1
+Shirase virus,Shirase virus,,,,,1,1,1,1
+Shorebird deltacoronavirus,Shorebird deltacoronavirus,,,,,1,1,1,1
+Short beak and dwarfism syndrome virus,Short beak and dwarfism syndrome virus,,,,,1,1,1,1
+Siadenovirus sp.,Siadenovirus sp.,GCA_024930225.1,26075.0,38.5,,0,0,0,1
+Sicinivirus A,Sicinivirus A,GCF_001443985.1,9809.0,55.5,1.0,0,0,0,0
+Sicinivirus sp.,Sicinivirus sp.,GCF_018583545.1,9471.0,54.5,1.0,0,0,0,0
+Sindbis virus,Sindbis virus,GCF_000860545.1,11703.0,51.0,4.0,0,0,0,0
+Skua siadenovirus A,Skua siadenovirus A,GCF_000895055.1,26340.0,34.0,23.0,0,0,0,0
+Smacoviridae sp.,Smacoviridae sp.,GCF_018591145.1,2549.0,52.0,2.0,0,0,0,0
+Small anellovirus,Small anellovirus,,,,,1,1,1,1
+Smith virus,Smith virus,,,,,1,1,1,1
+Smooth billed ani adenovirus 1,Smooth billed ani adenovirus 1,,,,,1,1,1,1
+Somov virus,Somov virus,,,,,1,1,1,1
+South polar skua adenovirus-2,South polar skua adenovirus-2,,,,,1,1,1,1
+South polar skua adenovirus-3,South polar skua adenovirus-3,,,,,1,1,1,1
+South polar skua adenovirus-4,South polar skua adenovirus-4,,,,,1,1,1,1
+South polar skua adenovirus-5,South polar skua adenovirus-5,,,,,1,1,1,1
+Sparrow coronavirus HKU17,Sparrow coronavirus HKU17,GCF_000868165.1,26083.0,44.5,9.0,0,0,0,0
+Sparrow deltacoronavirus,Sparrow deltacoronavirus,GCA_031173895.1,25796.0,43.5,9.0,0,0,0,0
+Spata circovirus,Spata circovirus,,,,,1,1,1,1
+Spheniscid alphaherpesvirus 2,Spheniscid alphaherpesvirus 2,,,,,1,1,1,1
+Spheniscus humboldti poxvirus,Spheniscus humboldti poxvirus,,,,,1,1,1,1
+Strigid herpesvirus 1,Strigid herpesvirus 1,,,,,1,1,1,1
+Strix aluco herpesvirus,Strix aluco herpesvirus,,,,,1,1,1,1
+Strix nebulosa herpesvirus,Strix nebulosa herpesvirus,,,,,1,1,1,1
+Strix uralensis herpesvirus,Strix uralensis herpesvirus,,,,,1,1,1,1
+Stroud virus,Stroud virus,,,,,1,1,1,1
+Sturnus papillomavirus,Sturnus papillomavirus,,,,,1,1,1,1
+Sulid herpesvirus 1,Sulid herpesvirus 1,,,,,1,1,1,1
+Sunrhavirus alexandria,Sunrhavirus alexandria,GCF_023156065.1,10846.0,37.0,9.0,0,0,0,0
+Sunrhavirus bimbo,Sunrhavirus bimbo,,,,,1,1,1,1
+Sunrhavirus garba,Sunrhavirus garba,GCF_013088625.1,10821.0,38.5,7.0,0,0,0,0
+Sunrhavirus kolongo,Sunrhavirus kolongo,,,,,1,1,1,1
+Sunrhavirus matariya,Sunrhavirus matariya,GCF_023156095.1,10991.0,38.0,7.0,0,0,0,0
+Sunrhavirus nasoule,Sunrhavirus nasoule,GCF_023155965.1,10977.0,39.5,7.0,0,0,0,0
+Sunrhavirus ouango,Sunrhavirus ouango,GCF_023156025.1,10773.0,35.5,8.0,0,0,0,0
+Sunrhavirus sandjimba,Sunrhavirus sandjimba,,,,,1,1,1,1
+Sunrhavirus sunguru,Sunrhavirus sunguru,GCF_000925655.1,11056.0,40.0,7.0,0,0,0,0
+Swan goose coronavirus,Swan goose coronavirus,,,,,1,1,1,1
+Sylvia atricapilla herpesvirus,Sylvia atricapilla herpesvirus,,,,,1,1,1,1
+Syrmaticus ellioti CRESS-DNA-virus sp.,Syrmaticus ellioti CRESS-DNA-virus sp.,,,,,1,1,1,1
+Syrmaticus ellioti parvo-like hybrid virus,Syrmaticus ellioti parvo-like hybrid virus,,,,,1,1,1,1
+Syrmaticus reevesii CRESS-DNA-virus sp.,Syrmaticus reevesii CRESS-DNA-virus sp.,,,,,1,1,1,1
+Tarbeyev virus,Tarbeyev virus,,,,,1,1,1,1
+Tarsiger cyanurus CRESS-DNA-virus sp.,Tarsiger cyanurus CRESS-DNA-virus sp.,,,,,1,1,1,1
+Tarsiger cyanurus Genomoviridae sp.,Tarsiger cyanurus Genomoviridae sp.,,,,,1,1,1,1
+Tarsiger cyanurus parvoviridae sp.,Tarsiger cyanurus parvoviridae sp.,,,,,1,1,1,1
+Tawny frogmouth aviadenovirus A,Tawny frogmouth aviadenovirus A,,,,,1,1,1,1
+Telmo virus,Telmo virus,,,,,1,1,1,1
+Temminck's stint calicivirus,Temminck's stint calicivirus,GCA_031319925.1,8575.0,51.5,2.0,0,0,0,0
+Tern adenovirus,Tern adenovirus,,,,,1,1,1,1
+Tern atadenovirus 1,Tern atadenovirus 1,GCA_031308105.1,31334.0,34.0,32.0,0,0,0,0
+Tetrao urogallus alphaherpesvirus 1,Tetrao urogallus alphaherpesvirus 1,,,,,1,1,1,1
+Thalassarchid herpesvirus 1,Thalassarchid herpesvirus 1,,,,,1,1,1,1
+Thetapapillomavirus 1,Thetapapillomavirus 1,GCF_000841825.1,7304.0,49.5,6.0,0,0,0,0
+Thinornis picornavirus,Thinornis picornavirus,,,,,1,1,1,1
+Thrush coronavirus HKU12-600,Thrush coronavirus HKU12-600,GCF_000883335.1,26396.0,38.0,9.0,0,0,0,0
+Tibet bird virus 1,Tibet bird virus 1,,,,,1,1,1,1
+Tibet bird virus 2,Tibet bird virus 2,,,,,1,1,1,1
+Tick-associated DNA virus,Tick-associated DNA virus,,,,,1,1,1,1
+Tick-associated circular DNA virus,Tick-associated circular DNA virus,GCA_031315805.1,2535.0,47.5,,0,0,0,1
+Tinamou hepatitis B virus,Tinamou hepatitis B virus,GCF_002219325.1,3024.0,43.5,5.0,0,0,0,0
+Tolstikov virus,Tolstikov virus,,,,,1,1,1,1
+Torque teno virus,Torque teno virus,GCF_018580245.1,3649.0,49.0,4.0,0,0,0,0
+Totiviridae sp.,Totiviridae sp.,GCA_023571715.1,5261.0,68.5,1.0,0,0,0,0
+Toutouwai hepatovirus,Toutouwai hepatovirus,,,,,1,1,1,1
+Tragopan caboti CRESS-DNA-virus sp.,Tragopan caboti CRESS-DNA-virus sp.,,,,,1,1,1,1
+Treisepsilonpapillomavirus 1,Treisepsilonpapillomavirus 1,GCF_000920595.1,7637.0,49.5,7.0,0,0,0,0
+Treiszetapapillomavirus 1,Treiszetapapillomavirus 1,GCF_000922895.1,8132.0,48.0,12.0,0,0,0,0
+Tremovirus A,Tremovirus A,,,,,1,1,1,1
+Treshnikov virus,Treshnikov virus,,,,,1,1,1,1
+Tropical screech owl adenovirus 1,Tropical screech owl adenovirus 1,,,,,1,1,1,1
+Tunzelmann virus,Tunzelmann virus,,,,,1,1,1,1
+Tupavirus durham,Tupavirus durham,GCF_002815915.1,11092.0,43.5,7.0,0,0,0,0
+Turdid alphaherpesvirus 1,Turdid alphaherpesvirus 1,,,,,1,1,1,1
+Turdus hortulorum CRESS-DNA-virus sp.,Turdus hortulorum CRESS-DNA-virus sp.,,,,,1,1,1,1
+Turdus hortulorum parvoviridae sp.,Turdus hortulorum parvoviridae sp.,,,,,1,1,1,1
+Turdus merula herpesvirus,Turdus merula herpesvirus,,,,,1,1,1,1
+Turdus naumanni CRESS-DNA-virus sp.,Turdus naumanni CRESS-DNA-virus sp.,,,,,1,1,1,1
+Turdus naumanni Ichthamaparvovirus,Turdus naumanni Ichthamaparvovirus,,,,,1,1,1,1
+Turdus naumanni parvoviridae sp.,Turdus naumanni parvoviridae sp.,,,,,1,1,1,1
+Turdus pallidus Chaphamaparvovirus,Turdus pallidus Chaphamaparvovirus,,,,,1,1,1,1
+Turdus pallidus parvoviridae sp.,Turdus pallidus parvoviridae sp.,,,,,1,1,1,1
+Turkey astrovirus,Turkey astrovirus,GCF_000857825.1,7003.0,43.5,2.0,0,0,0,0
+Turkey astrovirus 3,Turkey astrovirus 3,,,,,1,1,1,1
+Turkey aviadenovirus 2,Turkey aviadenovirus 2,,,,,1,1,1,1
+Turkey aviadenovirus B,Turkey aviadenovirus B,GCF_000888635.1,45413.0,67.0,37.0,0,0,0,0
+Turkey aviadenovirus C,Turkey aviadenovirus C,GCF_000912195.1,42940.0,48.5,33.0,0,0,0,0
+Turkey aviadenovirus D,Turkey aviadenovirus D,GCF_000913655.1,43686.0,51.5,37.0,0,0,0,0
+Turkey parvovirus Croatia/Munt/2010,Turkey parvovirus Croatia/Munt/2010,,,,,1,1,1,1
+Turkey parvovirus Tu33/2010/HUN,Turkey parvovirus Tu33/2010/HUN,,,,,1,1,1,1
+Turkey parvovirus Tu762/2009/HUN,Turkey parvovirus Tu762/2009/HUN,,,,,1,1,1,1
+Turkey picobirnavirus,Turkey picobirnavirus,,,,,1,1,1,1
+Turkey picornavirus,Turkey picornavirus,,,,,1,1,1,1
+Turkey siadenovirus A,Turkey siadenovirus A,,,,,1,1,1,1
+Turkeypox virus,Turkeypox virus,GCF_001431935.1,188534.0,30.0,171.0,0,0,0,0
+Tyabin virus,Tyabin virus,,,,,1,1,1,1
+Tymoviridae sp. XZN137671,Tymoviridae sp. XZN137671,,,,,1,1,1,1
+Ui-te-Rangiora virus,Ui-te-Rangiora virus,,,,,1,1,1,1
+Umatilla virus,Umatilla virus,GCF_000923315.1,19402.0,41.0,10.0,0,0,0,0
+Uukuvirus uriae,Uukuvirus uriae,GCF_013086475.1,11455.0,42.5,4.0,0,0,0,0
+Varley virus,Varley virus,,,,,1,1,1,1
+Venezuelan equine encephalitis virus,Venezuelan equine encephalitis virus,GCF_002889695.1,11447.0,50.0,6.0,0,0,0,0
+Vespucci virus,Vespucci virus,,,,,1,1,1,1
+Virginian WCV avipoxvirus,Virginian WCV avipoxvirus,,,,,1,1,1,1
+Vultur gryphus poxvirus,Vultur gryphus poxvirus,,,,,1,1,1,1
+Vulture herpesvirus,Vulture herpesvirus,,,,,1,1,1,1
+Waterbird gammacoronavirus 1,Waterbird gammacoronavirus 1,,,,,1,1,1,1
+Waterwitch virus,Waterwitch virus,,,,,1,1,1,1
+Weivirus-like virus sp.,Weivirus-like virus sp.,,,,,1,1,1,1
+Wendell virus,Wendell virus,,,,,1,1,1,1
+Western equine encephalitis virus,Western equine encephalitis virus,GCF_002889215.1,11562.0,48.5,2.0,0,0,0,0
+Western jackdaw circovirus,Western jackdaw circovirus,,,,,1,1,1,1
+Whistler virus,Whistler virus,,,,,1,1,1,1
+White-eye coronavirus HKU16,White-eye coronavirus HKU16,GCF_000896875.1,26041.0,40.0,8.0,0,0,0,0
+White-rumped seedeater circovirus,White-rumped seedeater circovirus,,,,,1,1,1,1
+WigFec circovirus 1,WigFec circovirus 1,GCF_029886425.1,1723.0,51.0,2.0,0,0,0,0
+WigFec circovirus 2,WigFec circovirus 2,GCF_029886435.1,1821.0,48.0,2.0,0,0,0,0
+Wigeon coronavirus HKU20,Wigeon coronavirus HKU20,GCF_000895415.1,26227.0,39.5,10.0,0,0,0,0
+Wigfec virus K19_221,Wigfec virus K19_221,GCA_031321275.1,3789.0,46.5,,0,0,0,1
+Wigfec virus K19_227,Wigfec virus K19_227,GCA_031320975.1,3714.0,39.0,,0,0,0,1
+Wigfec virus K19_259,Wigfec virus K19_259,GCA_031321285.1,3393.0,37.5,,0,0,0,1
+Wigfec virus K19_292,Wigfec virus K19_292,GCA_031321135.1,3112.0,38.5,,0,0,0,1
+Wigfec virus K19_327,Wigfec virus K19_327,GCA_031321295.1,2948.0,44.5,,0,0,0,1
+Wigfec virus K19_346,Wigfec virus K19_346,GCA_031321145.1,2885.0,38.0,,0,0,0,1
+Wigfec virus K19_385,Wigfec virus K19_385,GCA_031321155.1,2661.0,37.0,,0,0,0,1
+Wigfec virus K19_426,Wigfec virus K19_426,GCA_031320985.1,2412.0,43.0,,0,0,0,1
+Wigfec virus K19_432,Wigfec virus K19_432,GCA_031320995.1,2388.0,43.0,,0,0,0,1
+Wigfec virus K19_435,Wigfec virus K19_435,GCA_031321405.1,2375.0,51.0,,0,0,0,1
+Wigfec virus K19_443,Wigfec virus K19_443,GCA_031321305.1,2360.0,46.0,,0,0,0,1
+Wigfec virus K19_448,Wigfec virus K19_448,GCA_031321355.1,2327.0,38.5,,0,0,0,1
+Wigfec virus K19_450,Wigfec virus K19_450,GCA_031321005.1,2318.0,43.5,,0,0,0,1
+Wigfec virus K19_454,Wigfec virus K19_454,GCA_031321365.1,2301.0,46.5,,0,0,0,1
+Wigfec virus K19_467,Wigfec virus K19_467,GCA_031321415.1,2232.0,45.5,,0,0,0,1
+Wigfec virus K19_469,Wigfec virus K19_469,GCA_031321395.1,2231.0,50.5,,0,0,0,1
+Wigfec virus K19_482,Wigfec virus K19_482,GCA_031321385.1,2200.0,51.5,,0,0,0,1
+Wigfec virus K19_484,Wigfec virus K19_484,GCA_031321015.1,2197.0,51.0,,0,0,0,1
+Wigfec virus K19_486,Wigfec virus K19_486,GCA_031321025.1,2194.0,53.5,,0,0,0,1
+Wigfec virus K19_493,Wigfec virus K19_493,GCA_031321315.1,2170.0,45.0,,0,0,0,1
+Wigfec virus K19_494,Wigfec virus K19_494,GCA_031321035.1,2155.0,50.0,,0,0,0,1
+Wigfec virus K19_511,Wigfec virus K19_511,GCA_031321045.1,2108.0,50.5,,0,0,0,1
+Wigfec virus K19_513,Wigfec virus K19_513,GCA_031321375.1,2104.0,44.5,,0,0,0,1
+Wigfec virus K19_521,Wigfec virus K19_521,GCA_031321055.1,2090.0,34.0,,0,0,0,1
+Wigfec virus K19_525,Wigfec virus K19_525,GCA_031321165.1,2086.0,32.0,,0,0,0,1
+Wigfec virus K19_526,Wigfec virus K19_526,GCA_031321325.1,2084.0,42.0,,0,0,0,1
+Wigfec virus K19_545,Wigfec virus K19_545,GCA_031321065.1,2037.0,41.5,,0,0,0,1
+Wigfec virus K19_555,Wigfec virus K19_555,GCA_031321175.1,2020.0,45.5,,0,0,0,1
+Wigfec virus K19_558,Wigfec virus K19_558,GCA_031321185.1,2010.0,46.5,,0,0,0,1
+Wigfec virus K19_561,Wigfec virus K19_561,GCA_031321195.1,2004.0,31.5,,0,0,0,1
+Wigfec virus K19_562,Wigfec virus K19_562,GCA_031321075.1,1999.0,47.5,,0,0,0,1
+Wigfec virus K19_571,Wigfec virus K19_571,GCA_031321205.1,1986.0,39.0,,0,0,0,1
+Wigfec virus K19_576,Wigfec virus K19_576,GCA_031321335.1,1981.0,52.0,,0,0,0,1
+Wigfec virus K19_588,Wigfec virus K19_588,GCA_031321085.1,1934.0,41.5,,0,0,0,1
+Wigfec virus K19_593,Wigfec virus K19_593,GCA_031321215.1,1929.0,37.5,,0,0,0,1
+Wigfec virus K19_598,Wigfec virus K19_598,GCA_031321095.1,1920.0,40.0,,0,0,0,1
+Wigfec virus K19_600,Wigfec virus K19_600,GCA_031321225.1,1916.0,37.0,,0,0,0,1
+Wigfec virus K19_605,Wigfec virus K19_605,GCA_031321105.1,1903.0,42.0,,0,0,0,1
+Wigfec virus K19_615,Wigfec virus K19_615,GCA_031321345.1,1865.0,35.5,,0,0,0,1
+Wigfec virus K19_623,Wigfec virus K19_623,GCA_031321115.1,1840.0,30.5,,0,0,0,1
+Wigfec virus K19_645,Wigfec virus K19_645,GCA_031321235.1,1750.0,42.5,,0,0,0,1
+Wigfec virus K19_654,Wigfec virus K19_654,GCA_031321245.1,1726.0,38.0,,0,0,0,1
+Wigfec virus K19_658,Wigfec virus K19_658,GCA_031321125.1,1722.0,37.0,,0,0,0,1
+Wigfec virus K19_668,Wigfec virus K19_668,GCA_031321255.1,1702.0,37.0,,0,0,0,1
+Wigfec virus K19_691,Wigfec virus K19_691,GCA_031321265.1,1665.0,38.5,,0,0,0,1
+Wilkes virus,Wilkes virus,,,,,1,1,1,1
+Wood duck chaphamaparvovirus,Wood duck chaphamaparvovirus,,,,,1,1,1,1
+Wood duck megrivirus,Wood duck megrivirus,,,,,1,1,1,1
+Wood pigeon astrovirus,Wood pigeon astrovirus,,,,,1,1,1,1
+Yaounde-like virus Ave-Ghana/2007,Yaounde-like virus Ave-Ghana/2007,,,,,1,1,1,1
+Yellow-eyed penguin gyrovirus,Yellow-eyed penguin gyrovirus,,,,,1,1,1,1
+Yellow-eyed penguin megrivirus,Yellow-eyed penguin megrivirus,,,,,1,1,1,1
+Yellow-eyed penguin picornavirus,Yellow-eyed penguin picornavirus,,,,,1,1,1,1
+Yellow-fronted canary circovirus,Yellow-fronted canary circovirus,,,,,1,1,1,1
+Zebra finch hepacivirus 1,Zebra finch hepacivirus 1,,,,,1,1,1,1
+Zebra finch hepacivirus 2,Zebra finch hepacivirus 2,,,,,1,1,1,1
+Zingilamo virus,Zingilamo virus,GCA_031320685.1,11687.0,52.5,,0,0,0,1
+Zoothera dauma adenovirus,Zoothera dauma adenovirus,,,,,1,1,1,1
+bar-headed goose anativirus,bar-headed goose anativirus,,,,,1,1,1,1
+bar-headed goose hepatovirus,bar-headed goose hepatovirus,,,,,1,1,1,1
+bar-headed goose megrivirus,bar-headed goose megrivirus,,,,,1,1,1,1
+black-headed gull deltacoronavirus,black-headed gull deltacoronavirus,,,,,1,1,1,1
+common gull deltacoronavirus,common gull deltacoronavirus,,,,,1,1,1,1
+common gull gammacoronavirus,common gull gammacoronavirus,,,,,1,1,1,1
+cormorant polyomavirus 1,cormorant polyomavirus 1,GCA_031281625.1,5133.0,47.5,,0,0,0,1
+crane CRESS-DNA virus,crane CRESS-DNA virus,GCA_031274965.1,2243.0,51.5,,0,0,0,1
+d'Urville virus,d'Urville virus,,,,,1,1,1,1
+de Castilla virus,de Castilla virus,,,,,1,1,1,1
+de Gerlache virus,de Gerlache virus,,,,,1,1,1,1
+de Kerguelen virus,de Kerguelen virus,,,,,1,1,1,1
+de Lozier virus,de Lozier virus,,,,,1,1,1,1
+de Nodal virus,de Nodal virus,,,,,1,1,1,1
+duck egg-reducing syndrome virus,duck egg-reducing syndrome virus,GCA_031321475.1,9042.0,41.5,,0,0,0,1
+egret CRESS-DNA virus,egret CRESS-DNA virus,GCA_031275015.1,2216.0,54.0,,0,0,0,1
+finch CRESS-DNA virus,finch CRESS-DNA virus,GCA_031275045.1,2366.0,53.0,,0,0,0,1
+kestrel polyomavirus 1,kestrel polyomavirus 1,,,,,1,1,1,1
+la Roche virus,la Roche virus,,,,,1,1,1,1
+le Maire virus,le Maire virus,,,,,1,1,1,1
+psittacine adenovirus 10,psittacine adenovirus 10,,,,,1,1,1,1
+psittacine adenovirus 8,psittacine adenovirus 8,,,,,1,1,1,1
+psittacine adenovirus 9,psittacine adenovirus 9,,,,,1,1,1,1
+robinz virus RP_1123,robinz virus RP_1123,GCA_031280485.1,1929.0,34.5,,0,0,0,1
+robinz virus RP_1124,robinz virus RP_1124,GCA_031280535.1,1933.0,34.5,,0,0,0,1
+robinz virus RP_116,robinz virus RP_116,GCA_031280745.1,2213.0,50.0,,0,0,0,1
+robinz virus RP_1170,robinz virus RP_1170,GCF_029886335.1,1846.0,39.0,2.0,0,0,0,0
+robinz virus RP_199,robinz virus RP_199,GCA_031280765.1,2195.0,55.5,,0,0,0,1
+robinz virus RP_212,robinz virus RP_212,GCA_031280925.1,2114.0,48.5,,0,0,0,1
+robinz virus RP_244,robinz virus RP_244,GCA_031281065.1,1790.0,44.5,,0,0,0,1
+robinz virus RP_258,robinz virus RP_258,GCA_031280985.1,2083.0,44.5,,0,0,0,1
+robinz virus RP_259,robinz virus RP_259,GCF_029886275.1,1916.0,40.5,2.0,0,0,0,0
+robinz virus RP_326,robinz virus RP_326,GCA_031280835.1,1982.0,48.0,,0,0,0,1
+robinz virus RP_327,robinz virus RP_327,GCA_031281095.1,2573.0,53.5,,0,0,0,1
+robinz virus RP_334,robinz virus RP_334,GCA_031281165.1,2458.0,49.0,,0,0,0,1
+robinz virus RP_340,robinz virus RP_340,GCA_031281185.1,2263.0,45.5,,0,0,0,1
+robinz virus RP_369,robinz virus RP_369,GCA_031280595.1,2215.0,52.0,,0,0,0,1
+robinz virus RP_377,robinz virus RP_377,GCA_031280875.1,2194.0,50.5,,0,0,0,1
+robinz virus RP_380,robinz virus RP_380,GCA_031280605.1,2219.0,48.0,,0,0,0,1
+robinz virus RP_382,robinz virus RP_382,GCA_031281015.1,2224.0,50.0,,0,0,0,1
+robinz virus RP_384,robinz virus RP_384,GCA_031280655.1,2218.0,52.0,,0,0,0,1
+robinz virus RP_385,robinz virus RP_385,,,,,1,1,1,1
+robinz virus RP_386,robinz virus RP_386,GCA_031281355.1,2207.0,52.0,,0,0,0,1
+robinz virus RP_389,robinz virus RP_389,GCA_031281035.1,2212.0,49.5,,0,0,0,1
+robinz virus RP_390,robinz virus RP_390,GCA_031280895.1,2141.0,53.0,,0,0,0,1
+robinz virus RP_393,robinz virus RP_393,GCA_031280735.1,2190.0,54.5,,0,0,0,1
+robinz virus RP_404,robinz virus RP_404,GCA_031281205.1,2094.0,47.5,,0,0,0,1
+robinz virus RP_428,robinz virus RP_428,GCA_031281235.1,2067.0,47.0,,0,0,0,1
+robinz virus RP_429,robinz virus RP_429,GCA_031281295.1,2068.0,50.5,,0,0,0,1
+robinz virus RP_493,robinz virus RP_493,GCF_029886285.1,1939.0,49.0,2.0,0,0,0,0
+robinz virus RP_513,robinz virus RP_513,GCA_031281325.1,1781.0,34.0,,0,0,0,1
+robinz virus RP_526,robinz virus RP_526,GCF_029886295.1,1806.0,38.5,2.0,0,0,0,0
+robinz virus RP_584,robinz virus RP_584,GCF_029886305.1,1882.0,42.0,2.0,0,0,0,0
+robinz virus RP_620,robinz virus RP_620,GCF_029886315.1,1930.0,34.5,2.0,0,0,0,0
+robinz virus RP_736,robinz virus RP_736,GCF_029886325.1,1829.0,39.5,2.0,0,0,0,0
+robinz virus RP_954,robinz virus RP_954,GCA_031280465.1,1914.0,40.5,,0,0,0,1
+robinz virus RP_99,robinz virus RP_99,GCA_031280575.1,2257.0,51.5,,0,0,0,1
+shorebird astrovirus,shorebird astrovirus,,,,,1,1,1,1
+shorebird coronavirus,shorebird coronavirus,,,,,1,1,1,1
+south polar skua adenovirus-6,south polar skua adenovirus-6,,,,,1,1,1,1
+ssDNA virus sp.,ssDNA virus sp.,,,,,1,1,1,1
+tawny owl-associated circovirus,tawny owl-associated circovirus,GCA_031314345.1,1745.0,47.5,2.0,0,0,0,0
+trumpeter swan calicivirus,trumpeter swan calicivirus,GCA_031321585.1,8368.0,52.0,2.0,0,0,0,0
+unclassified avian avulavirus strain musk lorikeet/Melbourne/ML22-141263/2014,unclassified avian avulavirus strain musk lorikeet/Melbourne/ML22-141263/2014,,,,,1,1,1,1
+unidentified Avipoxvirus,unidentified Avipoxvirus,,,,,1,1,1,1
+unidentified adenovirus,unidentified adenovirus,GCA_024750155.1,35938.0,55.0,15.0,0,0,0,0
+unidentified influenza virus,unidentified influenza virus,,,,,1,1,1,1
