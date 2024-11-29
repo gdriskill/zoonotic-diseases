@@ -1,0 +1,13 @@
+combined_output.csv:
+- OHE for virus traits
+- must preprocess for autoencoder
+    - remove GA column
+    - deal with null columns
+
+virus_traits_all-OHE.csv
+- all virus traits with OHE
+- missing quantatative variables are assigned 0 and then 
+    feature "<variable>_missing" are assigned 1
+
+virus_traits_cat-OHE.csv
+- all categorical virus traits
