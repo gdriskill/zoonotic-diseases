@@ -1,0 +1,23 @@
+name: avian_zoonosis
+channels:
+    - conda-forge
+    - pytorch
+    - nvidia
+dependencies:
+    - ipykernel
+    - matplotlib
+    - numpy
+    - pandas
+    - python=3.12
+    - pytorch
+    - pytorch-cuda=12.1  # Optional depending on GPU
+    - pip
+    - tqdm
+    - scikit-learn
+    - pip:
+        - torch_geometric
+        - torch_scatter
+        - torch_sparse
+        - torch_cluster 
+        - torch_spline_conv 
+        - https://data.pyg.org/whl/torch-2.5.0+cu121.html  # If using CPU, use -f https://data.pyg.org/whl/torch-2.2.0+cpu.html
