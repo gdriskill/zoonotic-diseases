@@ -10,7 +10,6 @@ from AutoEncoder import AutoEncoder
 
 class CustomDataset(Dataset):
     def __init__(self, X, transform=None):
-      # self.data = pd.read_csv(csv_path)
       self.transform=transform
       self.X = torch.tensor(X, dtype=torch.float32)  
         
@@ -38,9 +37,9 @@ def train_model(dataloader, model: AutoEncoder, lr: int, wd: int, epoches: int, 
    optimizer = optim.Adagrad(model.parameters(), lr=lr, weight_decay=wd)
 
    # TODO choose loss
-   loss_function = nn.MSELoss()
+   #loss_function = nn.MSELoss()
 
-   # loss_function = torch.nn.CosineEmbeddingLoss(reduction='none')
+   loss_function = torch.nn.CosineEmbeddingLoss(reduction='mean')
    losses = []
    
    for epoch in range(epoches):
@@ -48,15 +47,14 @@ def train_model(dataloader, model: AutoEncoder, lr: int, wd: int, epoches: int, 
 
       for batch, _ in dataloader:
          output = model(batch)
-         loss = loss_function(output, batch)
-         
+         target = torch.ones(output.size(0))
+         loss = loss_function(output, batch, target)
+
          epoch_loss += loss
 
          optimizer.zero_grad()
          loss.backward()
          optimizer.step()
-
-      # print(batch)
 
       avg_loss = epoch_loss / len(batch[0])  #number of rows in the tensor
       losses.append(avg_loss)
@@ -69,12 +67,13 @@ def test_model(dataloader, model: AutoEncoder):
    with torch.no_grad():  
       total_loss = 0
       # TODO choose loss
-      # loss_function = torch.nn.CosineEmbeddingLoss(reduction='none')
-      loss_function = nn.MSELoss()
+      loss_function = torch.nn.CosineEmbeddingLoss(reduction='mean')
+      #loss_function = nn.MSELoss()
 
       for batch, _ in dataloader:
          output = model(batch) 
-         loss = loss_function(output, batch) 
+         target = torch.ones(output.size(0))
+         loss = loss_function(output, batch, target) 
          total_loss += loss.item()
 
       avg_loss = total_loss / len(batch[0])
@@ -111,7 +110,6 @@ def main(file):
    # print()
 
    autoencoder = AutoEncoder(input_size=train_dataset.__getitem__(0)[0].size(0))
-
    # Train model 
    autoencoder, train_losses = train_model(train_dataloader, autoencoder, lr=learning_rate, wd=weighted_decay, epoches=epoches)
 
@@ -120,7 +118,7 @@ def main(file):
    print(f"Test Loss : {test_loss:.4f}")
 
    # Save the model
-   torch.save(autoencoder.state_dict(), "autoencoder_model-bird_traits.pth")
+   torch.save(autoencoder.state_dict(), "./models/autoencoder_model-bird_traits.pth")
 
 
 #seeing if dataloader works
