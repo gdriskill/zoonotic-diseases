@@ -1,4 +1,4 @@
-Species,Virus Tax ID,Host,Host Tax ID,Total Count,GenBank Count,RefSeq Count,Completed Count
+Species,pathogenID,Host,hostID,Total Count,GenBank Count,RefSeq Count,Completed Count
 Orthobunyavirus matruhense,3052419,Curruca curruca,43163,6,3,0,3
 Orthobunyavirus thimiriense,3052449,Ardeola grayii,1158920,6,3,0,3
 Orthonairovirus abuminaense,2843618,Streptopelia turtur,177155,6,3,0,6
