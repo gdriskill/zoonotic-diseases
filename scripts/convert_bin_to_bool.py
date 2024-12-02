@@ -20,3 +20,13 @@ hosts_df[hosts_columns_to_convert] = hosts_df[hosts_columns_to_convert].astype(b
 
 hosts_df.to_csv("../data/divide_and_conquer/final_mammal_features_bool.csv", index=False)
 
+#avian viruses
+hosts_df = pd.read_csv("../data/viruses/virus_traits.csv")
+hosts_columns_to_convert=[
+"envelope","circular","double_stranded","rna","segmented","positive_sense","negative_sense","budding",
+"lysis","release_other","cytoplasm","CE_clathrin","CE_receptor","CE_glycoproteins","CE_other"
+]
+
+hosts_df[hosts_columns_to_convert] = hosts_df[hosts_columns_to_convert].astype(bool)
+
+hosts_df.to_csv("../data/viruses/virus_traits_bool.csv", index=False)
