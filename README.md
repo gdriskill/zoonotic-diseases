@@ -11,13 +11,13 @@ To set up the necessary environment, create a Conda environment using the enviro
 
 Next, activate the newly created environment.
 
-```conda activate avian_zoonosis``
+```conda activate avian_zoonosis```
 
 ## Usage
 To train and evaluate the model on the mammalian dataset used in Wardeh et al, run the code in scripts/gnn/train_eval-dfencoder.ipynb.
 
 To train and evaluate the model on the avian dataset we created, run the code in scripts/gnn/train_eval_avian-dfencoder.ipynb. This will also ouput the top most likely predicted previously unobserved interactions.
 
-To analyze predicted interactions by calculating the average distance of a host to the known hosts of a virus and the average distance of a host to the rest of the avian species, run scripts/calculate_avg_distance.py
+To analyze predicted interactions by calculating the average distance of a host to the known hosts of a virus and the average distance of a host to the rest of the avian species, run scripts/calculate_avg_distance.py:
 
 ``python .\calculate_avg_distance.py --virus_taxid <virus taxid> --bird_taxid <avian host taxid>``
