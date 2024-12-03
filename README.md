@@ -22,7 +22,7 @@ The dataset for avian-virus interactions is found under `data/interactions/NCBI`
 The dataset for avian traits is found under `data/hosts/birds`.\
 The dataset for virus traits is found under `data/viruses`.
 
-To analyze predicted interactions by calculating the average distance of a host to the known hosts of a virus and the average distance of a host to the rest of the avian species, run scripts/calculate_avg_distance.py:
+To analyze predicted interactions by calculating the average distance of a host to the known hosts of a virus and the average distance of a host to the rest of the avian species, run data/hosts/bird/calculate_avg_distance.py:
 
 ``python .\calculate_avg_distance.py --virus_taxid <virus taxid> --bird_taxid <avian host taxid>``
 
